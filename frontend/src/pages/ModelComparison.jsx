@@ -23,6 +23,13 @@ const METRIC_OPTS  = [
   { key: 'recall',    label: 'Recall'     },
 ];
 
+// Helper to safely get metric value
+const getMetricVal = (m, key) => {
+  if (typeof m[key] === 'number') return m[key];
+  if (m[`cv_${key}`] && typeof m[`cv_${key}`].mean === 'number') return m[`cv_${key}`].mean;
+  return 0;
+};
+
 function colourFor(v) {
   const pct = v * 100;
   return pct >= 75 ? '#3fb950' : pct >= 55 ? '#d29922' : '#f85149';
@@ -193,7 +200,7 @@ export default function ModelComparison() {
   const barData = metrics.map(m => ({
     name:     MODEL_META[m.model]?.short ?? m.model,
     fullName: m.model,
-    value:    m[activeMetric],
+    value:    getMetricVal(m, activeMetric),
     color:    MODEL_META[m.model]?.color ?? '#8b949e',
   }));
 
@@ -240,10 +247,10 @@ export default function ModelComparison() {
           </div>
         </div>
         {[
-          { l: 'ROC-AUC',  v: bestModel.roc_auc   },
-          { l: 'Accuracy', v: bestModel.accuracy   },
-          { l: 'F1 Score', v: bestModel.f1_score   },
-          { l: 'Precision',v: bestModel.precision  },
+          { l: 'ROC-AUC',  v: getMetricVal(bestModel, 'roc_auc')   },
+          { l: 'Accuracy', v: getMetricVal(bestModel, 'accuracy')   },
+          { l: 'F1 Score', v: getMetricVal(bestModel, 'f1_score')   },
+          { l: 'Precision',v: getMetricVal(bestModel, 'precision')  },
         ].map(({ l, v }) => (
           <div key={l} style={{
             background: 'rgba(0,0,0,0.2)', borderRadius: 10, padding: '10px 20px', textAlign: 'center',
@@ -289,11 +296,11 @@ export default function ModelComparison() {
                     </span>
                   </div>
                 </td>
-                <MetricCell value={m.accuracy}  />
-                <MetricCell value={m.precision} />
-                <MetricCell value={m.recall}    />
-                <MetricCell value={m.f1_score}  />
-                <MetricCell value={m.roc_auc}   />
+                <MetricCell value={getMetricVal(m, 'accuracy')}  />
+                <MetricCell value={getMetricVal(m, 'precision')} />
+                <MetricCell value={getMetricVal(m, 'recall')}    />
+                <MetricCell value={getMetricVal(m, 'f1_score')}  />
+                <MetricCell value={getMetricVal(m, 'roc_auc')}   />
               </tr>
             ))}
           </tbody>
@@ -436,7 +443,7 @@ export default function ModelComparison() {
 
       <SectionCard
         title={`${MODEL_META[cmModel.model]?.icon ?? ''} ${cmModel.model}`}
-        sub={`AUC ${cmModel.roc_auc.toFixed(3)} · F1 ${cmModel.f1_score.toFixed(3)} · Accuracy ${cmModel.accuracy.toFixed(3)}`}
+        sub={`AUC ${getMetricVal(cmModel, 'roc_auc').toFixed(3)} · F1 ${getMetricVal(cmModel, 'f1_score').toFixed(3)} · Accuracy ${getMetricVal(cmModel, 'accuracy').toFixed(3)}`}
       >
         <ConfusionMatrix cm={cmModel.confusion_matrix} classes={classes} modelName={cmModel.model} />
       </SectionCard>
