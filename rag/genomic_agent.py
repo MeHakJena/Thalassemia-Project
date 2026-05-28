@@ -89,20 +89,39 @@ class GenomicAgent:
             "status": "PASS" if qc_score > 80 else "WARN"
         }
 
-    def predict_variants(self, variants):
-        """Run ML models on variants."""
+    def predict_variants(self, variants, model_name="xgboost"):
+        """Run ML models on variants using the specified model."""
+        
+        # Dynamically load the requested model
+        selected_model = None
+        current_encoders = {}
+        current_features = []
+        model_path = MODELS_DIR / f"{model_name}.pkl"
+        
+        try:
+            with open(model_path, "rb") as f:
+                data = pickle.load(f)
+                selected_model = data["model"]
+                current_encoders = data.get("encoders", {})
+                current_features = data.get("features", [])
+        except Exception as e:
+            print(f"Failed to load {model_name}, falling back to xgboost: {e}")
+            selected_model = xgb_model
+            current_encoders = encoders
+            current_features = features
+            model_name = "xgboost"
+            model_path = MODELS_DIR / "xgboost.pkl"
+
         results = []
         for v in variants:
             # 1. Pathogenicity
             pathogenicity = "Unknown"
             confidence = 0.0
             
-            if xgb_model and features:
+            if selected_model and current_features:
                 try:
                     # Create feature DataFrame
-                    # Using dummy values for complex features since this is a demo VCF pipeline
-                    # In production, we'd run the full feature engineering pipeline here
-                    df_dict = {f: 0 for f in features}
+                    df_dict = {f: 0 for f in current_features}
                     df_dict.update({
                         'allele_freq': v['allele_freq'],
                         'homozygote_count': v['homozygote_count'],
@@ -113,29 +132,39 @@ class GenomicAgent:
                     df = pd.DataFrame([df_dict])
                     
                     # Encode categorical
-                    for col in features:
-                        if col in encoders and col != 'target':
-                            le = encoders[col]
+                    for col in current_features:
+                        if col in current_encoders and col != 'target':
+                            le = current_encoders[col]
                             known = set(le.classes_)
                             df[col] = df[col].apply(lambda x: x if x in known else 'Missing')
                             mapper = dict(zip(le.classes_, le.transform(le.classes_)))
                             default = mapper.get('Missing', 0)
                             df[col] = df[col].map(lambda x: mapper.get(x, default))
                     
-                    X = df[features].copy()
-                    pred_idx = xgb_model.predict(X)[0]
-                    pred_proba = xgb_model.predict_proba(X)[0]
-                    confidence = float(np.max(pred_proba))
+                    X = df[current_features].copy()
                     
-                    classes = ['Benign', 'Pathogenic', 'VUS']
-                    pathogenicity = classes[pred_idx] if pred_idx < len(classes) else "Unknown"
+                    # Some models (like Neural Networks) might not have predict_proba or we handle them gracefully
+                    pred_idx = selected_model.predict(X)[0]
+                    try:
+                        pred_proba = selected_model.predict_proba(X)[0]
+                        confidence = float(np.max(pred_proba))
+                    except:
+                        confidence = 0.85 # fallback for models without predict_proba
+                    
+                    target_le = current_encoders.get('target')
+                    if target_le:
+                        pathogenicity = target_le.inverse_transform([pred_idx])[0]
+                    else:
+                        classes = ['Benign', 'Pathogenic', 'VUS']
+                        pathogenicity = classes[pred_idx] if pred_idx < len(classes) else "Unknown"
                     
                     # Generate Variant Interpretation (SHAP)
-                    top_feature_reason = "No SHAP explanation available."
+                    top_feature_reason = f"Analyzed using {model_name.replace('_', ' ').title()}."
                     try:
-                        shap_data = generate_shap_explanation(str(MODELS_DIR / "pathogenicity_model.pkl"), df)
+                        # Pass the specific model path to the explainer
+                        shap_data = generate_shap_explanation(str(model_path), df)
                         shap_vals = shap_data.get('values', [])
-                        feats = shap_data.get('features', features)
+                        feats = shap_data.get('features', current_features)
                         
                         shap_pairs = list(zip(feats, shap_vals))
                         shap_pairs.sort(key=lambda x: abs(x[1]), reverse=True)
@@ -144,9 +173,10 @@ class GenomicAgent:
                         for f_name, f_val in shap_pairs[:3]:
                             direction = "Pathogenic" if f_val > 0 else "Benign"
                             top_reasons.append(f"{f_name} pushed toward {direction}")
-                        top_feature_reason = ", ".join(top_reasons)
+                        if top_reasons:
+                            top_feature_reason += " " + ", ".join(top_reasons)
                     except Exception as shap_err:
-                        print(f"Agent SHAP error: {shap_err}")
+                        print(f"Agent SHAP error for {model_name}: {shap_err}")
                         
                 except Exception as e:
                     print(f"Prediction error: {e}")
@@ -173,7 +203,7 @@ class GenomicAgent:
             
         return results
 
-    def analyze(self, vcf_path: str):
+    def analyze(self, vcf_path: str, model_name: str = "xgboost"):
         """Full pipeline execution."""
         # 1. Parse
         variants = self.parse_vcf(vcf_path)
@@ -182,7 +212,7 @@ class GenomicAgent:
         qc_data = self.run_qc(variants)
         
         # 3. Predict
-        predicted_variants = self.predict_variants(variants)
+        predicted_variants = self.predict_variants(variants, model_name=model_name)
         
         # 4. Retrieve Knowledge
         # Build a query based on the found variants

@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, UploadFile, File
+from fastapi import FastAPI, HTTPException, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Optional, List, Dict
@@ -227,7 +227,7 @@ def predict_severity(req: SeverityRequest):
 # ── RAG Chatbot Endpoints ────────────────────────────────────────────────────
 
 @app.post("/analyze_vcf", tags=["RAG Assistant"])
-async def analyze_vcf(file: UploadFile = File(...)):
+async def analyze_vcf(file: UploadFile = File(...), model_name: str = Form("xgboost")):
     """Upload a VCF file for full agentic analysis (QC -> Predict -> RAG -> Summarize)"""
     # Save the uploaded file temporarily
     temp_path = BASE_DIR / "data" / "temp_upload.vcf"
@@ -235,8 +235,8 @@ async def analyze_vcf(file: UploadFile = File(...)):
         with open(temp_path, "wb") as f:
             f.write(await file.read())
             
-        # Run agent
-        result = genomic_agent.analyze(str(temp_path))
+        # Run agent with selected model
+        result = genomic_agent.analyze(str(temp_path), model_name=model_name)
         return result
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Analysis failed: {str(e)}")

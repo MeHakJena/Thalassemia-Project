@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown';
 
 export default function ChatAssistant() {
   const [file, setFile] = useState(null);
+  const [selectedModel, setSelectedModel] = useState('xgboost');
   const [analyzing, setAnalyzing] = useState(false);
   const [analysisResult, setAnalysisResult] = useState(null);
   
@@ -55,7 +56,7 @@ export default function ChatAssistant() {
     }]);
 
     try {
-      const result = await analyzeVcf(file);
+      const result = await analyzeVcf(file, selectedModel);
       setAnalysisResult(result);
       
       setMessages(prev => [...prev, {
@@ -166,24 +167,46 @@ export default function ChatAssistant() {
             )}
           </div>
           
-          <div style={{ marginTop: 12, display: 'flex', gap: 8 }}>
-            <button 
-              className="btn btn-primary" 
-              style={{ flex: 1 }}
-              disabled={!file || analyzing}
-              onClick={startAnalysis}
+          <div style={{ marginTop: 12, display: 'flex', flexDirection: 'column', gap: 8 }}>
+            <select
+              value={selectedModel}
+              onChange={(e) => setSelectedModel(e.target.value)}
+              disabled={analyzing}
+              style={{
+                padding: '8px 12px',
+                borderRadius: 8,
+                border: '1px solid var(--border)',
+                backgroundColor: 'var(--surface)',
+                color: 'var(--text-primary)',
+                fontSize: '0.9rem',
+                cursor: analyzing ? 'not-allowed' : 'pointer'
+              }}
             >
-              {analyzing ? <Loader2 size={16} className="spin" /> : 'Run Analysis'}
-            </button>
-            <a 
-              href={getSampleVcfUrl()} 
-              download 
-              className="btn btn-secondary"
-              title="Download Demo VCF"
-              style={{ padding: '8px 12px' }}
-            >
-              <Download size={16} />
-            </a>
+              <option value="xgboost">XGBoost (Recommended)</option>
+              <option value="random_forest">Random Forest</option>
+              <option value="lightgbm">LightGBM</option>
+              <option value="mlp_neural_network">Neural Network (MLP)</option>
+              <option value="logistic_regression">Logistic Regression</option>
+            </select>
+            <div style={{ display: 'flex', gap: 8 }}>
+              <button 
+                className="btn btn-primary" 
+                style={{ flex: 1 }}
+                disabled={!file || analyzing}
+                onClick={startAnalysis}
+              >
+                {analyzing ? <Loader2 size={16} className="spin" /> : 'Run Analysis'}
+              </button>
+              <a 
+                href={getSampleVcfUrl()} 
+                download 
+                className="btn btn-secondary"
+                title="Download Demo VCF"
+                style={{ padding: '8px 12px' }}
+              >
+                <Download size={16} />
+              </a>
+            </div>
           </div>
         </div>
 

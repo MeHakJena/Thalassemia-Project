@@ -61,9 +61,10 @@ export const predictSeverity = (payload) => post('/predict_severity', payload);
  */
 export const getModelComparison = () => get('/model_comparison');
 
-export const analyzeVcf = async (file) => {
+export const analyzeVcf = async (file, modelName = "xgboost") => {
   const formData = new FormData();
   formData.append('file', file);
+  formData.append('model_name', modelName);
   const response = await fetch(`${BASE_URL}/analyze_vcf`, {
     method: 'POST',
     body: formData
