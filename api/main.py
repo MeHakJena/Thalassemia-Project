@@ -19,6 +19,7 @@ from models.explainability import generate_shap_explanation
 from models.severity_model import predict_severity as get_severity
 from rag.genomic_agent import agent as genomic_agent
 from rag.llm import llm_service
+from rag.retriever import get_retriever
 
 app = FastAPI(
     title="GeneTrustAI-Thal API",
@@ -252,7 +253,20 @@ class ChatRequest(BaseModel):
 def chat(req: ChatRequest):
     """Ask follow-up questions to the LLM"""
     try:
-        answer = llm_service.answer_question(req.message, req.context, req.history)
+        # 1. Get the screen text sent by the frontend
+        screen_context = req.context
+        
+        # 2. Automatically query the local Vector DB (ChromaDB) for clinical knowledge
+        retriever = get_retriever()
+        kb_context = retriever.retrieve_context(req.message, n_results=3)
+        
+        # 3. Combine them so the AI knows what's on the screen AND the clinical facts
+        combined_context = (
+            f"--- SCREEN CONTENT (What the user is looking at) ---\n{screen_context}\n\n"
+            f"--- CLINICAL KNOWLEDGE BASE (Vector DB) ---\n{kb_context}\n"
+        )
+        
+        answer = llm_service.answer_question(req.message, combined_context, req.history)
         return {"response": answer}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Chat failed: {str(e)}")
