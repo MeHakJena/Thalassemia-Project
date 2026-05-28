@@ -112,16 +112,17 @@ class ClinicalLLM:
                 f"PubMed Recent Literature:\n{live_api_data.get('pubmed', 'None')}\n\n"
                 f"MedlinePlus Summary:\n{live_api_data.get('medlineplus', 'None')}\n\n"
                 f"HPO Phenotype Terms:\n{live_api_data.get('hpo', 'None')}\n\n"
-                f"PharmGKB Guidelines:\n{live_api_data.get('pharmgkb', 'None')}\n\n"
+                f"Monarch Initiative (Disease Ontology):\n{live_api_data.get('monarch', 'None')}\n\n"
+                f"ClinGen Allele Registry:\n{live_api_data.get('clingen', 'None')}\n\n"
             )
 
         user_prompt += (
             "Structure the response with:\n"
             "1. Overall Finding (1-2 sentences)\n"
-            "2. Variant Details (brief explanation of the mutations found)\n"
+            "2. Variant Details (brief explanation of the mutations found, mentioning ClinGen Canonical IDs if available)\n"
             "3. Variant Interpretation (Explain *why* the model made this prediction using the provided 'interpretation_reasoning' SHAP features)\n"
-            "4. Clinical Implications (severity, expected phenotype using HPO terms)\n"
-            "5. Pharmacogenomics & Management (mention relevant PharmGKB/TIF guidelines)\n"
+            "4. Clinical Implications (severity, expected phenotype using HPO and Monarch Initiative terms)\n"
+            "5. Pharmacogenomics & Management (mention relevant PharmGKB/TIF/GeneReviews guidelines)\n"
             "6. Recent Literature (Cite 1-2 relevant PubMed papers if available)\n"
             "7. Pipeline Confidence (based on QC and model confidence)\n\n"
             "IMPORTANT: For every external fact or literature cited, you MUST include a clickable markdown link using the 'Source URL' provided in the Live External API Data (e.g., [Title of Article](https://pubmed.ncbi...)). Do not just print the raw URL."

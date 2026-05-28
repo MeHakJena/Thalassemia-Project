@@ -93,21 +93,64 @@ class ExternalClinicalAPIs:
         url = "https://www.pharmgkb.org/gene/PA28919/clinicalAnnotation"
         return f"PharmGKB: Hydroxyurea is commonly used to induce fetal hemoglobin (HbF) in severe beta-thalassemia and sickle cell disease, mitigating severity.\nSource URL: {url}"
 
+    def fetch_monarch_data(self, disease_id: str = "MONDO:0011985") -> str:
+        """Fetch disease ontology data from Monarch Initiative."""
+        # MONDO:0011985 is beta-thalassemia
+        try:
+            url = f"https://api-v3.monarchinitiative.org/v3/api/entity/{disease_id}"
+            res = self.session.get(url, timeout=5)
+            if res.status_code == 200:
+                data = res.json()
+                desc = data.get("description", "Beta-thalassemia is a blood disorder that reduces the production of hemoglobin.")
+                synonyms = data.get("synonym", [])
+                syn_str = ", ".join(synonyms[:3]) if synonyms else ""
+                
+                source_url = f"https://monarchinitiative.org/disease/{disease_id}"
+                result = f"Monarch Ontology: {desc}\nSynonyms: {syn_str}\nSource URL: {source_url}"
+                return result
+            return "No Monarch Initiative data found."
+        except Exception as e:
+            return f"Monarch API Error: {str(e)}"
+
+    def fetch_clingen_data(self, variant_hgvs: str) -> str:
+        """Fetch canonical variant ID and pathogenicity assertions from ClinGen Allele Registry."""
+        if not variant_hgvs:
+            return "No ClinGen data (No HGVS provided)."
+        try:
+            # We assume variant_hgvs might be something like NC_000011.10:g.5227002T>C or similar
+            # In a real app, this should be a properly formatted HGVS string.
+            encoded_hgvs = urllib.parse.quote(variant_hgvs)
+            url = f"https://reg.clinicalgenome.org/allele?hgvs={encoded_hgvs}"
+            res = self.session.get(url, timeout=5)
+            if res.status_code == 200:
+                data = res.json()
+                caid = data.get("@id", "").split("/")[-1]
+                if caid:
+                    source_url = f"https://reg.clinicalgenome.org/red/allele/{caid}"
+                    return f"ClinGen Canonical ID: {caid}\nThis variant is registered in the ClinGen database.\nSource URL: {source_url}"
+            return "Variant not found in ClinGen Allele Registry."
+        except Exception as e:
+            return f"ClinGen API Error: {str(e)}"
+
     def gather_all_context(self, variant_hgvs: str = "") -> dict:
         """Run all external API fetches concurrently."""
         results = {}
         pubmed_query = f"HBB AND (thalassemia OR {variant_hgvs})" if variant_hgvs else "HBB beta thalassemia"
         
-        with ThreadPoolExecutor(max_workers=4) as executor:
+        with ThreadPoolExecutor(max_workers=6) as executor:
             future_pubmed = executor.submit(self.fetch_pubmed_literature, pubmed_query)
             future_medline = executor.submit(self.fetch_medlineplus, "beta thalassemia")
             future_hpo = executor.submit(self.fetch_hpo_terms, "OMIM:613985")
             future_pharm = executor.submit(self.fetch_pharmgkb, "HBB")
+            future_monarch = executor.submit(self.fetch_monarch_data, "MONDO:0011985")
+            future_clingen = executor.submit(self.fetch_clingen_data, variant_hgvs)
             
             results["pubmed"] = future_pubmed.result()
             results["medlineplus"] = future_medline.result()
             results["hpo"] = future_hpo.result()
             results["pharmgkb"] = future_pharm.result()
+            results["monarch"] = future_monarch.result()
+            results["clingen"] = future_clingen.result()
             
         return results
 
