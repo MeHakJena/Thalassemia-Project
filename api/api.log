@@ -138,3 +138,19 @@ INFO:     Application startup complete.
 ✓ Loaded model from /Users/mehakjena/Desktop/Thalassemia/models/saved_models/pathogenicity_model.pkl
 ✓ Loaded real genomic model (trained on 1,929 HBB variants)
 INFO:     127.0.0.1:58813 - "POST /predict_pathogenicity HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'rag/genomic_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [70394]
+INFO:     Started server process [71814]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'rag/llm.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [71814]
+INFO:     Started server process [71847]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

@@ -107,8 +107,9 @@ class ClinicalLLM:
             "Structure the response with:\n"
             "1. Overall Finding (1-2 sentences)\n"
             "2. Variant Details (brief explanation of the mutations found)\n"
-            "3. Clinical Implications (severity, expected phenotype)\n"
-            "4. Pipeline Confidence (based on QC and model confidence)"
+            "3. Variant Interpretation (Explain *why* the model made this prediction using the provided 'interpretation_reasoning' SHAP features)\n"
+            "4. Clinical Implications (severity, expected phenotype)\n"
+            "5. Pipeline Confidence (based on QC and model confidence)"
         )
         
         return self._call_llm(system_prompt, user_prompt)

@@ -9,6 +9,7 @@ from cyvcf2 import VCF
 from rag.retriever import get_retriever
 from .llm import llm_service
 from models.severity_model import predict_severity
+from models.explainability import generate_shap_explanation
 
 # Try to import the XGBoost model for pathogenicity
 import pickle
@@ -127,6 +128,25 @@ class GenomicAgent:
                     
                     classes = ['Benign', 'Pathogenic', 'VUS']
                     pathogenicity = classes[pred_idx] if pred_idx < len(classes) else "Unknown"
+                    
+                    # Generate Variant Interpretation (SHAP)
+                    top_feature_reason = "No SHAP explanation available."
+                    try:
+                        shap_data = generate_shap_explanation(str(MODELS_DIR / "pathogenicity_model.pkl"), df)
+                        shap_vals = shap_data.get('values', [])
+                        feats = shap_data.get('features', features)
+                        
+                        shap_pairs = list(zip(feats, shap_vals))
+                        shap_pairs.sort(key=lambda x: abs(x[1]), reverse=True)
+                        
+                        top_reasons = []
+                        for f_name, f_val in shap_pairs[:3]:
+                            direction = "Pathogenic" if f_val > 0 else "Benign"
+                            top_reasons.append(f"{f_name} pushed toward {direction}")
+                        top_feature_reason = ", ".join(top_reasons)
+                    except Exception as shap_err:
+                        print(f"Agent SHAP error: {shap_err}")
+                        
                 except Exception as e:
                     print(f"Prediction error: {e}")
                     
@@ -146,6 +166,8 @@ class GenomicAgent:
             v_res["pathogenicity"] = pathogenicity
             v_res["confidence"] = confidence
             v_res["predicted_severity"] = severity
+            if 'top_feature_reason' in locals():
+                v_res["interpretation_reasoning"] = top_feature_reason
             results.append(v_res)
             
         return results
