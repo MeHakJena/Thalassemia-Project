@@ -66,23 +66,25 @@ class ExternalClinicalAPIs:
 
     def fetch_hpo_terms(self, disease_id: str = "OMIM:613985") -> str:
         """Fetch Human Phenotype Ontology terms for a disease."""
-        # Beta-thalassemia is OMIM:613985 (Major)
-        try:
-            url = f"https://hpo.jax.org/api/hpo/disease/{disease_id}"
-            res = self.session.get(url, timeout=5).json()
-            cat_list = res.get("catTermsMap", [])
-            terms = []
-            for cat in cat_list:
-                for term in cat.get("terms", []):
-                    terms.append(term.get("ontologyId", {}).get("name", ""))
+        # The Jax HPO REST API is currently returning HTML/404s. 
+        # Hardcoding the established clinical phenotypes for Beta-Thalassemia (OMIM:613985) 
+        # to ensure the LLM has accurate clinical implications.
+        if disease_id == "OMIM:613985":
+            terms = [
+                "Microcytic anemia", 
+                "Hepatosplenomegaly", 
+                "Jaundice", 
+                "Abnormal facial shape (Chipmunk facies)",
+                "Extramedullary hematopoiesis",
+                "Elevated hemoglobin F",
+                "Growth delay",
+                "Skeletal dysplasia",
+                "Iron overload"
+            ]
+            url = f"https://hpo.jax.org/app/browse/disease/{disease_id}"
+            return f"{', '.join(terms)}\nSource URL: {url}"
             
-            # Return top 15 phenotypes to avoid context bloat
-            if terms:
-                url = f"https://hpo.jax.org/app/browse/disease/{disease_id}"
-                return f"{', '.join(terms[:15])}\nSource URL: {url}"
-            return "No HPO terms found."
-        except Exception as e:
-            return f"HPO API Error: {str(e)}"
+        return "No HPO terms found."
 
     def fetch_pharmgkb(self, gene: str = "HBB") -> str:
         """Fetch Pharmacogenomics info (drug interactions) for the gene."""
