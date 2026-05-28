@@ -1,0 +1,261 @@
+gene,mutation,severity,mutation_class,disease_type,dbsnp_id
+HBB,HBB:c.59A>G,Intermedia,beta+,Beta-thalassemia,rs33972047
+HBB,HBB:c.79G>A,Intermedia,beta+,Beta-thalassemia,rs33950507
+HBB,HBB:c.82G>T,Intermedia,beta+,Beta-thalassemia,rs35424040
+HBB,HBB:c.86T>G,Intermedia,beta+,Beta-thalassemia,rs33916412
+HBB,HBB:c.92G>C,Major,beta0,Beta-thalassemia,rs33960103
+HBB,HBB:c.182T>A,Intermedia,beta+,Beta-thalassemia,rs33931779
+HBB,HBB:c.332T>C,Intermedia,beta+,Beta-thalassemia,rs35256489
+HBB,HBB:c.344T>C,Minor,,Beta-thalassemia,rs36015961
+HBB,HBB:c.347C>A,Intermedia,beta+,Beta-thalassemia,rs35485099
+HBB,HBB:c.380T>G,Intermedia,beta+,Beta-thalassemia,rs33925391
+HBB,HBB:c.-151C>T,Intermedia,beta+,Beta-thalassemia,rs63751208
+HBB,HBB:c.[295G>A;98T>A],Major,beta0,Beta-thalassemia,
+HBB,HBB:c.-142C>T,Intermedia,beta+,Beta-thalassemia,rs34883338
+HBB,HBB:c.-140C>T,Intermedia,beta+,Beta-thalassemia,rs34999973
+HBB,HBB:c.-138C>A,Intermedia,beta+,Beta-thalassemia,rs33944208
+HBB,HBB:c.-138C>T,Intermedia,beta+,Beta-thalassemia,rs33944208
+HBB,HBB:c.-137C>A,Intermedia,beta+,Beta-thalassemia,rs33941377
+HBB,HBB:c.-137C>G,Intermedia,beta+,Beta-thalassemia,rs33941377
+HBB,HBB:c.-137C>T,Intermedia,beta+,Beta-thalassemia,rs33941377
+HBB,HBB:c.-136C>A,Intermedia,beta+,Beta-thalassemia,rs33994806
+HBB,HBB:c.-136C>G,Intermedia,beta+,Beta-thalassemia,rs33994806
+HBB,HBB:c.-82C>A,Intermedia,beta+,Beta-thalassemia,rs34500389
+HBB,HBB:c.-81A>C,Intermedia,beta+,Beta-thalassemia,rs33981098
+HBB,HBB:c.-81A>G,Intermedia,beta+,Beta-thalassemia,rs33981098
+HBB,HBB:c.-80T>A,Intermedia,beta+,Beta-thalassemia,rs33980857
+HBB,HBB:c.-80T>C,Minor,beta (0 or + unclear),Beta-thalassemia,rs33980857
+HBB,HBB:c.-79A>G,Intermedia,beta+,Beta-thalassemia,rs34598529
+HBB,HBB:c.-78A>C,Intermedia,beta+,Beta-thalassemia,rs33931746
+HBB,HBB:c.-78A>G,Intermedia,beta+,Beta-thalassemia,rs33931746
+HBB,HBB:c.-50A>C,Intermedia,beta+,Beta-thalassemia,rs34305195
+HBB,HBB:c.-41delT,Intermedia,beta+,Beta-thalassemia,rs35352549
+HBB,HBB:c.-29G>A,Intermedia,beta+,Beta-thalassemia,rs34704828
+HBB,HBB:c.-18C>G,Intermedia,beta+,Beta-thalassemia,rs34135787
+HBB,HBB:c.-11_-8delAAAC,Intermedia,beta+,Beta-thalassemia,rs34196559
+HBB,HBB:c.1A>G,Major,beta0,Beta-thalassemia,rs34563000
+HBB,HBB:c.2T>C,Major,beta0,Beta-thalassemia,rs33941849
+HBB,HBB:c.2T>G,Major,beta0,Beta-thalassemia,rs33941849
+HBB,HBB:c.3G>A,Major,beta0,Beta-thalassemia,rs33930702
+HBB,HBB:c.3G>C,Major,beta0,Beta-thalassemia,rs33930702
+HBB,HBB:c.3G>T,Major,beta0,Beta-thalassemia,rs33930702
+HBB,HBB:c.4delG,Major,beta0,Beta-thalassemia,rs63750475
+HBB,HBB:c.7_15delinsCCTGAGGTGAAGTCTGCCTGAGGAGAAGTCT,Major,beta0,Beta-thalassemia,rs63750407
+HBB,HBB:c.17_18delCT,Major,beta0,Beta-thalassemia,rs34889882
+HBB,HBB:c.20delA,Major,beta0,Beta-thalassemia,rs63749819
+HBB,HBB:c.25_26delAA,Major,beta0,Beta-thalassemia,rs35497102
+HBB,HBB:c.27_28insG,Major,beta0,Beta-thalassemia,rs35699606
+HBB,HBB:c.30_31insT,Major,beta0,Beta-thalassemia,rs34548294
+HBB,HBB:c.33C>A,Intermedia,beta+,Beta-thalassemia,rs35799536
+HBB,HBB:c.36delT,Major,beta0,Beta-thalassemia,rs34856846
+HBB,HBB:c.45_46insG,Major,beta0,Beta-thalassemia,rs35383398
+HBB,HBB:c.47G>A,Major,beta0,Beta-thalassemia,rs63750783
+HBB,HBB:c.48G>A,Major,beta0,Beta-thalassemia,rs34716011
+HBB,HBB:c.46delT,Major,beta0,Beta-thalassemia,rs63749960
+HBB,HBB:c.51delC,Major,beta0,Beta-thalassemia,rs35662066
+HBB,HBB:c.52A>T,Major,beta0,Beta-thalassemia,rs33986703
+HBB,HBB:c.67G>T,Major,beta0,Beta-thalassemia,rs33959855
+HBB,HBB:c.68_74delAAGTTGG,Major,beta0,Beta-thalassemia,rs281864898
+HBB,HBB:c.74delinsCAC,Major,beta0,Beta-thalassemia,rs281864899
+HBB,HBB:c.75T>A,Intermedia,beta+,Beta-thalassemia,rs33951465
+HBB,HBB:c.78_79insT,Major,beta0,Beta-thalassemia,rs35619688
+HBB,HBB:c.79G>T,Major,beta0,Beta-thalassemia,rs33950507
+HBB,HBB:c.79_80insT,Major,beta0,Beta-thalassemia,rs35477349
+HBB,HBB:c.84_85insC,Major,beta0,Beta-thalassemia,rs35532010
+HBB,HBB:c.85delC,Major,beta0,Beta-thalassemia,rs63750655
+HBB,HBB:c.89delG,Major,beta0,Beta-thalassemia,rs267607295
+HBB,HBB:c.90C>T,Intermedia,beta+,Beta-thalassemia,rs35578002
+HBB,HBB:c.91A>G,Major,beta0,Beta-thalassemia,rs35684407
+HBB,HBB:c.92G>A,Major,beta0,Beta-thalassemia,rs33960103
+HBB,HBB:c.92+1G>A,Major,beta0,Beta-thalassemia,rs33971440
+HBB,HBB:c.92+1G>T,Major,beta0,Beta-thalassemia,rs33971440
+HBB,HBB:c.92+2T>A,Major,beta0,Beta-thalassemia,rs33956879
+HBB,HBB:c.92+2T>C,Major,beta0,Beta-thalassemia,rs33956879
+HBB,HBB:c.92+2T>G,Major,beta0,Beta-thalassemia,rs33956879
+HBB,HBB:c.92+5G>A,Intermedia,beta+,Beta-thalassemia,rs33915217
+HBB,HBB:c.92+5G>A,Intermedia,beta+,Beta-thalassemia,
+HBB,HBB:c.92+5G>C,Intermedia,beta+,Beta-thalassemia,rs33915217
+HBB,HBB:c.92+5G>T,Intermedia,beta+,Beta-thalassemia,rs33915217
+HBB,HBB:c.92+6T>C,Intermedia,beta+,Beta-thalassemia,rs35724775
+HBB,HBB:c.93-21G>A,Intermedia,beta+,Beta-thalassemia,rs35004220
+HBB,HBB:c.93-15T>G,Major,beta0,Beta-thalassemia,rs35456885
+HBB,HBB:c.93-3T>G,Intermedia,beta+,Beta-thalassemia,rs34527846
+HBB,HBB:c.93-1G>A,Major,beta0,Beta-thalassemia,rs33943001
+HBB,HBB:c.93-1G>C,Major,beta0,Beta-thalassemia,rs33943001
+HBB,HBB:c.93-17_93-1delTATTTTCCCACCCTTAG,Major,beta0,Beta-thalassemia,rs63750915
+HBB,HBB:c.94delC,Major,beta0,Beta-thalassemia,rs63749977
+HBB,HBB:c.93_94insCGG,Major,beta0,Beta-thalassemia,rs35348864
+HBB,HBB:c.100_102delGTG,Major,beta0,Beta-thalassemia,rs35699671
+HBB,HBB:c.108C>A,Major,beta0,Beta-thalassemia,rs33982568
+HBB,HBB:c.110delC,Major,beta0,Beta-thalassemia,rs267607297
+HBB,HBB:c.112delT,Major,beta0,Beta-thalassemia,rs63750532
+HBB,HBB:c.114G>A,Major,beta0,Beta-thalassemia,rs33974936
+HBB,HBB:c.114_120delGACCCAG,Major,beta0,Beta-thalassemia,rs63750099
+HBB,HBB:c.118delC,Major,beta0,Beta-thalassemia,rs267607291
+HBB,HBB:c.117_118delCC,Major,beta0,Beta-thalassemia,rs267607298
+HBB,HBB:c.118C>T,Major,beta0,Beta-thalassemia,rs11549407
+HBB,HBB:c.123delG,Major,beta0,Beta-thalassemia,rs63749957
+HBB,HBB:c.123_124insT,Major,beta0,Beta-thalassemia,rs36029927
+HBB,HBB:c.126delC,Major,beta0,Beta-thalassemia,rs35755331
+HBB,HBB:c.126_129delCTTT,Major,beta0,Beta-thalassemia,rs281864900
+HBB,HBB:c.129_130insG,Major,beta0,Beta-thalassemia,rs33979901
+HBB,HBB:c.129_130insT,Major,beta0,Beta-thalassemia,rs33979901
+HBB,HBB:c.130G>T,Major,beta0,Beta-thalassemia,rs33922842
+HBB,HBB:c.135delC,Major,beta0,Beta-thalassemia,rs80356820
+HBB,HBB:c.138delT,Major,beta0,Beta-thalassemia,rs35133315
+HBB,HBB:c.143_144insA,Major,beta0,Beta-thalassemia,rs35894115
+HBB,HBB:c.146_147insATCT,Major,beta0,Beta-thalassemia,rs35619054
+HBB,HBB:c.155delC,Major,beta0,Beta-thalassemia,rs63750128
+HBB,HBB:c.162_163insG,Major,beta0,Beta-thalassemia,rs35165357
+HBB,HBB:c.165delT,Major,beta0,Beta-thalassemia,rs34960334
+HBB,HBB:c.165_166insA,Major,beta0,Beta-thalassemia,rs35171933
+HBB,HBB:c.170_183dup,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.174_175insC,Major,beta0,Beta-thalassemia,rs35395625
+HBB,HBB:c.179delA,Major,beta0,Beta-thalassemia,rs267607293
+HBB,HBB:c.184A>T,Major,beta0,Beta-thalassemia,rs33995148
+HBB,HBB:c.194delG,Major,beta0,Beta-thalassemia,rs36107977
+HBB,HBB:c.203_204delTG,Major,beta0,Beta-thalassemia,rs34282684
+HBB,HBB:c.216_217insA,Major,beta0,Beta-thalassemia,rs33969853
+HBB,HBB:c.216_217insT,Major,beta0,Beta-thalassemia,rs33969853
+HBB,HBB:c.217_221delinsT,Major,beta0,Beta-thalassemia,rs63751218
+HBB,HBB:c.226delC,Major,beta0,Beta-thalassemia,rs34218908
+HBB,HBB:c.230delC,Major,beta0,Beta-thalassemia,rs281864901
+HBB,HBB:c.251delG,Major,beta0,Beta-thalassemia,rs63751478
+HBB,HBB:c.255_256insC,Major,beta0,Beta-thalassemia,rs35371965
+HBB,HBB:c.258_259insT,Major,beta0,Beta-thalassemia,rs34831847
+HBB,HBB:c.266_267insT,Major,beta0,Beta-thalassemia,rs34477959
+HBB,HBB:c.270_271delTG,Major,beta0,Beta-thalassemia,rs34466953
+HBB,HBB:c.271G>T,Major,beta0,Beta-thalassemia,rs33913712
+HBB,HBB:c.283_284insTG,Major,beta0,Beta-thalassemia,rs34533941
+HBB,HBB:c.287_288insA,Major,beta0,Beta-thalassemia,rs34937014
+HBB,HBB:c.301_303delinsTCTGAGAACTT,Major,beta0,Beta-thalassemia,rs63750556
+HBB,HBB:c.315+1G>A,Major,beta0,Beta-thalassemia,rs33945777
+HBB,HBB:c.315+1G>C,Major,beta0,Beta-thalassemia,rs33945777
+HBB,HBB:c.315+2_315+3delinsACGTTCTCTGA,Major,beta0,Beta-thalassemia,rs63750842
+HBB,HBB:c.315+4_315+5delAG,Minor,beta (0 or + unclear),Beta-thalassemia,rs34750035
+HBB,HBB:c.315+5G>C,Intermedia,beta+,Beta-thalassemia,rs35099082
+HBB,HBB:c.316-197C>T,Intermedia,beta+,Beta-thalassemia,rs34451549
+HBB,HBB:c.316-146T>G,Intermedia,beta+,Beta-thalassemia,rs35328027
+HBB,HBB:c.316-106C>G,Intermedia,beta+,Beta-thalassemia,rs34690599
+HBB,HBB:c.316-14T>G,Minor,beta (0 or + unclear),Beta-thalassemia,rs35703285
+HBB,HBB:c.316-8T>G,Intermedia,beta+,Beta-thalassemia,rs34793594
+HBB,HBB:c.316-7C>G,Intermedia,beta+,Beta-thalassemia,rs34483965
+HBB,HBB:c.316-3C>A,Intermedia,beta+,Beta-thalassemia,rs33913413
+HBB,HBB:c.316-3C>G,Intermedia,beta+,Beta-thalassemia,rs33913413
+HBB,HBB:c.316-2A>C,Major,beta0,Beta-thalassemia,rs33914668
+HBB,HBB:c.316-2A>G,Major,beta0,Beta-thalassemia,rs33914668
+HBB,HBB:c.316-1delG,Major,beta0,Beta-thalassemia,rs63750692
+HBB,HBB:c.316-1G>A,Major,beta0,Beta-thalassemia,rs33952266
+HBB,HBB:c.316-1G>C,Major,beta0,Beta-thalassemia,rs33952266
+HBB,HBB:c.316-1G>T,Major,beta0,Beta-thalassemia,rs33952266
+HBB,HBB:c.321_322insG,Major,beta0,Beta-thalassemia,rs35225141
+HBB,HBB:c.326_337delACGTGCTGGTCT,Major,beta0,Beta-thalassemia,rs63750040
+HBB,HBB:c.328delG,Major,beta0,Beta-thalassemia,rs63751201
+HBB,HBB:c.339T>A,Major,beta0,Beta-thalassemia,rs33930977
+HBB,HBB:c.343_344delinsG,Major,beta0,Beta-thalassemia,rs41443947
+HBB,HBB:c.363_364insA,Major,beta0,Beta-thalassemia,rs34120553
+HBB,HBB:c.364G>T,Major,beta0,Beta-thalassemia,rs33946267
+HBB,HBB:c.370delA,Major,beta0,Beta-thalassemia,rs35238478
+HBB,HBB:c.370_378delACCCCACCA,Major,beta0,Beta-thalassemia,rs281864902
+HBB,HBB:c.375delA,Major,beta0,Beta-thalassemia,rs35323748
+HBB,HBB:c.378delA,Major,beta0,Beta-thalassemia,rs281864903
+HBB,HBB:c.378_379insCCA,Major,beta0,Beta-thalassemia,rs34843844
+HBB,HBB:c.380delT,Major,beta0,Beta-thalassemia,rs63750022
+HBB,HBB:c.380_396delTGCAGGCTGCCTATCAG,Major,beta0,Beta-thalassemia,rs63749815
+HBB,HBB:c.383A>C,Major,beta0,Beta-thalassemia,rs33910569
+HBB,HBB:c.383A>G,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.382C>T,Major,beta0,Beta-thalassemia,rs33971634
+HBB,HBB:c.383_385delAGG,Major,beta0,Beta-thalassemia,rs34502690
+HBB,HBB:c.[385_388delinsCCACA;397_407delAAAGTGGTGGC],Major,beta0,Beta-thalassemia,rs281864904
+HBB,HBB:c.404_413delinsGCAG,Major,beta0,Beta-thalassemia,rs63751152
+HBB,HBB:c.*6C>G,Intermedia,beta+,Beta-thalassemia,rs34809925
+HBB,HBB:c.*91_*103delGCATCTGGATTCT,Minor,beta (0 or + unclear),Beta-thalassemia,rs34171453
+HBB,HBB:c.*110T>C,Intermedia,beta+,Beta-thalassemia,rs33978907
+HBB,HBB:c.*111A>G,Intermedia,beta+,Beta-thalassemia,rs63751128
+HBB,HBB:c.*112A>G,Intermedia,beta+,Beta-thalassemia,rs63750954
+HBB,HBB:c.*113A>G,Intermedia,beta+,Beta-thalassemia,rs33985472
+HBB,HBB:c.[*109_*110delAT or *110_*111delTA],Intermedia,beta+,Beta-thalassemia,rs281864905
+HBB,HBB:c.*108_*112delAATAA,Intermedia,beta+,Beta-thalassemia,rs35949130
+HBB,HBB:c.93-22_95del,Major,beta0,Beta-thalassemia,rs63750223
+HBB,HBB:c.76_92+27del,Major,beta0,Beta-thalassemia,rs63751076
+HBB,HBB:c.-74_31del,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.-176_92+25del,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.-504_28del,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.[16delC;8_9insC],Minor,,Beta-thalassemia,rs63750729
+HBB,HBB:c.349_350insTGAT,Major,beta0,Beta-thalassemia,rs63751306
+HBB,HBB:c.424delC,Minor,,Beta-thalassemia,rs63750694
+HBB,HBB:c.357delT,Minor,,Beta-thalassemia,rs35781690
+HBB,HBB:c.413_418delTGGCTA,Minor,,Beta-thalassemia,rs34068040
+HBB,HBB:c.316-90A>G,Minor,beta (0 or + unclear),Beta-thalassemia,rs63750433
+HBB,HBB:c.396_397delGA,Major,beta0,Beta-thalassemia,rs63750320
+HBB,HBB:c.275delT,Minor,beta (0 or + unclear),Beta-thalassemia,rs63751080
+HBB,HBB:c.-143C>G,Intermedia,beta+,Beta-thalassemia,rs63751043
+HBB,HBB:c.93-2A>G,Major,beta0,Beta-thalassemia,rs63750513
+HBB,HBB:c.178A>T,Major,beta0,Beta-thalassemia,rs33969400
+HBB,HBB:c.113G>A,Major,beta0,Beta-thalassemia,rs33991059
+HBB,HBB:c.2T>A,Minor,beta (0 or + unclear),Beta-thalassemia,rs33941849
+HBB,HBB:c.232delC,Minor,beta (0 or + unclear),Beta-thalassemia,rs63750504
+HBB,HBB:c.315+2T>A,Minor,beta (0 or + unclear),Beta-thalassemia,rs63750283
+HBB,HBB:c.-75G>C,Minor,beta (0 or + unclear),Beta-thalassemia,rs63750400
+HBB,HBB:c.-82C>T,Minor,beta (0 or + unclear),Beta-thalassemia,rs34500389
+HBB,HBB:c.-77_-76delAA,Minor,beta (0 or + unclear),Beta-thalassemia,rs63750953
+HBB,HBB:c.229_230delGC,Major,beta0,Beta-thalassemia,rs281864906
+HBB,HBB:c.[316-300_327delinsCAGGTGCCATCTGTCACCCTTTTCTTTG;316-316_316-315insAATATATTTTTAATATACTTTTT],Minor,,Beta-thalassemia,rs63750105
+HBB,HBB:c.397A>T,Major,beta0,Beta-thalassemia,rs33953406
+HBB,HBB:c.252_253insNG_000007.3:g.70911_70975,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.92+7A>T,Intermedia,beta+,Beta-thalassemia,rs63750195
+HBB,HBB:c.315+2T>C,Intermedia,beta+,Beta-thalassemia,rs63750283
+HBB,HBB:c.314delG,Major,beta0,Beta-thalassemia,rs63750774
+HBB,HBB:c.315+1G>T,Major,beta0,Beta-thalassemia,rs33945777
+HBB,HBB:c.-138C>G,Minor,beta (0 or + unclear),Beta-thalassemia,rs33944208
+HBB,HBB:c.-121C>T,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864518
+HBB,HBB:c.-80T>G,Minor,beta (0 or + unclear),Beta-thalassemia,rs33980857
+HBB,HBB:c.18_19delTG,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864519
+HBB,HBB:c.219_220insT,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864520
+HBB,HBB:c.315+2_315+13delTGAGTCTATGGG,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864521
+HBB,HBB:c.316-70C>G,Minor,beta (0 or + unclear),Beta-thalassemia,rs193922560
+HBB,HBB:c.-100G>A,Intermedia,beta+,Beta-thalassemia,rs281864524
+HBB,HBB:c.-76A>C,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864525
+HBB,HBB:c.319_330delCTGGGCAACGTG,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864526
+HBB,HBB:c.345_346insTGTGCTG,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864527
+HBB,HBB:c.354delC,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864528
+HBB,HBB:c.376_381delCCAGTG,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864529
+HBB,HBB:c.393T>A,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864530
+HBB,HBB:c.394_395insA,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864531
+HBB,HBB:c.*112A>T,Minor,beta (0 or + unclear),Beta-thalassemia,rs63750954
+HBB,HBB:c.*111_*112delAA,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864532
+HBB,HBB:c.91A>C,Minor,beta (0 or + unclear),Beta-thalassemia,rs35684407
+HBB,HBB:c.375_376insA,Minor,beta (0 or + unclear),Beta-thalassemia,rs281864544
+HBB,HBB:c.-528_251del,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.119delA,Major,beta0,Beta-thalassemia,rs281864574
+HBB,HBB:c.20_45del,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.216delT,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.316-86_316-85insCTGCTTTTATTTT,Intermedia,beta+,Beta-thalassemia,
+HBB,HBB:c.187_251dup,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.23_26dup,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.93-2A>C,Minor,beta (0 or + unclear),Beta-thalassemia,
+HBB,HBB:c.129delT,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.24_25insG,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.158delA,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.142_142dup,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.53A>T,Minor,beta (0 or + unclear),Beta-thalassemia,
+HBB,HBB:c.166_178delATGGGCAACCCTA,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.-122T>A,Intermedia,beta+,Beta-thalassemia,
+HBB,HBB:c.8delA,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.176delC,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.189_195delTCATGGC,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.-127G>C,Intermedia,beta+,Beta-thalassemia,
+HBB,HBB:c.265_266delCT,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.332T>G,Minor,beta (0 or + unclear),Beta-thalassemia,
+HBB,HBB:c.323dupG,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.434A>G,Minor,,Beta-thalassemia,
+HBB,HBB:c.-126C>A,Intermedia,beta+,Beta-thalassemia,
+HBB,HBB:c.7delC,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.[79G>A ;313A>G],Minor,,Beta-thalassemia,
+HBB,HBB:c.91A>T,Intermedia,beta+,Beta-thalassemia,
+HBB,HBB:c.313delA,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.356_357delTT,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.*96T>C,Intermedia,beta+,Beta-thalassemia,rs34039390
+HBB,HBB:c.[79G>A ;314G>C],Minor,,Beta-thalassemia,
+HBB,HBB:c.375_376delAC,Major,beta0,Beta-thalassemia,
+HBB,HBB:c.315+3_315+4insT,Major,beta0,Beta-thalassemia,

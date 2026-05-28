@@ -1,0 +1,2185 @@
+chr,pos,ref,alt,gene,pathogenicity,allele_freq,severity,variant_type,mutation_class,homozygote_count,anomaly_score
+11,5225244,C,T,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225281,T,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225283,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225301,A,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225351,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225364,C,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225366,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225415,C,T,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225431,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225437,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225453,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225459,A,C,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225465,G,A,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225465,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225466,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225468,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225468,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225480,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225481,TTTTTT,TTTT,HBB,Likely pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5225481,TTTTTT,TTTTT,HBB,Pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5225481,TTTTTT,TTTTTTT,HBB,Uncertain significance,0.0,Minor,Duplication,beta (0 or + unclear),,1
+11,5225482,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225483,TTTTATT,TT,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,Deletion,beta+,,1
+11,5225484,T,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225485,T,A,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225486,T,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225486,TAT,T,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5225487,A,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225487,A,T,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225487,,C,HBB,Pathogenic,0.0,Unknown,Insertion,,,1
+11,5225489,T,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225492,GCAGAATCCAGATGC,GC,HBB,Pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5225493,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225495,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225500,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225500,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225504,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225506,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225514,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225519,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225519,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225524,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225526,T,A,HBB,Unknown,6.982099293830477e-07,Unknown,Unknown,,0.0,1
+11,5225526,T,C,HBB,Unknown,6.982099293830477e-07,Unknown,Unknown,,0.0,1
+11,5225527,C,T,HBB,Unknown,1.66415194816e-05,Unknown,Unknown,,0.0,1
+11,5225528,C,T,HBB,Unknown,6.824811191598384e-07,Unknown,Unknown,,0.0,1
+11,5225529,C,T,HBB,Unknown,6.769004996879489e-07,Unknown,Unknown,,0.0,1
+11,5225530,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225531,C,A,HBB,Unknown,2.0217131997e-06,Unknown,Unknown,,0.0,1
+11,5225531,C,G,HBB,Unknown,6.739043999218271e-07,Unknown,Unknown,,0.0,1
+11,5225532,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225533,G,C,HBB,Unknown,1.51843846429e-05,Unknown,Unknown,,0.0,1
+11,5225533,G,GT,HBB,Unknown,6.601392101566379e-07,Unknown,Unknown,,0.0,1
+11,5225535,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225536,T,C,HBB,Unknown,1.83532662914e-05,Unknown,Unknown,,0.0,1
+11,5225537,A,C,HBB,Unknown,6.525123683719425e-07,Unknown,Unknown,,0.0,1
+11,5225538,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225539,T,C,HBB,Unknown,5.1847320012e-06,Unknown,Unknown,,0.0,1
+11,5225540,A,C,HBB,Unknown,6.452045814686921e-07,Unknown,Unknown,,0.0,1
+11,5225540,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225541,G,C,HBB,Unknown,3.1747684641e-06,Unknown,Unknown,,0.0,1
+11,5225541,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225542,T,A,HBB,Unknown,1.01352549776e-05,Unknown,Unknown,,0.0,1
+11,5225542,T,C,HBB,Unknown,0.0001026119166639,Unknown,Unknown,,0.0,-1
+11,5225544,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225545,G,A,HBB,Unknown,6.295365981101312e-07,Unknown,Unknown,,0.0,1
+11,5225545,G,T,HBB,Unknown,1.8887477224e-06,Unknown,Unknown,,0.0,1
+11,5225546,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225547,C,T,HBB,Unknown,6.256827763296698e-07,Unknown,Unknown,,0.0,1
+11,5225548,T,C,HBB,Unknown,6.250320328916857e-07,Unknown,Unknown,,0.0,1
+11,5225549,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225550,A,G,HBB,Unknown,9.9973756888e-06,Unknown,Unknown,,0.0,1
+11,5225550,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225550,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225551,G,A,HBB,Unknown,1.8699697812e-06,Unknown,Unknown,,0.0,1
+11,5225553,G,A,HBB,Unknown,1.244609286e-06,Unknown,Unknown,,0.0,1
+11,5225554,A,G,HBB,Unknown,6.216214872169758e-07,Unknown,Unknown,,0.0,1
+11,5225555,A,G,HBB,Unknown,6.211604519563449e-07,Unknown,Unknown,,0.0,1
+11,5225556,C,A,HBB,Unknown,3.1048649507e-06,Unknown,Unknown,,0.0,1
+11,5225556,C,T,HBB,Unknown,6.20927491813071e-07,Unknown,Unknown,,0.0,1
+11,5225558,A,C,HBB,Unknown,6.206045681461052e-07,Unknown,Unknown,,0.0,1
+11,5225560,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225561,G,C,HBB,Unknown,6.204921247139531e-07,Unknown,Unknown,,0.0,1
+11,5225563,A,G,HBB,Unknown,6.203173791838856e-07,Unknown,Unknown,,0.0,1
+11,5225563,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225564,C,A,HBB,Uncertain significance,7.4419989209e-06,Unknown,single nucleotide variant,,0.0,1
+11,5225564,C,T,HBB,Unknown,3.1008328837e-06,Unknown,Unknown,,1.0,1
+11,5225565,C,A,HBB,Unknown,2.4801341256e-06,Unknown,Unknown,,0.0,1
+11,5225565,C,G,HBB,Unknown,6.199881706257045e-07,Unknown,Unknown,,0.0,1
+11,5225565,T,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225570,A,C,HBB,Unknown,6.197968058151816e-07,Unknown,Unknown,,0.0,1
+11,5225571,T,C,HBB,Unknown,1.9212676896e-05,Unknown,Unknown,,0.0,1
+11,5225572,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225573,G,C,HBB,Unknown,1.2394983502e-06,Unknown,Unknown,,0.0,1
+11,5225575,A,G,HBB,Unknown,6.19686958935824e-07,Unknown,Unknown,,0.0,1
+11,5225576,A,G,HBB,Unknown,6.196232195126788e-07,Unknown,Unknown,,0.0,1
+11,5225576,AT,A,HBB,Unknown,6.196232195126788e-07,Unknown,Unknown,,0.0,1
+11,5225577,T,C,HBB,Unknown,3.717923614e-06,Unknown,Unknown,,0.0,1
+11,5225579,G,C,HBB,Unknown,6.197676119362284e-07,Unknown,Unknown,,0.0,1
+11,5225579,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225580,G,T,HBB,Unknown,3.7179143987e-06,Unknown,Unknown,,0.0,1
+11,5225581,A,G,HBB,Unknown,6.196163087969406e-07,Unknown,Unknown,,0.0,1
+11,5225581,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225582,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225584,G,A,HBB,Unknown,4.9569181848e-06,Unknown,Unknown,,0.0,1
+11,5225584,G,T,HBB,Unknown,6.196608472250967e-07,Unknown,Unknown,,0.0,1
+11,5225585,C,T,HBB,Unknown,1.8586922984e-06,Unknown,Unknown,,0.0,1
+11,5225587,A,G,HBB,Unknown,4.9565926399e-06,Unknown,Unknown,,0.0,1
+11,5225588,G,A,HBB,Unknown,6.195464424404182e-07,Unknown,Unknown,,0.0,1
+11,5225589,A,G,HBB,Unknown,1.2390560375e-06,Unknown,Unknown,,0.0,1
+11,5225590,A,C,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5225591,G,C,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225592,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225592,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225592,G,A,HBB,Unknown,3.7175089715e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225592,G,C,HBB,Unknown,1.2390790668e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225592,G,T,HBB,Unknown,1.2390790668e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225593,C,A,HBB,Unknown,6.195817575303966e-07,Unknown,Unknown,,0.0,1
+11,5225593,C,T,HBB,Unknown,8.6747788241e-06,Unknown,Unknown,,0.0,1
+11,5225593,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225594,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225594,G,A,HBB,Unknown,8.0548123786e-06,Unknown,Unknown,,0.0,1
+11,5225596,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225596,G,A,HBB,Unknown,1.2390882788e-06,Unknown,Unknown,,0.0,1
+11,5225597,C,T,HBB,Unknown,1.8585863592e-06,Unknown,Unknown,,0.0,1
+11,5225598,T,C,HBB,Unknown,1.2390621786e-06,Unknown,Unknown,,0.0,1
+11,5225599,T,C,HBB,Unknown,6.1959327419109e-07,Unknown,Unknown,,0.0,1
+11,5225601,G,A,HBB,Unknown,6.195295540378459e-07,Unknown,Unknown,,0.0,1
+11,5225601,T,A,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5225601,T,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225602,G,C,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5225603,A,T,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5225604,T,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225605,A,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225605,A,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225606,C,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225606,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225607,C,T,HBB,Unknown,8.0544131368e-06,Unknown,Unknown,,0.0,1
+11,5225608,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225609,G,A,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225609,G,Y,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225610,G,A,HBB,Unknown,0.0002880787440014,Unknown,Unknown,,1.0,-1
+11,5225610,T,C,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225610,T,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225611,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225611,GGG,G,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225611,T,C,HBB,Unknown,6.195234130288251e-07,Unknown,Unknown,,0.0,1
+11,5225612,G,A,HBB,Unknown,8.054642696e-06,Unknown,Unknown,,0.0,1
+11,5225613,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225614,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225615,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225615,C,T,HBB,Unknown,1.2390959555e-06,Unknown,Unknown,,0.0,1
+11,5225616,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225616,C,A,HBB,Unknown,1.79678932335e-05,Unknown,Unknown,,0.0,1
+11,5225616,C,T,HBB,Unknown,6.195372304703279e-07,Unknown,Unknown,,0.0,1
+11,5225619,G,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225619,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225619,GC,AT,HBB,Uncertain significance,0.0,Unknown,Indel,,,1
+11,5225620,C,T,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5225621,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225621,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225622,A,G,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5225622,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225622,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225624,A,AA,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5225625,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225626,G,A,HBB,Unknown,6.195403010965864e-07,Unknown,Unknown,,0.0,1
+11,5225628,C,T,HBB,Unknown,1.2390990263e-06,Unknown,Unknown,,0.0,1
+11,5225629,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225630,C,T,HBB,Unknown,6.19528018774177e-07,Unknown,Unknown,,0.0,1
+11,5225632,C,T,HBB,Unknown,2.478320888e-06,Unknown,Unknown,,0.0,1
+11,5225633,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225634,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225635,G,A,HBB,Unknown,4.3370346826e-06,Unknown,Unknown,,0.0,1
+11,5225637,A,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225637,ACCACTTTCTGA,A,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225637,C,T,HBB,Unknown,6.195510485281946e-07,Unknown,Unknown,,0.0,1
+11,5225638,A,C,HBB,Unknown,6.195495131579926e-07,Unknown,Unknown,,0.0,1
+11,5225638,A,G,HBB,Unknown,1.42506806248e-05,Unknown,Unknown,,0.0,1
+11,5225638,A,T,HBB,Unknown,6.195948097781974e-07,Unknown,Unknown,,0.0,1
+11,5225639,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225640,ACTTTCTGATAGG,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5225640,C,G,HBB,Unknown,0.0042960308491445,Unknown,Unknown,,22.0,-1
+11,5225640,C,T,HBB,Unknown,1.2391972975e-06,Unknown,Unknown,,0.0,1
+11,5225641,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225642,C,A,HBB,Unknown,1.239160444e-06,Unknown,Unknown,,0.0,1
+11,5225642,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225643,T,C,HBB,Unknown,6.195249482696668e-07,Unknown,Unknown,,0.0,1
+11,5225644,T,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225644,T,G,HBB,Likely benign,0.0,Major,single nucleotide variant,beta0,,1
+11,5225644,TCT,T,HBB,Likely pathogenic,0.0,Major,Deletion,beta0,,1
+11,5225645,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225645,CTGATAGGCAGCCTGCACTG,CTG,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225645,T,G,HBB,Unknown,6.195418364211298e-07,Major,Unknown,beta0,0.0,1
+11,5225645,TCTGATAGGCAGCCTGCA,T,HBB,Unknown,6.195418364211298e-07,Unknown,Unknown,,0.0,1
+11,5225646,T,G,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225646,T,TT,HBB,Pathogenic,0.0,Minor,Duplication,beta (0 or + unclear),,1
+11,5225647,G,A,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225648,A,T,HBB,Pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5225648,G,C,HBB,Unknown,6.195525839060065e-07,Unknown,Unknown,,0.0,1
+11,5225652,GCAGC,GC,HBB,Uncertain significance,0.0,Unknown,Deletion,,,1
+11,5225653,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225653,G,A,HBB,Unknown,1.23918654838e-05,Unknown,Unknown,,0.0,1
+11,5225654,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225654,C,T,HBB,Unknown,6.195817575303966e-07,Unknown,Unknown,,0.0,1
+11,5225655,A,T,HBB,Unknown,3.0977859504e-06,Unknown,Unknown,,0.0,1
+11,5225655,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225655,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225656,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225656,CCT,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5225657,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225657,C,T,HBB,Unknown,1.8587199367e-06,Unknown,Unknown,,0.0,1
+11,5225658,C,G,HBB,Unknown,1.2392141894e-06,Unknown,Unknown,,0.0,1
+11,5225658,C,T,HBB,Unknown,6.1956256404728e-07,Unknown,Unknown,,0.0,1
+11,5225658,T,C,HBB,Pathogenic; other,0.0,Major,single nucleotide variant,beta0,,1
+11,5225658,T,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225659,G,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225660,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225660,G,A,HBB,Unknown,6.196308982665206e-07,Major,Unknown,beta0,0.0,1
+11,5225661,A,C,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225661,C,T,HBB,Unknown,1.239180406e-06,Unknown,Unknown,,0.0,1
+11,5225662,A,C,HBB,Unknown,1.8586554486e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225662,A,G,HBB,Unknown,7.435165358e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225662,A,T,HBB,Unknown,1.2391036324e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225662,CT,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5225663,C,G,HBB,Unknown,6.195571900851023e-07,Unknown,Unknown,,0.0,1
+11,5225663,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225663,T,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225663,TGGTGGGGTG,TG,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225664,T,A,HBB,Unknown,3.7173339281e-06,Unknown,Unknown,,0.0,1
+11,5225665,G,A,HBB,Unknown,1.8587245432e-06,Unknown,Unknown,,0.0,1
+11,5225666,G,C,HBB,Unknown,6.195725445100916e-07,Unknown,Unknown,,0.0,1
+11,5225666,G,GT,HBB,Unknown,6.195725445100916e-07,Minor,Unknown,beta (0 or + unclear),0.0,1
+11,5225666,G,T,HBB,Unknown,6.195725445100916e-07,Unknown,Unknown,,0.0,1
+11,5225666,T,TT,HBB,Likely pathogenic,0.0,Minor,Duplication,beta (0 or + unclear),,1
+11,5225667,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225667,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225667,T,C,HBB,Unknown,1.2392433675e-06,Unknown,Unknown,,0.0,1
+11,5225667,T,G,HBB,Unknown,1.2392433675e-06,Unknown,Unknown,,0.0,1
+11,5225668,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225668,G,C,HBB,Unknown,6.196562395045725e-07,Unknown,Unknown,,0.0,1
+11,5225668,G,T,HBB,Benign,6.8157202729e-06,Unknown,single nucleotide variant,,0.0,1
+11,5225669,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225669,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225669,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225670,G,A,HBB,Uncertain significance,2.4783792391e-06,Unknown,single nucleotide variant,,0.0,1
+11,5225670,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225671,G,A,HBB,Unknown,1.2391558374e-06,Unknown,Unknown,,0.0,1
+11,5225671,G,T,HBB,Unknown,1.30120876097e-05,Unknown,Unknown,,0.0,1
+11,5225676,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225677,C,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225677,C,G,HBB,Pathogenic/Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225677,C,T,HBB,Pathogenic/Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225677,T,A,HBB,Unknown,6.19543371753283e-07,Unknown,Unknown,,0.0,1
+11,5225678,C,A,HBB,Unknown,1.2390821375e-06,Major,Unknown,beta0,0.0,1
+11,5225678,C,G,HBB,Unknown,0.0004442114967139,Major,Unknown,beta0,8.0,-1
+11,5225678,C,T,HBB,Unknown,8.674209098e-06,Major,Unknown,beta0,0.0,1
+11,5225678,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225678,T,G,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225678,TTT,TTTT,HBB,Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5225679,T,G,HBB,Unknown,6.195426040862552e-07,Unknown,Unknown,,0.0,1
+11,5225680,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225682,G,T,HBB,Unknown,2.4782410436e-06,Unknown,Unknown,,0.0,1
+11,5225683,C,G,HBB,Unknown,6.195740799944486e-07,Unknown,Unknown,,0.0,1
+11,5225683,C,T,HBB,Unknown,4.3370185599e-06,Unknown,Unknown,,0.0,1
+11,5225684,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225685,A,G,HBB,Unknown,1.8587314529e-06,Unknown,Unknown,,0.0,1
+11,5225686,A,C,HBB,Unknown,1.2390575728e-06,Unknown,Unknown,,0.0,1
+11,5225686,A,G,HBB,Unknown,2.4782963199e-06,Unknown,Unknown,,0.0,1
+11,5225687,A,C,HBB,Unknown,6.195326245880108e-07,Unknown,Unknown,,0.0,1
+11,5225687,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225687,G,,HBB,Pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5225689,T,C,HBB,Unknown,1.2392172608e-06,Unknown,Unknown,,0.0,1
+11,5225690,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225690,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225691,T,C,HBB,Uncertain significance; other,0.0,Unknown,single nucleotide variant,,,1
+11,5225692,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225692,GG,C,HBB,Likely pathogenic,0.0,Unknown,Indel,,,1
+11,5225692,T,C,HBB,Unknown,6.195610286200021e-07,Unknown,Unknown,,0.0,1
+11,5225692,,ATCA,HBB,Pathogenic,0.0,Major,Insertion,beta0,,1
+11,5225693,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225693,GGCC,GGCCGGCC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5225694,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225694,G,T,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225695,C,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225695,CC,C,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225696,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225696,CAGCACACAG,CAGCACACAGCACACAG,HBB,Pathogenic,0.0,Minor,Duplication,beta (0 or + unclear),,1
+11,5225697,A,G,HBB,Pathogenic/Likely pathogenic,0.0,Minor,single nucleotide variant,,,1
+11,5225697,AG,C,HBB,Pathogenic,0.0,Major,Indel,beta0,,1
+11,5225697,C,G,HBB,Unknown,6.195648672024664e-07,Unknown,Unknown,,0.0,1
+11,5225697,C,T,HBB,Unknown,1.8586946016e-06,Unknown,Unknown,,0.0,1
+11,5225698,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225698,G,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225699,C,CC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5225699,G,T,HBB,Unknown,3.7173108972e-06,Unknown,Unknown,,0.0,1
+11,5225700,C,G,HBB,Unknown,6.195671703747762e-07,Unknown,Unknown,,0.0,1
+11,5225701,A,T,HBB,Unknown,6.1957945424e-06,Unknown,Unknown,,0.0,1
+11,5225701,C,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225702,A,G,HBB,Likely benign,0.0,Major,single nucleotide variant,beta0,,1
+11,5225702,A,T,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225702,C,T,HBB,Unknown,6.195472101169581e-07,Unknown,Unknown,,0.0,1
+11,5225703,A,G,HBB,Unknown,6.195748477394811e-07,Major,Unknown,beta0,0.0,1
+11,5225704,A,G,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5225704,C,A,HBB,Unknown,6.195464424404182e-07,Unknown,Unknown,,0.0,1
+11,5225705,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225705,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225707,A,G,HBB,Unknown,6.195295540378459e-07,Unknown,Unknown,,0.0,1
+11,5225708,C,T,HBB,Unknown,6.195518162161492e-07,Unknown,Unknown,,0.0,1
+11,5225709,A,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225709,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225709,C,A,HBB,Unknown,1.2390836728e-06,Unknown,Unknown,,0.0,1
+11,5225709,C,T,HBB,Unknown,1.8586255092e-06,Unknown,Unknown,,0.0,1
+11,5225710,A,G,HBB,Unknown,1.2391235926e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225710,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225710,G,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5225711,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225711,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225711,G,A,HBB,Unknown,1.8586531455e-06,Unknown,Unknown,,0.0,1
+11,5225711,G,C,HBB,Unknown,6.195963453729165e-07,Unknown,Unknown,,0.0,1
+11,5225713,C,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225713,C,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225713,C,,HBB,Pathogenic; other,0.0,Major,Deletion,beta0,,1
+11,5225714,C,T,HBB,Unknown,1.2391097739e-06,Unknown,Unknown,,0.0,1
+11,5225714,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225714,G,C,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225714,G,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225714,G,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5225715,G,A,HBB,Unknown,1.85880976693e-05,Unknown,Unknown,,0.0,1
+11,5225715,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225716,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225717,T,G,HBB,Unknown,6.195203425699686e-07,Unknown,Unknown,,0.0,1
+11,5225718,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225718,C,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225718,CCC,CCCC,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5225718,G,A,HBB,Unknown,4.8944775424e-05,Unknown,Unknown,,0.0,1
+11,5225718,G,GC,HBB,Unknown,3.0979970829e-06,Major,Unknown,beta0,0.0,1
+11,5225721,A,C,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5225721,A,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225721,A,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5225721,C,G,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5225721,C,T,HBB,Unknown,6.195533515977661e-07,Unknown,Unknown,,0.0,1
+11,5225722,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225725,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225726,C,A,HBB,Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225726,C,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225726,C,T,HBB,Pathogenic/Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225726,C,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5225726,GC,G,HBB,Unknown,6.195533515977661e-07,Major,Unknown,beta0,0.0,1
+11,5225727,C,A,HBB,Unknown,1.2391297344e-06,Major,Unknown,beta0,0.0,1
+11,5225727,C,T,HBB,Unknown,1.2391297344e-06,Major,Unknown,beta0,0.0,1
+11,5225727,T,C,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225727,T,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5225728,G,A,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225728,G,C,HBB,Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225728,G,T,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225728,T,C,HBB,Unknown,1.30118457365e-05,Major,Unknown,beta0,0.0,1
+11,5225728,T,G,HBB,Unknown,1.2393140149e-06,Major,Unknown,beta0,0.0,1
+11,5225729,G,A,HBB,Unknown,3.77974847942e-05,Intermedia,Unknown,beta+,0.0,1
+11,5225729,G,T,HBB,Unknown,1.8588926947e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225729,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225732,G,A,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225732,GAGGAA,TAGGAG,HBB,Pathogenic,0.0,Unknown,Indel,,,1
+11,5225733,A,C,HBB,Likely benign,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225733,G,A,HBB,Unknown,3.7173431405e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225733,G,T,HBB,Unknown,6.1960248782e-06,Intermedia,Unknown,beta+,0.0,1
+11,5225734,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225734,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225735,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225736,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225736,G,A,HBB,Unknown,6.196378093077035e-07,Unknown,Unknown,,0.0,1
+11,5225737,A,G,HBB,Unknown,6.196270588658098e-07,Unknown,Unknown,,0.0,1
+11,5225738,A,G,HBB,Unknown,7.436059186e-06,Unknown,Unknown,,0.0,1
+11,5225738,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225739,A,C,HBB,Pathogenic/Likely pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5225739,A,G,HBB,Likely benign,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5225740,A,C,HBB,Unknown,4.3374485392e-06,Minor,Unknown,beta (0 or + unclear),0.0,1
+11,5225740,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225741,T,C,HBB,Unknown,5.5769545366e-06,Unknown,Unknown,,0.0,1
+11,5225744,G,A,HBB,Unknown,1.8590240123e-06,Unknown,Unknown,,0.0,1
+11,5225745,A,T,HBB,Unknown,0.0003501361502871,Unknown,Unknown,,0.0,-1
+11,5225745,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225746,G,A,HBB,Unknown,6.197453342472511e-07,Unknown,Unknown,,0.0,1
+11,5225746,G,C,HBB,Unknown,6.197453342472511e-07,Unknown,Unknown,,0.0,1
+11,5225747,G,A,HBB,Unknown,1.2395413696e-06,Unknown,Unknown,,0.0,1
+11,5225748,T,C,HBB,Unknown,6.198144771307052e-07,Unknown,Unknown,,0.0,1
+11,5225749,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225749,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225750,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225750,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225750,T,C,HBB,Unknown,3.718582625e-06,Unknown,Unknown,,0.0,1
+11,5225750,T,G,HBB,Unknown,1.2396181975e-06,Unknown,Unknown,,0.0,1
+11,5225751,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225751,G,C,HBB,Unknown,1.2397180881e-05,Unknown,Unknown,,0.0,1
+11,5225752,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225752,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225753,A,C,HBB,Unknown,6.198290759340205e-07,Unknown,Unknown,,0.0,1
+11,5225753,A,G,HBB,Unknown,6.198290759340205e-07,Unknown,Unknown,,0.0,1
+11,5225753,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225753,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225753,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225754,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225754,C,G,HBB,Unknown,2.4794699884e-06,Unknown,Unknown,,0.0,1
+11,5225754,C,T,HBB,Unknown,1.5496687428e-05,Unknown,Unknown,,0.0,1
+11,5225755,A,G,HBB,Unknown,6.198567387105492e-07,Unknown,Unknown,,0.0,1
+11,5225755,A,T,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5225756,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225756,T,G,HBB,Unknown,6.1983061269e-05,Unknown,Unknown,,0.0,1
+11,5225757,G,A,HBB,Unknown,6.8191765162e-06,Unknown,Unknown,,0.0,1
+11,5225758,TT,T,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5225761,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225762,C,A,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225762,G,A,HBB,Unknown,9.927529038e-06,Unknown,Unknown,,0.0,1
+11,5225763,AAAA,AAA,HBB,Benign,0.0,Unknown,Deletion,,,1
+11,5225763,C,A,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5225764,A,C,HBB,Unknown,1.24099965e-06,Unknown,Unknown,,0.0,1
+11,5225764,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225765,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225765,A,G,HBB,Unknown,3.1020179247e-06,Unknown,Unknown,,0.0,1
+11,5225767,AG,A,HBB,Unknown,8.0705740661e-06,Unknown,Unknown,,0.0,1
+11,5225767,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225767,GGG,GG,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5225768,G,A,HBB,Likely benign,6.2075789573e-06,Unknown,single nucleotide variant,,0.0,1
+11,5225769,G,A,HBB,Likely benign,6.213101940848784e-07,Unknown,single nucleotide variant,,0.0,1
+11,5225769,G,C,HBB,Uncertain significance,6.213101940848784e-07,Unknown,single nucleotide variant,,0.0,1
+11,5225769,G,T,HBB,Unknown,6.213109661385523e-07,Unknown,Unknown,,0.0,1
+11,5225770,C,G,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225770,G,A,HBB,Unknown,6.215388057753385e-07,Unknown,Unknown,,0.0,1
+11,5225771,C,G,HBB,Likely benign,0.0005113891267362,Unknown,single nucleotide variant,,13.0,-1
+11,5225771,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225772,C,G,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5225773,A,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5225773,TA,T,HBB,Unknown,6.290692919825119e-07,Unknown,Unknown,,0.0,1
+11,5225774,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225774,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225775,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225775,G,C,HBB,Unknown,6.232199280804203e-07,Unknown,Unknown,,0.0,1
+11,5225776,C,A,HBB,Unknown,6.233084965674401e-07,Unknown,Unknown,,0.0,1
+11,5225776,C,G,HBB,Unknown,1.2466169931e-06,Unknown,Unknown,,0.0,1
+11,5225776,C,T,HBB,Unknown,6.233084965674401e-07,Unknown,Unknown,,0.0,1
+11,5225776,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225778,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225779,G,A,HBB,Unknown,1.06372461296e-05,Unknown,Unknown,,0.0,1
+11,5225780,G,A,HBB,Unknown,1.2540065509e-06,Unknown,Unknown,,0.0,1
+11,5225781,A,T,HBB,Unknown,6.283901649398505e-07,Unknown,Unknown,,0.0,1
+11,5225781,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225782,C,A,HBB,Unknown,6.282890934039698e-07,Unknown,Unknown,,0.0,1
+11,5225782,C,T,HBB,Unknown,6.282890934039698e-07,Unknown,Unknown,,0.0,1
+11,5225782,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225785,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225785,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225787,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225790,A,C,HBB,Likely benign,1.2829872047e-06,Unknown,single nucleotide variant,,0.0,1
+11,5225791,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225791,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225792,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225793,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225793,C,G,HBB,Unknown,3.2856649068e-06,Unknown,Unknown,,0.0,1
+11,5225795,A,G,HBB,Unknown,6.560818790185015e-07,Unknown,Unknown,,0.0,1
+11,5225795,G,C,HBB,Benign/Likely benign,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5225796,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225796,G,C,HBB,Unknown,0.0001736901525578,Minor,Unknown,beta (0 or + unclear),0.0,-1
+11,5225796,G,T,HBB,Unknown,6.579181102486535e-07,Unknown,Unknown,,0.0,1
+11,5225797,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225799,T,A,HBB,Unknown,6.663965539301403e-07,Unknown,Unknown,,0.0,1
+11,5225802,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225802,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225803,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225804,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225805,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225806,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225806,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225807,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225807,C,T,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225809,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225811,AAAATAAAAGCAGAA,AAAATAAAAGCAGAAAATAAAAGCAGAA,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5225812,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225814,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225814,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225815,T,C,HBB,Likely benign,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5225816,AAAA,AAA,HBB,Uncertain significance,0.0,Unknown,Deletion,,,1
+11,5225820,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225820,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225821,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225822,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225822,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225824,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225824,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225824,AA,A,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5225827,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225827,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225828,GTAGCTGGATTGTAGCTG,GTAGCTG,HBB,Uncertain significance,0.0,Unknown,Deletion,,,1
+11,5225829,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225831,G,A,HBB,Likely benign,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225831,G,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225831,G,T,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225834,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225836,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225837,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225839,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225839,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225840,T,TT,HBB,Likely benign,0.0,Unknown,Duplication,,,1
+11,5225842,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225842,GCTGCT,GCT,HBB,Likely benign,0.0,Unknown,Microsatellite,,,1
+11,5225843,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225844,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225844,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225845,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225847,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225852,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225853,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225854,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225855,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225856,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225857,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225858,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225861,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225863,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225863,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225867,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225868,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225869,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225870,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225870,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225870,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225871,A,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225871,A,G,HBB,Likely benign,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225872,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225872,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225872,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225874,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225874,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225875,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225875,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225876,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225877,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225878,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225879,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225879,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225880,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225881,ATTTATATGCAGAAATATTTATATGCAGA,ATTTATATGCAGAAATATTTATATGCAGAAATATTTATATGCAGA,HBB,Likely benign,0.0,Unknown,Duplication,,,1
+11,5225884,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225887,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225891,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225895,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225895,ATAT,AT,HBB,Uncertain significance,0.0,Unknown,Microsatellite,,,1
+11,5225897,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225898,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225901,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225901,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225902,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225903,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225904,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225905,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225907,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225909,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225910,G,A,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225910,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225913,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225916,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225916,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225917,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225918,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225918,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225919,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225922,G,A,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5225923,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225923,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225924,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225927,AA,A,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5225929,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225933,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225934,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225937,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225938,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225940,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225941,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225941,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225942,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225943,CT,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5225944,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225945,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225947,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225948,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225949,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225951,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225954,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225960,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225963,G,A,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225964,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225969,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225970,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225970,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225971,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225973,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225974,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225977,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225979,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225981,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225983,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225984,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225985,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225985,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225986,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225987,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225989,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225990,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225994,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5225995,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225997,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225997,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225998,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225999,GAAAGAAAGA,GAAAGA,HBB,Likely benign,0.0,Unknown,Microsatellite,,,1
+11,5225999,GAAAGAAAGAGATTAGGGAAAG,GAAAG,HBB,Uncertain significance,0.0,Unknown,Deletion,,,1
+11,5226003,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226004,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226006,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226007,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226009,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226009,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226011,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226015,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226015,,AAATTATTGCCC,HBB,Likely benign,0.0,Unknown,Insertion,,,1
+11,5226016,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226017,AAA,AA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226020,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226023,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226029,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226029,ATAAGATAA,ATAA,HBB,Uncertain significance,0.0,Unknown,Deletion,,,1
+11,5226033,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226033,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226034,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226040,AAAAAA,AAAAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226040,AAAAAA,AAAAAAA,HBB,Benign,0.0,Unknown,Duplication,,,1
+11,5226048,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226049,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226050,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226053,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226053,AAAA,AAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226053,AAAAGAA,AA,HBB,Uncertain significance,0.0,Unknown,Deletion,,,1
+11,5226057,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226060,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226060,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226062,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226064,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226066,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226069,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226070,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226071,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226072,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226073,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226075,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226081,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226082,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226083,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226084,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226085,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226086,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226086,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226087,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226088,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226090,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226091,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226093,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226094,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226095,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226095,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226097,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226098,G,T,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226101,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226101,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226103,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226104,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226106,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226108,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226111,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226111,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226112,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226112,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226114,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226114,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226115,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226117,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226118,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226119,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226119,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226122,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226125,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226125,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226129,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226129,CA,TG,HBB,Likely benign,0.0,Unknown,Inversion,,,1
+11,5226130,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226130,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226130,A,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226132,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226135,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226136,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226136,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226137,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226140,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226142,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226142,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226143,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226145,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226150,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226151,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226153,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226155,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226158,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226159,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226161,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226162,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226164,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226165,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226166,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226167,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226168,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226169,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226170,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226170,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226171,AATTAA,AA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226172,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226174,TAAAAATAAAA,TAAAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226176,AAAATAAAA,AAAA,HBB,Likely benign,0.0,Unknown,Deletion,,0.0,-1
+11,5226180,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226180,T,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226181,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226181,AAAAGAAAA,AAAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226182,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226184,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226185,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226186,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226186,AAAATAAA,AAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226188,,TATT,HBB,Likely benign,0.0,Unknown,Insertion,,,1
+11,5226189,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226191,AAA,AAAA,HBB,Likely benign,0.0,Unknown,Duplication,,,1
+11,5226192,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226196,A,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226197,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226198,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226199,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226201,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226201,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226204,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226205,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226206,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226207,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226208,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226210,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226212,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226214,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226215,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226216,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226219,AAGCA,A,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226220,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226222,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226224,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226225,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226225,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226226,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226227,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226229,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226232,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226232,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226234,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226234,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226237,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226238,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226239,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226241,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226241,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226242,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226243,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226244,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226245,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226245,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226246,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226246,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226248,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226249,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226251,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226251,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226252,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226253,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226254,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226255,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226257,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226259,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226259,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226259,TGTGT,TGT,HBB,Likely benign,0.0,Unknown,Microsatellite,,,1
+11,5226260,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226260,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226261,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226262,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226263,T,TTTTTTAAGTTAAGTTTTT,HBB,Likely benign,0.0,Unknown,Microsatellite,,,1
+11,5226264,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226264,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226264,A,TTTTTAAGTTAAGTTAAGTTTTTT,HBB,Likely benign,0.0,Unknown,Indel,,,1
+11,5226266,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226266,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226267,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226268,TTTTTTTTT,TTTTTT,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226268,TTTTTTTTT,TTTTTTTT,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226268,TTTTTTTTT,TTTTTTTTTT,HBB,Likely benign,0.0,Unknown,Duplication,,,1
+11,5226268,,C,HBB,Likely benign,0.0,Unknown,Insertion,,,1
+11,5226269,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226270,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226271,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226276,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226276,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226277,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226277,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226279,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226280,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226282,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226283,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226283,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226284,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226286,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226287,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226288,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226289,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226289,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226291,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226292,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226292,TCTC,TC,HBB,Likely benign,0.0,Unknown,Microsatellite,,,1
+11,5226293,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226299,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226303,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226303,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226304,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226306,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226306,CC,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226307,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226310,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226311,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226312,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226312,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226314,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226315,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226316,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226317,A,AA,HBB,Likely benign,0.0,Unknown,Duplication,,0.0,-1
+11,5226318,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226319,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226320,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226321,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226322,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226323,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226325,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226328,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226330,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226330,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226330,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226331,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226332,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226333,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226335,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226337,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226338,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226339,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226339,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226341,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226342,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226343,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226344,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226345,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226346,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226347,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226347,AAAAA,AAAAAA,HBB,Benign,0.0,Unknown,Duplication,,,1
+11,5226350,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226351,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226354,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226355,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226355,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226356,G,A,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226357,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226357,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226359,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226362,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226362,G,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226363,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226363,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226363,AAAAAAAAA,AAAAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226363,AAAAAAAAA,AAAAAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226363,AAAAAAAAA,AAAAAAAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226363,AAAAAAAAA,AAAAAAAAAA,HBB,Benign,0.0,Unknown,Duplication,,,1
+11,5226364,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226365,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226365,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226365,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226366,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226368,AAAAGAAA,AAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226369,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226369,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226369,AAAGAAAG,AAAG,HBB,Likely benign,0.0,Unknown,Microsatellite,,,1
+11,5226370,AAGAA,AA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226371,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226371,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226372,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226372,G,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226373,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226373,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226374,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226375,AGCA,A,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226376,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226377,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226378,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226378,AA,A,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226381,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226381,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226385,AAACAAA,AAA,HBB,Likely benign,0.0,Unknown,Deletion,,0.0,-1
+11,5226387,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226389,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226389,AAAAGAAAA,AAAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226392,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226393,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226393,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226395,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226396,A,G,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226396,AACAA,AA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226398,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226400,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226401,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226402,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226402,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226403,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226405,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226406,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226407,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226407,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226408,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226409,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226410,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226410,ACAGCAAATA,A,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226411,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226412,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226412,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226412,A,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226413,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226416,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226418,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226419,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226419,AAAAGAAA,AAA,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226420,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226424,AAACTAAAAC,AAAC,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226427,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226428,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226432,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226433,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226433,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226433,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226434,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226436,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226436,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226437,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226437,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226438,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226442,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226444,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226447,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226447,CC,C,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226448,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226449,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226451,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226451,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226452,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226452,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226454,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226457,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226458,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226458,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226459,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226460,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226461,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226462,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226465,T,TTAGAAT,HBB,Likely benign,0.0,Unknown,Insertion,,,1
+11,5226466,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226466,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226467,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226467,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226467,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226468,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226469,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226471,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226471,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226472,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226476,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226476,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226480,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226484,A,G,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226486,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226486,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226487,C,G,HBB,Unknown,8.414165415760742e-07,Unknown,Unknown,,0.0,1
+11,5226487,CTG,C,HBB,Unknown,8.414165415760742e-07,Unknown,Unknown,,0.0,1
+11,5226487,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226487,TGT,T,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226488,T,A,HBB,Unknown,8.3908667094e-06,Unknown,Unknown,,0.0,1
+11,5226490,T,C,HBB,Unknown,8.30065641590937e-07,Unknown,Unknown,,0.0,1
+11,5226491,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226492,C,T,HBB,Unknown,1.14456885726e-05,Unknown,Unknown,,0.0,1
+11,5226493,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226493,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226493,CT,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226494,C,A,HBB,Unknown,1.52867799926e-05,Unknown,Unknown,,0.0,1
+11,5226494,C,G,HBB,Unknown,8.045647787285946e-07,Unknown,Unknown,,0.0,1
+11,5226494,C,T,HBB,Unknown,1.6091295574e-06,Unknown,Unknown,,0.0,1
+11,5226495,G,A,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226495,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226495,T,C,HBB,Unknown,7.953412093322157e-07,Unknown,Unknown,,0.0,1
+11,5226496,G,A,HBB,Unknown,0.0,Unknown,Unknown,,9166.0,-1
+11,5226496,G,T,HBB,Unknown,7.819843321619208e-07,Unknown,Unknown,,0.0,1
+11,5226496,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226497,T,C,HBB,Unknown,1.5533208446e-06,Unknown,Unknown,,0.0,1
+11,5226499,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226499,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226500,C,T,HBB,Unknown,7.560773497371875e-07,Unknown,Unknown,,0.0,1
+11,5226500,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226501,T,G,HBB,Unknown,7.513373805373565e-07,Unknown,Unknown,,0.0,1
+11,5226501,TATC,TATCTATC,HBB,Likely benign,0.0,Unknown,Duplication,,,1
+11,5226502,A,C,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226502,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226502,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226503,A,C,HBB,Unknown,0.0,Unknown,Unknown,,143891.0,-1
+11,5226503,A,G,HBB,Unknown,7.445328949523648e-07,Unknown,Unknown,,0.0,1
+11,5226503,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226503,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226505,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226505,C,T,HBB,Likely benign,7.32343205319741e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226506,C,G,HBB,Benign/Likely benign,7.282196776608419e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226506,C,T,HBB,Unknown,5.8262665575e-06,Unknown,Unknown,,0.0,1
+11,5226507,C,A,HBB,Unknown,7.188452469952269e-07,Unknown,Unknown,,0.0,1
+11,5226507,C,G,HBB,Unknown,4.60061619503e-05,Unknown,Unknown,,0.0,1
+11,5226507,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226508,C,T,HBB,Unknown,2.12070486574e-05,Unknown,Unknown,,0.0,1
+11,5226511,C,T,HBB,Likely benign,2.0917263854e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226512,C,G,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226512,C,T,HBB,Unknown,2.766917626e-06,Unknown,Unknown,,0.0,1
+11,5226513,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226513,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226514,A,C,HBB,Unknown,6.859331571856986e-07,Unknown,Unknown,,0.0,1
+11,5226514,A,G,HBB,Unknown,7.5446540638e-06,Unknown,Unknown,,0.0,1
+11,5226515,T,C,HBB,Unknown,1.3651280763e-06,Unknown,Unknown,,0.0,1
+11,5226515,T,G,HBB,Unknown,6.8256403815806e-07,Unknown,Unknown,,0.0,1
+11,5226516,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226516,G,T,HBB,Unknown,6.813372196808343e-07,Unknown,Unknown,,0.0,1
+11,5226518,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226519,A,C,HBB,Unknown,6.670882664510637e-07,Unknown,Unknown,,0.0,1
+11,5226519,A,G,HBB,Unknown,4.6699854696e-06,Unknown,Unknown,,0.0,1
+11,5226519,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226520,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226521,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226521,G,T,HBB,Unknown,1.3247331656e-06,Unknown,Unknown,,0.0,1
+11,5226522,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226523,A,C,HBB,Unknown,6.57415515532099e-07,Unknown,Unknown,,0.0,1
+11,5226523,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226524,C,A,HBB,Unknown,6.511646079012314e-07,Unknown,Unknown,,0.0,1
+11,5226525,T,C,HBB,Unknown,6.505088931070777e-07,Unknown,Unknown,,0.0,1
+11,5226526,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226527,A,T,HBB,Unknown,6.502965352200603e-07,Unknown,Unknown,,0.0,1
+11,5226528,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226528,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226529,C,G,HBB,Likely benign,2.5817578156e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226529,C,T,HBB,Likely benign,1.2908805741e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226530,C,G,HBB,Unknown,2.5765924307e-06,Unknown,Unknown,,0.0,1
+11,5226530,C,T,HBB,Unknown,6.440991500467616e-07,Unknown,Unknown,,0.0,1
+11,5226531,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226531,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226532,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226532,T,C,HBB,Unknown,2.5579601802e-06,Unknown,Unknown,,0.0,1
+11,5226532,T,G,HBB,Unknown,6.394924987529896e-07,Unknown,Unknown,,0.0,1
+11,5226533,A,G,HBB,Unknown,1.2764431146e-06,Unknown,Unknown,,0.0,1
+11,5226535,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226538,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226539,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226539,G,C,HBB,Unknown,6.327071641432195e-07,Unknown,Unknown,,0.0,1
+11,5226540,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226541,A,T,HBB,Unknown,6.318077282721322e-07,Unknown,Unknown,,0.0,1
+11,5226542,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226542,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226543,G,A,HBB,Unknown,1.8887263185e-06,Unknown,Unknown,,0.0,1
+11,5226544,G,T,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226545,G,A,HBB,Unknown,1.2550704847e-06,Unknown,Unknown,,0.0,1
+11,5226545,G,T,HBB,Unknown,1.8827427796e-06,Unknown,Unknown,,0.0,1
+11,5226546,A,T,HBB,Unknown,6.264667151969549e-07,Unknown,Unknown,,0.0,1
+11,5226548,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226550,A,C,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226550,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226551,A,C,HBB,Unknown,0.0019719465056534,Unknown,Unknown,,70.0,-1
+11,5226551,A,G,HBB,Unknown,6.232424562733092e-07,Unknown,Unknown,,0.0,1
+11,5226552,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226553,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226554,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226554,C,T,HBB,Unknown,3.1119570101e-06,Unknown,Unknown,,0.0,1
+11,5226555,A,C,HBB,Unknown,6.218804919820948e-07,Unknown,Unknown,,0.0,1
+11,5226556,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226557,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226557,C,T,HBB,Unknown,1.2429169271e-06,Unknown,Unknown,,0.0,1
+11,5226558,A,G,HBB,Likely benign,1.2427485621e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226559,A,G,HBB,Unknown,1.864190028e-06,Unknown,Unknown,,0.0,1
+11,5226560,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226560,C,G,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226560,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226561,C,A,HBB,Unknown,2.4843825501e-06,Unknown,Unknown,,0.0,1
+11,5226561,C,G,HBB,Unknown,0.0,Unknown,Unknown,,542678.0,-1
+11,5226561,C,T,HBB,Unknown,1.8632892272e-06,Unknown,Unknown,,0.0,1
+11,5226561,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226562,G,A,HBB,Unknown,1.80117511148e-05,Unknown,Unknown,,0.0,1
+11,5226562,G,T,HBB,Unknown,6.21095637548461e-07,Unknown,Unknown,,0.0,1
+11,5226562,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226562,,CC,HBB,Uncertain significance,0.0,Unknown,Insertion,,,1
+11,5226563,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226563,CCC,CCCCC,HBB,Likely benign,0.0,Unknown,Duplication,,,1
+11,5226563,T,C,HBB,Unknown,6.2063692243528e-07,Unknown,Unknown,,0.0,1
+11,5226563,T,TCC,HBB,Unknown,3.1031846121e-06,Unknown,Unknown,,0.0,1
+11,5226564,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226565,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226566,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226566,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226566,C,G,HBB,Unknown,1.8602713019e-06,Unknown,Unknown,,0.0,1
+11,5226567,A,G,HBB,Unknown,1.8596324622e-06,Unknown,Unknown,,0.0,1
+11,5226567,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226567,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226568,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226568,T,A,HBB,Unknown,6.198636547904923e-07,Unknown,Unknown,,0.0,1
+11,5226568,T,C,HBB,Unknown,3.0993182739e-06,Unknown,Unknown,,0.0,1
+11,5226569,A,G,HBB,Unknown,1.8595356367e-06,Unknown,Unknown,,0.0,1
+11,5226569,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226570,G,A,HBB,Unknown,4.9598315641e-06,Unknown,Unknown,,0.0,1
+11,5226570,G,C,HBB,Unknown,1.239957891e-06,Unknown,Unknown,,0.0,1
+11,5226571,C,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226571,C,T,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226571,CTC,C,HBB,Pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5226572,C,T,HBB,Unknown,4.3390993765e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226573,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226573,T,C,HBB,Unknown,4.3394114022e-06,Unknown,Unknown,,0.0,1
+11,5226574,A,C,HBB,Likely pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5226574,A,G,HBB,Pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5226574,A,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226574,A,,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226574,C,T,HBB,Unknown,6.198613494133633e-07,Unknown,Unknown,,0.0,1
+11,5226575,C,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226575,C,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226575,C,T,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226575,CCC,CC,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226575,,GAGAACGT,HBB,Likely pathogenic,0.0,Unknown,Insertion,,,1
+11,5226576,C,A,HBB,Uncertain significance,6.198044888720302e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226576,C,G,HBB,Uncertain significance,6.197591615898062e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226576,C,T,HBB,Uncertain significance,3.22298334213e-05,Unknown,single nucleotide variant,,0.0,1
+11,5226576,CCTGAAGTTCTCAGGATCC,CCTGAAGTTCTCAGGATCCTGAAGTTCTCAGGATCC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226577,C,A,HBB,Unknown,6.196132374172042e-07,Unknown,Unknown,,0.0,1
+11,5226577,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226577,C,T,HBB,Unknown,3.7176794245e-06,Unknown,Unknown,,0.0,1
+11,5226578,C,G,HBB,Unknown,6.19565634924667e-07,Unknown,Unknown,,0.0,1
+11,5226578,C,T,HBB,Unknown,3.0978281746e-06,Unknown,Unknown,,0.0,1
+11,5226579,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226579,G,C,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226582,A,C,HBB,Unknown,6.196201480644306e-07,Unknown,Unknown,,0.0,1
+11,5226582,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226583,G,T,HBB,Unknown,6.196462563451776e-07,Unknown,Unknown,,0.0,1
+11,5226583,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226583,T,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226584,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226585,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226585,C,G,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226585,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226586,C,T,HBB,Unknown,5.5765675111e-06,Unknown,Unknown,,0.0,1
+11,5226586,T,C,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226587,C,G,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226587,C,T,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226588,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226588,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226589,A,C,HBB,Unknown,1.8585932679e-06,Unknown,Unknown,,0.0,1
+11,5226589,A,G,HBB,Unknown,6.195310893091237e-07,Unknown,Unknown,,0.0,1
+11,5226589,G,A,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226589,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226589,GG,AAGTTCTCAGA,HBB,Pathogenic,0.0,Major,Indel,beta0,,1
+11,5226590,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226591,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226592,A,T,HBB,Unknown,6.195525839060065e-07,Unknown,Unknown,,0.0,1
+11,5226592,T,A,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226592,T,C,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226592,T,G,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226593,C,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226593,C,G,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226593,C,T,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226595,C,T,HBB,Unknown,1.2391005616e-06,Unknown,Unknown,,0.0,1
+11,5226596,A,C,HBB,Unknown,6.195172721415473e-07,Unknown,Unknown,,0.0,1
+11,5226596,C,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226596,CGTGC,CGTGCGTGC,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5226596,CGTGCAGCTTGTCACAGTGCAGCTC,CGTGCAGCTTGTCACAGTGCAGCTCGTGCAGCTTGTCACAGTGCAGCTC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226597,C,T,HBB,Unknown,1.2390713903e-06,Unknown,Unknown,,0.0,1
+11,5226597,G,C,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226597,G,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226597,G,Y,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226597,GTGCAGCTTGTCACAGTGCAGCT,GTGCAGCT,HBB,Uncertain significance; other,0.0,Unknown,Deletion,,,1
+11,5226598,G,A,HBB,Unknown,0.0002088034508952,Unknown,Unknown,,1.0,-1
+11,5226598,T,A,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226599,G,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226601,A,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226601,C,T,HBB,Unknown,2.4782011233e-06,Unknown,Unknown,,0.0,1
+11,5226602,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226603,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226603,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226604,TT,TTT,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226606,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226606,T,C,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226607,G,A,HBB,Unknown,1.2391312698e-06,Unknown,Unknown,,0.0,1
+11,5226608,C,G,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226608,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226608,CACA,CACACA,HBB,Likely pathogenic,0.0,Major,Microsatellite,beta0,,1
+11,5226609,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226609,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226609,A,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226610,A,G,HBB,Unknown,4.9562241501e-06,Unknown,Unknown,,0.0,1
+11,5226610,CAGTGCAGCTCACTCAGTG,CAGTG,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226612,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226612,G,C,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226612,G,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226612,G,Y,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226612,,CCAC,HBB,Pathogenic,0.0,Unknown,Insertion,,,1
+11,5226613,G,A,HBB,Unknown,2.4780782998e-06,Unknown,Unknown,,0.0,1
+11,5226614,G,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226614,G,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226615,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226615,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226616,A,AA,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226616,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226616,A,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226616,A,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226616,C,A,HBB,Unknown,6.195349275206088e-07,Unknown,Unknown,,0.0,1
+11,5226616,C,T,HBB,Unknown,1.239069855e-06,Unknown,Unknown,,0.0,1
+11,5226617,A,C,HBB,Unknown,6.195218777955924e-07,Unknown,Unknown,,0.0,1
+11,5226618,C,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226618,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226618,G,A,HBB,Unknown,0.0001431209030867,Unknown,Unknown,,1.0,-1
+11,5226619,C,G,HBB,Unknown,4.9562057271e-06,Unknown,Unknown,,0.0,1
+11,5226619,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226620,C,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226620,C,T,HBB,Uncertain significance,0.0,Major,single nucleotide variant,beta0,,1
+11,5226620,CAC,C,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226621,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226621,C,T,HBB,Unknown,6.195295540378459e-07,Major,Unknown,beta0,0.0,1
+11,5226622,C,T,HBB,Pathogenic/Likely pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226622,C,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226623,T,G,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226624,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226624,CA,,HBB,Pathogenic,0.0,Unknown,Deletion,,0.0,-1
+11,5226624,CAGTG,CAGTGCAGTG,HBB,Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5226625,A,AA,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226625,A,C,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226625,A,G,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226625,AG,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226625,C,T,HBB,Unknown,6.195295540378459e-07,Unknown,Unknown,,0.0,1
+11,5226626,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226626,GTGTGGCAAAGGTGCCCTTGAGGT,GT,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226627,G,A,HBB,Unknown,1.2391404825e-06,Unknown,Unknown,,0.0,1
+11,5226627,G,T,HBB,Unknown,6.195249482696668e-07,Unknown,Unknown,,0.0,1
+11,5226628,G,A,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226629,G,A,HBB,Unknown,1.92054875653e-05,Unknown,Unknown,,0.0,1
+11,5226629,G,T,HBB,Unknown,6.195318569476161e-07,Unknown,Unknown,,0.0,1
+11,5226629,T,G,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226630,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226630,T,G,HBB,Unknown,6.07188617567e-05,Unknown,Unknown,,0.0,1
+11,5226631,G,A,HBB,Uncertain significance,6.1957331225e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226631,GCAAAGGTGC,GC,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226632,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226632,G,A,HBB,Unknown,1.8585794505e-06,Unknown,Unknown,,0.0,1
+11,5226633,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226633,AAA,AAAA,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226633,C,A,HBB,Unknown,6.19580222e-06,Unknown,Unknown,,0.0,1
+11,5226633,C,T,HBB,Unknown,6.195318569476161e-07,Unknown,Unknown,,0.0,1
+11,5226634,A,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226635,AGGTGCCCTTGAGGTTGTCCAGGTG,AGGTG,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226636,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226636,GG,GGG,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226637,G,A,HBB,Unknown,6.1957407999e-06,Unknown,Unknown,,0.0,1
+11,5226637,G,T,HBB,Uncertain significance,1.239052967e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226638,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226638,T,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226639,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226639,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226639,T,C,HBB,Unknown,6.195518162161492e-07,Unknown,Unknown,,0.0,1
+11,5226640,CCC,CC,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226640,G,A,HBB,Unknown,6.195165045391975e-07,Unknown,Unknown,,0.0,1
+11,5226640,GC,G,HBB,Unknown,6.195165045391975e-07,Unknown,Unknown,,0.0,1
+11,5226641,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226641,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226641,C,T,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226642,C,A,HBB,Unknown,6.195426040862552e-07,Unknown,Unknown,,0.0,1
+11,5226642,C,G,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226642,C,R,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226642,C,T,HBB,Likely benign,6.195426040862552e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226643,C,T,HBB,Unknown,3.0976017128e-06,Unknown,Unknown,,0.0,1
+11,5226643,T,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226643,T,G,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226644,T,A,HBB,Unknown,3.0976055509e-06,Unknown,Unknown,,0.0,1
+11,5226644,T,C,HBB,Uncertain significance,1.0531858873e-05,Unknown,single nucleotide variant,,0.0,1
+11,5226645,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226645,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226646,G,A,HBB,Unknown,2.4780782998e-06,Unknown,Unknown,,0.0,1
+11,5226646,G,C,HBB,Unknown,6.8152135392e-06,Unknown,Unknown,,0.0,1
+11,5226646,G,T,HBB,Unknown,5.76153204712e-05,Unknown,Unknown,,1.0,-1
+11,5226647,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226647,GG,G,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226650,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226651,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226652,G,A,HBB,Unknown,1.8585794505e-06,Unknown,Unknown,,0.0,1
+11,5226652,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226653,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226653,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226653,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226653,T,G,HBB,Unknown,6.195149693402042e-07,Unknown,Unknown,,0.0,1
+11,5226654,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226654,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226656,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226656,GG,G,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226656,GG,GGG,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226657,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226657,GTG,G,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226658,G,A,HBB,Unknown,1.8586070855e-06,Unknown,Unknown,,0.0,1
+11,5226658,G,T,HBB,Unknown,6.195356951686129e-07,Unknown,Unknown,,0.0,1
+11,5226658,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226659,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226659,G,,HBB,Pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5226661,A,G,HBB,Unknown,6.195249482696668e-07,Unknown,Unknown,,0.0,1
+11,5226661,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226661,G,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226661,GC,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226662,G,T,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226663,C,T,HBB,Uncertain significance,6.195809897682395e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226665,GG,G,HBB,Pathogenic/Likely pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226666,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226667,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226667,C,CTGGAC,HBB,Likely pathogenic,0.0,Unknown,Insertion,,,1
+11,5226667,CCATC,CCATCCATC,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5226668,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226669,C,A,HBB,Unknown,6.19525715892941e-07,Unknown,Unknown,,0.0,1
+11,5226669,C,T,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226670,A,G,HBB,Unknown,6.195157369387497e-07,Unknown,Unknown,,0.0,1
+11,5226670,TCACT,A,HBB,Pathogenic,0.0,Major,Indel,beta0,,1
+11,5226671,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226671,CA,AT,HBB,Pathogenic,0.0,Unknown,Indel,,,1
+11,5226671,CAC,C,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226672,A,AA,HBB,Pathogenic,0.0,Minor,Duplication,beta (0 or + unclear),,1
+11,5226672,C,T,HBB,Unknown,6.8153486608e-06,Unknown,Unknown,,0.0,1
+11,5226674,C,CT,HBB,Unknown,1.2390498965e-06,Major,Unknown,beta0,0.0,1
+11,5226674,C,T,HBB,Unknown,6.195249482696668e-07,Unknown,Unknown,,0.0,1
+11,5226674,T,TT,HBB,Pathogenic/Likely pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226675,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226675,AAA,AA,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226675,AAA,AAAA,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226675,AAAGGCACCGA,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226675,T,A,HBB,Unknown,6.195395334371682e-07,Unknown,Unknown,,0.0,1
+11,5226676,A,G,HBB,Unknown,1.2391481599e-06,Unknown,Unknown,,0.0,1
+11,5226678,A,G,HBB,Unknown,1.2390498965e-06,Unknown,Unknown,,0.0,1
+11,5226678,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226678,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226679,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226679,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226679,GCACCGAGCAC,GCAC,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226680,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226680,G,A,HBB,Unknown,6.195326245880108e-07,Unknown,Unknown,,0.0,1
+11,5226681,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226681,A,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226682,A,T,HBB,Unknown,6.195272511451961e-07,Unknown,Unknown,,0.0,1
+11,5226682,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226682,CC,C,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226683,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226683,C,T,HBB,Unknown,1.2391926907e-06,Unknown,Unknown,,0.0,1
+11,5226684,C,G,HBB,Unknown,6.195740799944486e-07,Unknown,Unknown,,0.0,1
+11,5226684,C,T,HBB,Unknown,0.0004944207284961,Unknown,Unknown,,4.0,-1
+11,5226684,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226684,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226685,A,G,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226685,A,T,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226685,G,A,HBB,Unknown,0.0003959048936075,Unknown,Unknown,,0.0,-1
+11,5226685,G,T,HBB,Unknown,3.0978550451e-06,Unknown,Unknown,,0.0,1
+11,5226686,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226687,CAC,C,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226688,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226688,A,T,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226688,C,G,HBB,Unknown,6.19528018774177e-07,Unknown,Unknown,,0.0,1
+11,5226689,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226689,C,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226689,CTTTCTT,CTT,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226690,TTT,TT,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226691,T,C,HBB,Unknown,6.1952725114e-06,Unknown,Unknown,,0.0,1
+11,5226691,T,G,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226692,T,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226693,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226694,C,G,HBB,Unknown,1.2390713903e-06,Unknown,Unknown,,0.0,1
+11,5226695,T,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226696,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226696,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226696,GCCATGAGCC,GCC,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226697,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226697,CC,C,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226698,C,T,HBB,Uncertain significance,6.195379981240389e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226699,C,T,HBB,Unknown,6.195372304703279e-07,Unknown,Unknown,,0.0,1
+11,5226700,A,G,HBB,Unknown,1.2390683197e-06,Unknown,Unknown,,0.0,1
+11,5226700,T,C,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226701,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226701,G,T,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226702,A,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226703,A,G,HBB,Unknown,6.195426040862552e-07,Unknown,Unknown,,0.0,1
+11,5226704,G,A,HBB,Unknown,1.8587291497e-06,Unknown,Unknown,,0.0,1
+11,5226705,C,T,HBB,Likely benign,9.2934499764e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226706,C,A,HBB,Unknown,6.195349275206088e-07,Unknown,Unknown,,0.0,1
+11,5226706,C,G,HBB,Unknown,6.195349275206088e-07,Unknown,Unknown,,0.0,1
+11,5226706,C,T,HBB,Unknown,1.239069855e-06,Unknown,Unknown,,0.0,1
+11,5226706,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226707,T,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226707,T,C,HBB,Uncertain significance,0.0,Major,single nucleotide variant,beta0,,1
+11,5226709,A,T,HBB,Pathogenic; other,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226709,C,T,HBB,Unknown,1.2391358762e-06,Unknown,Unknown,,0.0,1
+11,5226710,A,G,HBB,Unknown,6.195548869869931e-07,Intermedia,Unknown,beta+,0.0,1
+11,5226710,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226711,C,A,HBB,Unknown,6.195287864050603e-07,Unknown,Unknown,,0.0,1
+11,5226711,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226711,C,T,HBB,Likely benign,6.195287864050603e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226712,C,T,HBB,Unknown,6.93873100522e-05,Unknown,Unknown,,1.0,-1
+11,5226712,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226712,TT,T,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226713,T,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226714,AGGGTTGCCCATAA,A,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226715,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226715,GGG,GG,HBB,Likely pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226715,GGG,GGGG,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226716,G,A,HBB,Unknown,2.4781028635e-06,Unknown,Unknown,,0.0,1
+11,5226717,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226717,G,T,HBB,Uncertain significance,1.2390836728e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226718,G,A,HBB,Unknown,5.5762841872e-06,Unknown,Unknown,,0.0,1
+11,5226718,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226719,T,C,HBB,Unknown,2.1686033327e-05,Unknown,Unknown,,0.0,1
+11,5226720,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226720,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226721,C,CACCTTAGGGTTGCC,HBB,Pathogenic,0.0,Unknown,Insertion,,,1
+11,5226721,G,A,HBB,Unknown,2.4783024619e-06,Unknown,Unknown,,0.0,1
+11,5226722,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226722,C,T,HBB,Uncertain significance,1.2391834772e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226723,C,T,HBB,Unknown,6.195533515977661e-07,Unknown,Unknown,,0.0,1
+11,5226723,CATAA,TGATGCC,HBB,Pathogenic,0.0,Unknown,Indel,,,1
+11,5226724,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226724,ATAACAGCATCAG,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226725,T,TT,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226725,T,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226726,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226726,AA,A,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226727,A,G,HBB,Uncertain significance,4.9565373629e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226728,C,CC,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226728,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226729,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226729,A,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226729,C,T,HBB,Unknown,1.8586946016e-06,Unknown,Unknown,,0.0,1
+11,5226730,A,G,HBB,Unknown,6.195049907322053e-07,Unknown,Unknown,,0.0,1
+11,5226730,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226731,C,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226732,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226732,C,T,HBB,Unknown,2.4781028635e-06,Unknown,Unknown,,0.0,1
+11,5226733,A,G,HBB,Unknown,1.8587153303e-06,Unknown,Unknown,,0.0,1
+11,5226733,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226733,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226733,T,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226734,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226734,T,C,HBB,Unknown,6.195426040862552e-07,Unknown,Unknown,,0.0,1
+11,5226735,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226735,C,T,HBB,Unknown,8.6739511334e-06,Unknown,Unknown,,0.0,1
+11,5226736,A,G,HBB,Unknown,7.4342625335e-06,Unknown,Unknown,,0.0,1
+11,5226736,GG,G,HBB,Pathogenic/Likely pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226737,G,A,HBB,Unknown,6.195241806482949e-07,Unknown,Unknown,,0.0,1
+11,5226737,G,T,HBB,Uncertain significance,4.9565557885e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226738,A,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226738,G,T,HBB,Unknown,1.858570239e-06,Unknown,Unknown,,0.0,1
+11,5226739,A,G,HBB,Unknown,6.195165045391975e-07,Unknown,Unknown,,0.0,1
+11,5226740,G,C,HBB,Unknown,4.3368949566e-06,Unknown,Unknown,,0.0,1
+11,5226740,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226741,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226741,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226741,GG,G,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226741,T,A,HBB,Unknown,6.1965700745e-06,Unknown,Unknown,,0.0,1
+11,5226742,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226743,G,A,HBB,Unknown,6.195809897682395e-07,Unknown,Unknown,,0.0,1
+11,5226744,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226744,C,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226745,A,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226745,AGAT,AGATAGAT,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226745,C,T,HBB,Unknown,1.2390406851e-06,Unknown,Unknown,,0.0,1
+11,5226747,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226747,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226748,A,G,HBB,Unknown,4.9565926399e-06,Unknown,Unknown,,0.0,1
+11,5226748,T,TT,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226749,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226749,CCCC,CCCCC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226750,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226750,C,T,HBB,Likely benign,6.195318569476161e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226751,C,G,HBB,Unknown,1.2391005616e-06,Unknown,Unknown,,0.0,1
+11,5226752,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226752,C,T,HBB,Unknown,6.195579577882773e-07,Unknown,Unknown,,0.0,1
+11,5226753,AAA,AA,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226753,AAA,AAAA,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226754,A,C,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226756,AG,A,HBB,Unknown,5.5757176258e-06,Major,Unknown,beta0,0.0,1
+11,5226756,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226756,GG,G,HBB,Pathogenic/Likely pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226757,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226760,C,T,HBB,Unknown,6.195295540378459e-07,Unknown,Unknown,,0.0,1
+11,5226760,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226761,C,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226761,C,CC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226761,C,G,HBB,Benign,0.0,Major,single nucleotide variant,beta0,,1
+11,5226761,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226761,T,G,HBB,Unknown,6.196101660679167e-07,Unknown,Unknown,,0.0,1
+11,5226762,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226762,AAA,AA,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226762,AAA,AAAA,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226762,AAAGAA,AA,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226762,AAAGAA,AAAGAAAGAA,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226762,CAAAG,C,HBB,Unknown,9.23105898213e-05,Unknown,Unknown,,0.0,1
+11,5226763,A,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226764,A,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226764,A,G,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226764,A,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226765,G,GG,HBB,Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5226765,G,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226766,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226766,AA,AAA,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226768,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226768,CC,C,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226769,C,A,HBB,Unknown,6.195794542496335e-07,Unknown,Unknown,,0.0,1
+11,5226769,C,T,HBB,Unknown,6.195341598745072e-07,Unknown,Unknown,,0.0,1
+11,5226770,C,T,HBB,Unknown,2.10654143071e-05,Unknown,Unknown,,0.0,1
+11,5226770,TCTG,TCTGTCTG,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226771,CTGGGTCC,C,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226771,T,C,HBB,Unknown,6.195748477394811e-07,Unknown,Unknown,,0.0,1
+11,5226773,G,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226773,GGG,G,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226773,GGG,GG,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226773,GGGTCCAAGGGT,GGGT,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226774,G,A,HBB,Likely benign,0.0001573601167686,Unknown,single nucleotide variant,,0.0,-1
+11,5226774,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226775,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226775,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226777,C,A,HBB,Uncertain significance,0.0,Major,single nucleotide variant,beta0,,1
+11,5226777,C,T,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226777,CC,C,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226778,C,T,HBB,Pathogenic,1.2390744609e-06,Major,single nucleotide variant,beta0,0.0,1
+11,5226779,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226779,AA,A,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226779,CA,C,HBB,Unknown,1.8585955708e-06,Major,Unknown,beta0,0.0,1
+11,5226780,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226781,GGG,GG,HBB,Pathogenic/Likely pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226783,G,C,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226783,G,T,HBB,Pathogenic,1.2391834772e-06,Major,single nucleotide variant,beta0,0.0,1
+11,5226784,G,A,HBB,Unknown,6.8147659871e-06,Major,Unknown,beta0,0.0,1
+11,5226784,G,T,HBB,Unknown,3.0976209032e-06,Major,Unknown,beta0,0.0,1
+11,5226784,T,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226786,A,G,HBB,Unknown,6.1951957496001e-07,Unknown,Unknown,,0.0,1
+11,5226786,G,GTAGG,HBB,Pathogenic,0.0,Unknown,Insertion,,,1
+11,5226787,ACCACCA,ACCA,HBB,Pathogenic,0.0,Major,Microsatellite,beta0,,1
+11,5226788,C,A,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226788,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226789,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226789,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226790,ACCAGCAGCCTAAGGGTGGGAAAATAGACCAATAGGCAGAGA,,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226790,C,A,HBB,Unknown,1.30117006168e-05,Unknown,Unknown,,0.0,1
+11,5226791,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226793,A,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226793,A,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226793,C,T,HBB,Unknown,1.2391865483e-06,Unknown,Unknown,,0.0,1
+11,5226795,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226795,CAGCCTAAGGGTGGGAAAATAGACC,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226795,CAGCCTAAGGGTGGGAAAATAGACCAATAGGCAGAGA,TAATCTGAGGGTAGGAAAACAGCCCAAGGGACAGT,HBB,Likely pathogenic,0.0,Unknown,Indel,,,1
+11,5226796,AGCCTAAGGGTGGGAAAATAGACCAA,A,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226796,C,A,HBB,Unknown,3.7177439242e-06,Unknown,Unknown,,0.0,1
+11,5226796,C,T,HBB,Unknown,2.4785051639e-06,Unknown,Unknown,,0.0,1
+11,5226797,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226797,G,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226797,GCC,GCCGCC,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226798,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226798,C,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226798,G,A,HBB,Unknown,4.3375883009e-06,Unknown,Unknown,,0.0,1
+11,5226799,C,A,HBB,Unknown,0.0001375582298858,Unknown,Unknown,,0.0,-1
+11,5226799,C,G,HBB,Pathogenic,1.239264868e-06,Major,single nucleotide variant,beta0,0.0,1
+11,5226799,C,T,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226799,CTAAGGGTGGGAAAATA,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226800,C,G,HBB,Unknown,1.8587982497e-06,Major,Unknown,beta0,0.0,1
+11,5226800,T,C,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226800,T,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226801,A,C,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226801,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226801,T,C,HBB,Unknown,6.196470242690954e-07,Major,Unknown,beta0,0.0,1
+11,5226802,A,C,HBB,Unknown,2.4789690463e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226802,A,G,HBB,Unknown,2.4791564917e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226803,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226803,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226804,G,A,HBB,Likely benign,1.2396289542e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226805,G,A,HBB,Unknown,6.197814402729021e-07,Unknown,Unknown,,0.0,1
+11,5226805,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226806,G,T,HBB,Unknown,1.2396489314e-06,Unknown,Unknown,,0.0,1
+11,5226807,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226807,GGG,GGGG,HBB,Likely benign,0.0,Unknown,Duplication,,,1
+11,5226807,T,TG,HBB,Unknown,8.0577080655e-06,Unknown,Unknown,,0.0,1
+11,5226808,G,A,HBB,Unknown,2.4801618057e-06,Unknown,Unknown,,0.0,1
+11,5226809,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226812,A,G,HBB,Unknown,6.203943474630214e-07,Unknown,Unknown,,0.0,1
+11,5226812,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226813,A,C,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226813,A,G,HBB,Likely benign,1.2413894126e-06,Major,single nucleotide variant,beta0,0.0,1
+11,5226814,A,C,HBB,Unknown,6.206415447519792e-07,Major,Unknown,beta0,0.0,1
+11,5226814,A,G,HBB,Unknown,1.2413740024e-06,Major,Unknown,beta0,0.0,1
+11,5226814,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226815,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226815,T,C,HBB,Unknown,2.4831456489e-06,Unknown,Unknown,,0.0,1
+11,5226816,A,G,HBB,Unknown,1.2414664698e-06,Unknown,Unknown,,0.0,1
+11,5226816,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226816,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226817,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226817,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226817,G,A,HBB,Unknown,1.73879995479e-05,Unknown,Unknown,,0.0,1
+11,5226817,G,C,HBB,Unknown,6.209544815526842e-07,Unknown,Unknown,,0.0,1
+11,5226818,A,G,HBB,Unknown,6.210046115802456e-07,Unknown,Unknown,,0.0,1
+11,5226819,C,G,HBB,Unknown,6.208611841312848e-07,Unknown,Unknown,,0.0,1
+11,5226819,C,T,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226820,C,G,HBB,Unknown,6.217729981396552e-07,Unknown,Unknown,,0.0,1
+11,5226820,C,T,HBB,Unknown,0.0001224982682351,Intermedia,Unknown,beta+,0.0,-1
+11,5226821,A,G,HBB,Unknown,3.1093637868e-06,Unknown,Unknown,,0.0,1
+11,5226821,ATA,A,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226822,A,G,HBB,Unknown,0.0010574164703189,Unknown,Unknown,,18.0,-1
+11,5226822,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226823,T,A,HBB,Unknown,6.216717250022691e-07,Unknown,Unknown,,0.0,1
+11,5226823,T,C,HBB,Unknown,3.1085866624e-06,Unknown,Unknown,,0.0,1
+11,5226824,A,G,HBB,Unknown,6.221281011530522e-07,Unknown,Unknown,,0.0,1
+11,5226825,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226825,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226825,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226826,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226826,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226826,G,A,HBB,Unknown,3.1141045267e-06,Unknown,Unknown,,0.0,1
+11,5226826,G,T,HBB,Unknown,1.8683277345e-06,Unknown,Unknown,,0.0,1
+11,5226827,AGAGAGAG,AGAG,HBB,Likely benign,0.0,Unknown,Microsatellite,,,1
+11,5226827,CAGAG,C,HBB,Unknown,2.4926839725e-06,Unknown,Unknown,,0.0,1
+11,5226828,A,G,HBB,Unknown,1.870179612e-06,Unknown,Unknown,,0.0,1
+11,5226828,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226829,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226829,G,C,HBB,Unknown,3.1326475758e-06,Unknown,Unknown,,0.0,1
+11,5226829,GAGAGAGTC,G,HBB,Unknown,6.264808440952301e-07,Unknown,Unknown,,0.0,1
+11,5226830,A,T,HBB,Unknown,1.2527199682e-06,Unknown,Unknown,,0.0,1
+11,5226830,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226831,G,A,HBB,Unknown,6.238170868490624e-07,Unknown,Unknown,,0.0,1
+11,5226831,G,C,HBB,Unknown,6.238170868490624e-07,Unknown,Unknown,,0.0,1
+11,5226832,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226832,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226833,G,A,HBB,Unknown,3.7620526762e-06,Unknown,Unknown,,0.0,1
+11,5226833,G,C,HBB,Unknown,3.7623404767e-06,Unknown,Unknown,,0.0,1
+11,5226834,A,T,HBB,Unknown,1.255872775e-06,Unknown,Unknown,,0.0,1
+11,5226834,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226835,G,A,HBB,Unknown,6.2797503171e-06,Unknown,Unknown,,0.0,1
+11,5226835,G,C,HBB,Unknown,1.2559532182e-06,Unknown,Unknown,,0.0,1
+11,5226837,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226837,C,T,HBB,Unknown,9.3799127292e-06,Unknown,Unknown,,0.0,1
+11,5226838,A,T,HBB,Unknown,1.2582161514e-06,Unknown,Unknown,,0.0,1
+11,5226838,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226838,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226839,G,A,HBB,Unknown,5.28454773079e-05,Unknown,Unknown,,0.0,1
+11,5226839,G,C,HBB,Unknown,1.8873408499e-06,Unknown,Unknown,,0.0,1
+11,5226839,G,T,HBB,Unknown,6.291120335291549e-07,Unknown,Unknown,,0.0,1
+11,5226839,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226839,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226841,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226841,G,A,HBB,Unknown,6.256632029951749e-07,Unknown,Unknown,,0.0,1
+11,5226841,G,C,HBB,Unknown,6.256632029951749e-07,Unknown,Unknown,,0.0,1
+11,5226842,C,G,HBB,Likely benign,6.255489191765774e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226844,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226844,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226845,A,G,HBB,Unknown,4.19074782956e-05,Unknown,Unknown,,0.0,1
+11,5226845,A,T,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226847,C,T,HBB,Unknown,1.2560257836e-06,Unknown,Unknown,,0.0,1
+11,5226853,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226853,C,T,HBB,Likely benign,6.267274174443309e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226854,C,T,HBB,Likely benign,1.2534281259e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226854,CCAA,C,HBB,Unknown,9.4007227275e-06,Unknown,Unknown,,0.0,1
+11,5226857,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226858,G,A,HBB,Unknown,6.271511283703102e-07,Unknown,Unknown,,0.0,1
+11,5226859,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226860,G,C,HBB,Unknown,6.288129646141792e-07,Unknown,Unknown,,0.0,1
+11,5226860,G,T,HBB,Unknown,6.288137554266627e-07,Unknown,Unknown,,0.0,1
+11,5226860,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226862,C,G,HBB,Unknown,1.2559816124e-06,Unknown,Unknown,,0.0,1
+11,5226862,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226862,TT,,HBB,Likely benign,0.0,Unknown,Deletion,,,1
+11,5226863,T,C,HBB,Unknown,6.275021648824688e-07,Unknown,Unknown,,0.0,1
+11,5226863,T,G,HBB,Unknown,1.8825064946e-06,Unknown,Unknown,,0.0,1
+11,5226864,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226864,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226865,C,A,HBB,Unknown,1.06699739401e-05,Unknown,Unknown,,0.0,1
+11,5226865,C,G,HBB,Unknown,6.275990445432146e-07,Unknown,Unknown,,0.0,1
+11,5226865,C,T,HBB,Unknown,1.255198089e-06,Unknown,Unknown,,0.0,1
+11,5226865,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226865,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226867,C,T,HBB,Unknown,6.282077860072998e-07,Unknown,Unknown,,0.0,1
+11,5226867,T,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226868,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226868,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226869,G,A,HBB,Unknown,2.76964021114e-05,Unknown,Unknown,,0.0,1
+11,5226869,G,C,HBB,Unknown,6.294169333296407e-07,Unknown,Unknown,,0.0,1
+11,5226871,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226872,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226872,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226872,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226872,T,G,HBB,Unknown,6.285876640928098e-07,Unknown,Unknown,,0.0,1
+11,5226873,C,A,HBB,Unknown,5.6594305606e-06,Unknown,Unknown,,0.0,1
+11,5226873,C,T,HBB,Unknown,1.257649654e-06,Unknown,Unknown,,0.0,1
+11,5226874,C,G,HBB,Unknown,8.1700989461e-06,Unknown,Unknown,,0.0,1
+11,5226875,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226876,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226877,A,G,HBB,Unknown,6.9188482004e-06,Unknown,Unknown,,0.0,1
+11,5226878,T,A,HBB,Unknown,9.432467307e-06,Unknown,Unknown,,0.0,1
+11,5226879,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226880,C,T,HBB,Likely benign,6.920241076e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226881,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226881,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226882,A,C,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226882,C,T,HBB,Unknown,2.5152740013e-06,Unknown,Unknown,,0.0,1
+11,5226883,A,C,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226883,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226884,G,A,HBB,Unknown,6.28649309240139e-07,Unknown,Unknown,,0.0,1
+11,5226884,G,C,HBB,Unknown,6.28649309240139e-07,Unknown,Unknown,,0.0,1
+11,5226884,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226885,T,C,HBB,Unknown,3.7659866131e-06,Unknown,Unknown,,0.0,1
+11,5226886,T,C,HBB,Unknown,6.278788244099195e-07,Unknown,Unknown,,0.0,1
+11,5226886,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226888,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226889,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226889,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226889,T,C,HBB,Unknown,6.273549335819331e-07,Unknown,Unknown,,0.0,1
+11,5226890,A,C,HBB,Unknown,1.2551429482e-06,Unknown,Unknown,,0.0,1
+11,5226890,A,G,HBB,Unknown,1.2551429482e-06,Unknown,Unknown,,0.0,1
+11,5226890,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226891,T,C,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226892,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226893,G,A,HBB,Likely benign,5.0219585136e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226893,G,C,HBB,Unknown,6.277448142000899e-07,Unknown,Unknown,,0.0,1
+11,5226893,G,T,HBB,Likely benign,3.1387398336e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226894,G,A,HBB,Unknown,6.267132774221528e-07,Unknown,Unknown,,0.0,1
+11,5226894,G,GCATTCTAT,HBB,Unknown,6.2671327742e-06,Unknown,Unknown,,0.0,1
+11,5226894,G,T,HBB,Unknown,5.39013279782e-05,Unknown,Unknown,,0.0,1
+11,5226894,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226894,,CATTCTAT,HBB,Likely benign,0.0,Unknown,Insertion,,,1
+11,5226895,T,C,HBB,Unknown,6.260729324880514e-07,Unknown,Unknown,,0.0,1
+11,5226896,C,T,HBB,Unknown,6.260219808837928e-07,Unknown,Unknown,,0.0,1
+11,5226897,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226898,C,T,HBB,Unknown,1.8742221977e-06,Unknown,Unknown,,0.0,1
+11,5226898,CCTT,C,HBB,Unknown,6.247407325959727e-07,Unknown,Unknown,,0.0,1
+11,5226900,T,C,HBB,Unknown,6.235269176570353e-07,Unknown,Unknown,,0.0,1
+11,5226900,T,G,HBB,Unknown,1.2471455955e-06,Unknown,Unknown,,0.0,1
+11,5226901,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226902,A,G,HBB,Unknown,8.1100976954e-06,Unknown,Unknown,,0.0,1
+11,5226902,AACCTGTCTTGTAACCTTGATACCAACCTGCCCAGGGCCTCACCA,A,HBB,Likely pathogenic,0.0,Major,Deletion,beta0,0.0,-1
+11,5226903,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226904,A,G,HBB,Unknown,9.3475765473e-06,Unknown,Unknown,,0.0,1
+11,5226904,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226905,C,A,HBB,Unknown,6.226929227213175e-07,Unknown,Unknown,,0.0,1
+11,5226905,C,G,HBB,Likely benign,1.2453858454e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226905,C,T,HBB,Unknown,6.227386801676413e-07,Unknown,Unknown,,0.0,1
+11,5226906,C,A,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226906,C,G,HBB,Unknown,6.223751328770908e-07,Unknown,Unknown,,0.0,1
+11,5226907,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226907,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226907,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226908,G,A,HBB,Unknown,1.2451299853e-06,Unknown,Unknown,,0.0,1
+11,5226908,G,C,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226908,G,T,HBB,Unknown,1.2452214626e-06,Unknown,Unknown,,0.0,1
+11,5226908,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226909,T,C,HBB,Unknown,1.2440162816e-06,Unknown,Unknown,,0.0,1
+11,5226910,C,T,HBB,Unknown,6.216554934452645e-07,Unknown,Unknown,,0.0,1
+11,5226911,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226911,T,G,HBB,Unknown,6.215125377724244e-07,Unknown,Unknown,,0.0,1
+11,5226912,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226912,T,C,HBB,Unknown,6.213626981059622e-07,Unknown,Unknown,,0.0,1
+11,5226913,G,A,HBB,Unknown,6.21371192237334e-07,Unknown,Unknown,,0.0,1
+11,5226914,A,ACCA,HBB,Uncertain significance,0.0,Unknown,Insertion,,,1
+11,5226914,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226915,A,G,HBB,Unknown,6.211403889084203e-07,Unknown,Unknown,,0.0,1
+11,5226916,A,G,HBB,Unknown,6.209066727598308e-07,Unknown,Unknown,,0.0,1
+11,5226916,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226916,CC,C,HBB,Uncertain significance,0.0,Unknown,Deletion,,,1
+11,5226917,C,G,HBB,Unknown,6.207008705950411e-07,Unknown,Unknown,,0.0,1
+11,5226917,C,T,HBB,Likely benign,6.207008705950411e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226918,C,G,HBB,Unknown,6.205244672797449e-07,Unknown,Unknown,,0.0,1
+11,5226918,TT,TTT,HBB,Uncertain significance,0.0,Unknown,Duplication,,,1
+11,5226919,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226920,G,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226920,T,G,HBB,Unknown,6.2043668815e-06,Unknown,Unknown,,0.0,1
+11,5226922,T,C,HBB,Likely benign,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226923,A,G,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226923,A,T,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226923,T,C,HBB,Unknown,1.240694789e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226924,A,C,HBB,Unknown,6.202858277094085e-07,Unknown,Unknown,,0.0,1
+11,5226924,A,G,HBB,Unknown,7.38140134974e-05,Intermedia,Unknown,beta+,1.0,-1
+11,5226924,C,A,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226924,C,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226924,C,T,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226925,C,A,HBB,Uncertain significance,1.2405208699e-06,Intermedia,single nucleotide variant,beta+,0.0,1
+11,5226925,C,G,HBB,Unknown,0.0002915224044271,Intermedia,Unknown,beta+,2.0,-1
+11,5226925,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5226926,C,A,HBB,Unknown,6.203196879543842e-07,Unknown,Unknown,,0.0,1
+11,5226927,A,C,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226927,A,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226927,A,T,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226928,A,C,HBB,Unknown,6.201435012061791e-07,Major,Unknown,beta0,0.0,1
+11,5226928,A,G,HBB,Unknown,3.1009444236e-06,Major,Unknown,beta0,0.0,1
+11,5226928,C,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226928,C,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226928,C,T,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226929,C,A,HBB,Likely pathogenic,2.79024431379e-05,Major,single nucleotide variant,beta0,0.0,1
+11,5226929,C,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226929,C,T,HBB,Likely pathogenic,4.65006696096e-05,Major,single nucleotide variant,beta0,0.0,1
+11,5226930,C,G,HBB,Unknown,4.21644761807e-05,Major,Unknown,beta0,0.0,1
+11,5226930,C,T,HBB,Unknown,4.3401432247e-06,Major,Unknown,beta0,0.0,1
+11,5226930,T,C,HBB,Pathogenic/Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226930,T,G,HBB,Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226930,T,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226931,G,T,HBB,Likely benign,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226931,GCCCAGGGCC,GCC,HBB,Likely pathogenic,0.0,Unknown,Deletion,,0.0,-1
+11,5226932,C,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226932,CCC,CC,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226932,G,A,HBB,Unknown,3.1007098144e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226932,G,T,HBB,Unknown,2.4805709282e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226934,C,A,HBB,Unknown,1.2398010863e-06,Unknown,Unknown,,0.0,1
+11,5226934,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226934,C,T,HBB,Likely benign,6.198552018248537e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226935,A,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226935,A,T,HBB,Pathogenic; other,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226935,C,A,HBB,Unknown,5.5788143903e-06,Unknown,Unknown,,0.0,1
+11,5226935,C,T,HBB,Unknown,1.2396458579e-06,Unknown,Unknown,,0.0,1
+11,5226936,A,AG,HBB,Unknown,6.198252340769997e-07,Major,Unknown,beta0,0.0,1
+11,5226936,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226936,GGG,GG,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226936,GGG,GGGG,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226937,G,A,HBB,Likely benign,9.918851397e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226937,G,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226938,G,A,HBB,Uncertain significance,1.2398487384e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226938,G,T,HBB,Pathogenic,4.9597577654e-06,Unknown,single nucleotide variant,,0.0,1
+11,5226938,GC,AA,HBB,Uncertain significance,0.0,Unknown,Indel,,,1
+11,5226939,C,A,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226939,C,T,HBB,Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226939,G,A,HBB,Unknown,1.2397319203e-06,Unknown,Unknown,,0.0,1
+11,5226939,G,C,HBB,Unknown,6.198659601847696e-07,Unknown,Unknown,,0.0,1
+11,5226940,C,A,HBB,Unknown,2.4792271753e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226940,C,G,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226941,T,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226942,C,A,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226942,C,T,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226942,,A,HBB,Pathogenic,0.0,Major,Insertion,beta0,,1
+11,5226943,A,AA,HBB,Pathogenic,0.0,Major,Duplication,beta0,0.0,-1
+11,5226943,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226943,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226943,C,CA,HBB,Unknown,6.196846548728283e-07,Major,Unknown,beta0,0.0,1
+11,5226943,C,T,HBB,Unknown,0.000223706160409,Intermedia,Unknown,beta+,5.0,-1
+11,5226944,A,C,HBB,Unknown,1.05356967999e-05,Unknown,Unknown,,0.0,1
+11,5226945,C,T,HBB,Unknown,6.197322756569162e-07,Unknown,Unknown,,0.0,1
+11,5226946,A,T,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226947,A,T,HBB,Unknown,7.4366674805e-06,Intermedia,Unknown,beta+,0.0,1
+11,5226947,C,GTG,HBB,Pathogenic,0.0,Major,Indel,beta0,,1
+11,5226947,CC,C,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226947,CCAACTTC,C,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226948,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226948,CAAC,C,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226950,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226951,C,A,HBB,Pathogenic; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226951,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226951,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226952,C,A,HBB,Unknown,3.098004761e-06,Unknown,Unknown,,0.0,1
+11,5226953,T,A,HBB,Uncertain significance,6.196493280522687e-07,Unknown,single nucleotide variant,,0.0,1
+11,5226954,C,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226954,T,C,HBB,Unknown,6.196470242690954e-07,Unknown,Unknown,,0.0,1
+11,5226954,T,G,HBB,Unknown,3.7181586191e-06,Unknown,Unknown,,0.0,1
+11,5226955,C,A,HBB,Unknown,6.196216837847483e-07,Major,Unknown,beta0,0.0,1
+11,5226955,C,G,HBB,Unknown,3.0363381514e-05,Major,Unknown,beta0,0.0,1
+11,5226955,C,T,HBB,Unknown,3.0980777047e-06,Major,Unknown,beta0,0.0,1
+11,5226955,CATCCACGTTCACCT,C,HBB,Unknown,1.8590055807e-06,Unknown,Unknown,,0.0,1
+11,5226956,A,G,HBB,Unknown,6.197146090282503e-07,Unknown,Unknown,,0.0,1
+11,5226956,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226957,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226957,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226957,CC,CCC,HBB,Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5226958,C,G,HBB,Unknown,6.1960479127993e-07,Unknown,Unknown,,0.0,1
+11,5226959,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226960,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226960,C,T,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226961,C,G,HBB,Unknown,6.196093982353524e-07,Unknown,Unknown,,0.0,1
+11,5226961,C,T,HBB,Unknown,4.9572376289e-06,Unknown,Unknown,,0.0,1
+11,5226962,G,A,HBB,Unknown,1.17744316357e-05,Unknown,Unknown,,0.0,1
+11,5226962,G,T,HBB,Unknown,2.4786464607e-06,Unknown,Unknown,,0.0,1
+11,5226962,T,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226963,T,C,HBB,Uncertain significance; other,0.0,Unknown,single nucleotide variant,,,1
+11,5226965,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226966,A,C,HBB,Unknown,2.4785082354e-06,Unknown,Unknown,,0.0,1
+11,5226966,CC,C,HBB,Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5226967,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226969,T,A,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5226969,T,G,HBB,Unknown,6.196063269241255e-07,Unknown,Unknown,,0.0,1
+11,5226970,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226970,G,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226970,T,A,HBB,Unknown,1.17718929327e-05,Major,Unknown,beta0,0.0,1
+11,5226970,TG,T,HBB,Unknown,1.42501861817e-05,Major,Unknown,beta0,1.0,1
+11,5226971,CCCC,CCC,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226971,CCCC,CCCCC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226972,C,T,HBB,Unknown,4.89564225868e-05,Unknown,Unknown,,0.0,1
+11,5226973,C,T,HBB,Pathogenic,1.2393032637e-06,Major,single nucleotide variant,beta0,0.0,1
+11,5226974,C,T,HBB,Pathogenic,2.4785942404e-06,Major,single nucleotide variant,beta0,0.0,1
+11,5226975,A,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226975,C,T,HBB,Unknown,3.22236020533e-05,Major,Unknown,beta0,0.0,1
+11,5226975,CA,C,HBB,Unknown,1.2393693097e-06,Major,Unknown,beta0,0.0,1
+11,5226976,A,AC,HBB,Unknown,6.197261306283528e-07,Major,Unknown,beta0,0.0,1
+11,5226976,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226976,C,CC,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226976,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226976,CAGGGCAGTAACGGCAGACTTCTCCTCAGG,CAGG,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226977,A,AA,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226977,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226977,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226977,A,,HBB,Pathogenic,0.0,Unknown,Deletion,,0.0,-1
+11,5226977,C,G,HBB,Unknown,6.196861909129217e-07,Unknown,Unknown,,0.0,1
+11,5226977,C,T,HBB,Unknown,2.10708712557e-05,Unknown,Unknown,,0.0,1
+11,5226978,A,C,HBB,Unknown,1.239552125e-06,Unknown,Unknown,,0.0,1
+11,5226978,A,G,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5226978,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226978,GGG,GG,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226980,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226981,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226981,G,A,HBB,Unknown,1.42558213336e-05,Unknown,Unknown,,0.0,1
+11,5226982,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226982,C,A,HBB,Unknown,6.197100005081622e-07,Unknown,Unknown,,0.0,1
+11,5226984,G,A,HBB,Unknown,6.198613494133633e-07,Unknown,Unknown,,0.0,1
+11,5226985,AA,A,HBB,Pathogenic,0.0,Major,Deletion,beta0,0.0,-1
+11,5226985,AA,AAA,HBB,Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5226985,TA,T,HBB,Unknown,6.198859409868584e-07,Major,Unknown,beta0,0.0,1
+11,5226987,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226987,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226988,C,T,HBB,Unknown,5.45553060614e-05,Unknown,Unknown,,0.0,1
+11,5226988,G,A,HBB,Likely benign,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5226988,GG,G,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226988,GG,GGG,HBB,Likely pathogenic,0.0,Unknown,Duplication,,,1
+11,5226989,G,A,HBB,Unknown,2.23199062563e-05,Intermedia,Unknown,beta+,0.0,1
+11,5226989,G,C,HBB,Unknown,1.2399010063e-06,Unknown,Unknown,,0.0,1
+11,5226989,G,T,HBB,Unknown,1.42588615724e-05,Intermedia,Unknown,beta+,1.0,1
+11,5226989,GCAGACTTCTCCT,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5226990,G,A,HBB,Unknown,6.199566526308481e-07,Unknown,Unknown,,0.0,1
+11,5226991,A,AA,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226991,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226991,C,T,HBB,Unknown,2.4793962174e-06,Unknown,Unknown,,0.0,1
+11,5226992,A,C,HBB,Unknown,6.198882465469126e-07,Unknown,Unknown,,0.0,1
+11,5226992,G,C,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226993,G,C,HBB,Unknown,1.2397811042e-06,Unknown,Unknown,,0.0,1
+11,5226993,,TA,HBB,Pathogenic,0.0,Unknown,Insertion,,,1
+11,5226994,A,AC,HBB,Unknown,0.0001301783070869,Major,Unknown,beta0,2.0,-1
+11,5226994,A,T,HBB,Unknown,1.2397949379e-06,Unknown,Unknown,,0.0,1
+11,5226994,C,CC,HBB,Pathogenic,0.0,Major,Duplication,beta0,,1
+11,5226994,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226994,,TTCT,HBB,Pathogenic,0.0,Unknown,Insertion,,,1
+11,5226995,C,T,HBB,Unknown,1.859803084e-06,Unknown,Unknown,,0.0,1
+11,5226995,CTT,C,HBB,Unknown,0.0,Major,Unknown,beta0,0.0,-1
+11,5226995,TT,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5226996,T,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226997,C,CC,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5226997,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226997,CTCCTC,CTC,HBB,Likely pathogenic,0.0,Unknown,Microsatellite,,,1
+11,5226997,TCTC,T,HBB,Unknown,6.201719612814241e-07,Unknown,Unknown,,0.0,1
+11,5226998,T,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5226998,TCCTCAGGAGTCAGATGCACCATGGTGTCTGTTTGAGGTTGCTAGT,TCCTCAGGAGTCAGATGCACCATGGTGTCTGTTTGAGGTTGCTAGTCCTCAGGAGTCAGATGCACCATGGTGTCTGTTTGAGGTTGCTAGT,HBB,Pathogenic,0.0,Unknown,Duplication,,0.0,-1
+11,5226999,C,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5226999,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5226999,T,C,HBB,Unknown,2.4809370995e-06,Unknown,Unknown,,0.0,1
+11,5227000,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227000,CTC,C,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5227001,CT,C,HBB,Unknown,1.42687336064e-05,Major,Unknown,beta0,0.0,1
+11,5227001,T,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5227001,T,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227001,T,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5227001,TC,AT,HBB,Likely pathogenic,0.0,Unknown,Indel,,,1
+11,5227002,C,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5227002,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227002,C,T,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5227002,C,,HBB,Pathogenic,0.0,Unknown,Deletion,,,1
+11,5227002,CA,,HBB,Pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5227002,CAGGA,AAGAT,HBB,Pathogenic,0.0,Unknown,Indel,,,1
+11,5227002,T,A,HBB,Unknown,0.002652345326421,Unknown,Unknown,,40.0,-1
+11,5227002,T,G,HBB,Unknown,6.208503911978315e-07,Unknown,Unknown,,0.0,1
+11,5227003,A,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227003,AG,,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5227003,C,A,HBB,Unknown,1.2414341046e-06,Unknown,Unknown,,0.0,1
+11,5227003,C,T,HBB,Unknown,0.0007361749936376,Unknown,Unknown,,7.0,-1
+11,5227003,CAG,C,HBB,Unknown,2.3587306553e-05,Major,Unknown,beta0,2.0,-1
+11,5227004,A,G,HBB,Unknown,6.207224464409637e-07,Unknown,Unknown,,0.0,1
+11,5227005,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227005,G,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227005,GAGTCAGAT,ACTTCTCCTCAGGCAGACTTCACCTCAG,HBB,Pathogenic,0.0,Unknown,Indel,,,1
+11,5227006,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227006,G,A,HBB,Unknown,1.61489880795e-05,Unknown,Unknown,,0.0,1
+11,5227006,G,C,HBB,Unknown,8.6962247203e-06,Unknown,Unknown,,0.0,1
+11,5227007,A,T,HBB,Unknown,1.2421511573e-06,Unknown,Unknown,,0.0,1
+11,5227007,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227008,G,A,HBB,Unknown,6.211481053119344e-07,Unknown,Unknown,,0.0,1
+11,5227008,G,C,HBB,Unknown,6.211481053119344e-07,Unknown,Unknown,,0.0,1
+11,5227009,C,G,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227009,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227010,A,AA,HBB,Pathogenic,0.0,Unknown,Duplication,,,1
+11,5227010,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227011,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227011,GA,AG,HBB,Likely benign,0.0,Unknown,Indel,,,1
+11,5227012,A,C,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227012,A,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227012,A,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227012,G,A,HBB,Unknown,1.05914911698e-05,Unknown,Unknown,,0.0,1
+11,5227013,A,G,HBB,Unknown,0.8158846632126935,Unknown,Unknown,,539839.0,-1
+11,5227013,A,T,HBB,Unknown,1.2442918113e-06,Unknown,Unknown,,0.0,1
+11,5227013,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227013,T,,HBB,Pathogenic/Likely pathogenic,0.0,Unknown,Deletion,,,1
+11,5227014,T,C,HBB,Unknown,1.877539372e-06,Unknown,Unknown,,0.0,1
+11,5227015,C,A,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227015,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227016,C,A,HBB,Unknown,4.382334933e-06,Unknown,Unknown,,0.0,1
+11,5227017,A,C,HBB,Unknown,6.262266213946568e-07,Unknown,Unknown,,0.0,1
+11,5227017,A,G,HBB,Unknown,2.5048970737e-06,Unknown,Unknown,,0.0,1
+11,5227017,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227017,CC,C,HBB,Pathogenic,0.0,Major,Deletion,beta0,,1
+11,5227018,C,A,HBB,Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5227018,C,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5227018,C,T,HBB,Pathogenic,5.6412680066e-06,Major,single nucleotide variant,beta0,0.0,1
+11,5227019,A,C,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5227019,A,G,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5227019,A,T,HBB,Pathogenic/Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5227020,A,C,HBB,Unknown,6.27259703080347e-07,Major,Unknown,beta0,0.0,1
+11,5227020,A,G,HBB,Unknown,1.2545194061e-06,Major,Unknown,beta0,0.0,1
+11,5227020,A,T,HBB,Unknown,6.27259703080347e-07,Major,Unknown,beta0,0.0,1
+11,5227020,T,C,HBB,Pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5227020,T,G,HBB,Pathogenic/Likely pathogenic,0.0,Major,single nucleotide variant,beta0,,1
+11,5227021,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227021,T,G,HBB,Unknown,1.2611867262e-06,Major,Unknown,beta0,0.0,1
+11,5227022,G,A,HBB,Unknown,1.2561409591e-06,Unknown,Unknown,,0.0,1
+11,5227023,G,A,HBB,Unknown,2.5189107222e-06,Unknown,Unknown,,0.0,1
+11,5227024,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227024,T,C,HBB,Unknown,6.298300088806031e-07,Unknown,Unknown,,0.0,1
+11,5227025,G,A,HBB,Unknown,1.2659654062e-06,Unknown,Unknown,,0.0,1
+11,5227026,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227027,C,G,HBB,Unknown,1.2694108791e-06,Unknown,Unknown,,0.0,1
+11,5227027,CTGTT,C,HBB,Unknown,1.77704213874e-05,Intermedia,Unknown,beta+,0.0,1
+11,5227028,G,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227029,G,A,HBB,Unknown,1.9153638999e-06,Unknown,Unknown,,0.0,1
+11,5227029,G,C,HBB,Unknown,3.8307277999e-06,Unknown,Unknown,,0.0,1
+11,5227030,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227030,T,G,HBB,Unknown,6.382394802177673e-07,Unknown,Unknown,,0.0,1
+11,5227031,T,A,HBB,Unknown,6.411514053397654e-07,Unknown,Unknown,,0.0,1
+11,5227031,T,C,HBB,Unknown,5.1292178199e-06,Unknown,Unknown,,0.0,1
+11,5227032,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227032,T,G,HBB,Unknown,1.2817489207e-06,Unknown,Unknown,,0.0,1
+11,5227033,G,A,HBB,Unknown,1.9419763363e-06,Unknown,Unknown,,0.0,1
+11,5227033,G,C,HBB,Unknown,4.5312781181e-06,Unknown,Unknown,,0.0,1
+11,5227035,G,A,HBB,Unknown,3.2653573019e-06,Unknown,Unknown,,0.0,1
+11,5227035,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227036,G,T,HBB,Unknown,6.526767579195798e-07,Unknown,Unknown,,0.0,1
+11,5227038,G,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227039,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227039,G,A,HBB,Unknown,6.671790601848887e-07,Intermedia,Unknown,beta+,0.0,1
+11,5227040,C,G,HBB,Unknown,6.695492995844777e-07,Unknown,Unknown,,0.0,1
+11,5227040,C,T,HBB,Unknown,6.695492995844777e-07,Unknown,Unknown,,0.0,1
+11,5227041,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227042,A,G,HBB,Unknown,4.7509936363e-06,Unknown,Unknown,,0.0,1
+11,5227043,G,A,HBB,Unknown,6.786617875408555e-07,Unknown,Unknown,,0.0,1
+11,5227043,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227045,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227045,G,A,HBB,Unknown,6.846398315238303e-07,Unknown,Unknown,,0.0,1
+11,5227045,G,T,HBB,Unknown,1.3691877977e-06,Unknown,Unknown,,0.0,1
+11,5227048,C,A,HBB,Unknown,4.1323452436e-06,Unknown,Unknown,,0.0,1
+11,5227049,C,T,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,0.0,-1
+11,5227050,C,A,HBB,Unknown,1.404283345e-06,Intermedia,Unknown,beta+,0.0,1
+11,5227050,C,G,HBB,Unknown,7.020835030035132e-07,Unknown,Unknown,,0.0,1
+11,5227050,C,T,HBB,Unknown,4.2128500351e-06,Intermedia,Unknown,beta+,0.0,1
+11,5227051,A,G,HBB,Unknown,7.000330415595616e-07,Unknown,Unknown,,0.0,1
+11,5227052,G,A,HBB,Unknown,3.37036995427e-05,Unknown,Unknown,,0.0,1
+11,5227052,G,T,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5227053,T,C,HBB,Unknown,7.031696073219645e-07,Unknown,Unknown,,0.0,1
+11,5227053,T,G,HBB,Unknown,2.8126784292e-06,Unknown,Unknown,,0.0,1
+11,5227055,T,C,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227057,G,T,HBB,Unknown,7.23732491101709e-07,Unknown,Unknown,,0.0,1
+11,5227059,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227060,A,C,HBB,Unknown,7.369403122563491e-07,Unknown,Unknown,,0.0,1
+11,5227061,G,A,HBB,Unknown,7.459958671828958e-07,Unknown,Unknown,,0.0,1
+11,5227061,G,T,HBB,Unknown,7.459980932288737e-07,Unknown,Unknown,,0.0,1
+11,5227063,A,C,HBB,Unknown,0.0,Unknown,Unknown,,0.0,-1
+11,5227068,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227069,T,C,HBB,Unknown,7.984809698030467e-07,Unknown,Unknown,,0.0,1
+11,5227070,G,A,HBB,Unknown,1.6246821715e-06,Unknown,Unknown,,0.0,1
+11,5227070,T,G,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227071,T,A,HBB,Unknown,8.115618345192957e-07,Unknown,Unknown,,0.0,1
+11,5227071,T,G,HBB,Unknown,6.57426976907e-05,Intermedia,Unknown,beta+,1.0,-1
+11,5227072,A,G,HBB,Unknown,8.20923303005e-05,Unknown,Unknown,,1.0,-1
+11,5227076,A,C,HBB,Unknown,8.361707393756146e-07,Unknown,Unknown,,0.0,1
+11,5227076,A,G,HBB,Unknown,8.361707393756146e-07,Unknown,Unknown,,0.0,1
+11,5227077,A,G,HBB,Unknown,2.5091122593e-06,Unknown,Unknown,,0.0,1
+11,5227078,T,C,HBB,Unknown,2.5426228341e-06,Unknown,Unknown,,0.0,1
+11,5227080,G,A,HBB,Unknown,8.504963496696673e-07,Unknown,Unknown,,0.0,1
+11,5227084,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227087,C,G,HBB,Unknown,8.945423968368981e-07,Unknown,Unknown,,0.0,1
+11,5227089,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227090,C,A,HBB,Unknown,8.985920859197808e-07,Unknown,Unknown,,0.0,1
+11,5227090,C,T,HBB,Likely benign,8.985920859197808e-07,Unknown,single nucleotide variant,,0.0,1
+11,5227091,C,G,HBB,Unknown,9.04689184983607e-07,Unknown,Unknown,,0.0,1
+11,5227091,C,T,HBB,Uncertain significance,1.8095715477e-06,Unknown,single nucleotide variant,,0.0,1
+11,5227092,C,G,HBB,Unknown,9.144479112180812e-07,Unknown,Unknown,,0.0,1
+11,5227092,C,T,HBB,Unknown,6.4018261666e-06,Unknown,Unknown,,0.0,1
+11,5227093,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227094,G,A,HBB,Unknown,9.472100874085468e-07,Unknown,Unknown,,0.0,1
+11,5227095,A,G,HBB,Unknown,2.8670875551e-06,Unknown,Unknown,,0.0,1
+11,5227095,C,A,HBB,Pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5227095,C,G,HBB,Uncertain significance,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5227095,C,T,HBB,Uncertain significance,0.0,Minor,single nucleotide variant,beta (0 or + unclear),0.0,-1
+11,5227096,C,G,HBB,Unknown,1.55324725754e-05,Minor,Unknown,beta (0 or + unclear),0.0,1
+11,5227096,C,T,HBB,Unknown,1.9415590719e-06,Minor,Unknown,beta (0 or + unclear),0.0,1
+11,5227096,CTT,C,HBB,Unknown,9.707814207968562e-07,Minor,Unknown,beta (0 or + unclear),0.0,1
+11,5227096,T,G,HBB,Pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5227097,T,A,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5227098,T,C,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227098,T,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227099,T,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227099,T,G,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227100,A,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227100,A,G,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227100,A,G,HBB,Pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5227100,A,T,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227101,T,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227102,G,T,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227103,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227103,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227111,T,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227112,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,0.0,-1
+11,5227113,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227120,C,T,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227122,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227124,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227126,C,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227126,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227133,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227141,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Minor,single nucleotide variant,beta (0 or + unclear),,1
+11,5227142,A,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227142,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227144,T,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227146,G,T,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1
+11,5227150,A,G,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227153,CTAGG,CTAGGCTGTGGCTAGG,HBB,Uncertain significance,0.0,Unknown,Insertion,,,1
+11,5227154,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227156,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227156,G,C,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227156,G,T,HBB,Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227157,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227157,G,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227157,G,T,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227157,,C,HBB,Uncertain significance,0.0,Unknown,Insertion,,,1
+11,5227158,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227158,G,C,HBB,Uncertain significance,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227158,G,T,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227160,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227160,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227162,G,A,HBB,Pathogenic/Likely pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227166,C,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227170,A,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227171,G,A,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227171,G,C,HBB,Pathogenic,0.0,Intermedia,single nucleotide variant,beta+,,1
+11,5227172,G,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227175,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227195,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227196,G,A,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227245,C,T,HBB,Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227268,T,C,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227285,C,T,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5227293,A,G,HBB,Benign/Likely benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227410,G,A,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227539,G,A,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5227561,T,G,HBB,Benign,0.0,Unknown,single nucleotide variant,,,1
+11,5225437,T,C,HBB,Uncertain significance,0.0,Unknown,single nucleotide variant,,,1
+11,5225481,TTTTTT,TTTT,HBB,Likely pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5225481,TTTTTT,TTTTT,HBB,Pathogenic,0.0,Minor,Deletion,beta (0 or + unclear),,1
+11,5225489,T,C,HBB,Pathogenic,0.0,Unknown,single nucleotide variant,,,1

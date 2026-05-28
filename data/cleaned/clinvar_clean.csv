@@ -1,0 +1,1539 @@
+chr,pos,ref,alt,gene,variant_type,pathogenicity,review_status,dbsnp_id
+11,5225609,G,Y,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs36020563
+11,5225283,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs12574989
+11,5225301,A,G,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs570662275
+11,5225351,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs111465890
+11,5225364,C,G,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs12788013
+11,5225366,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs567259408
+11,5225415,C,T,HBB,single nucleotide variant,Benign,reviewed by expert panel,rs113969885
+11,5225431,G,T,HBB,single nucleotide variant,Likely benign,no assertion criteria provided,rs1277208445
+11,5225453,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1404554171
+11,5225459,A,C,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs560643693
+11,5227090,C,T,HBB,single nucleotide variant,Likely benign,no assertion criteria provided,rs954327894
+11,5227095,C,A,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs63750400
+11,5227096,T,G,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs281864525
+11,5227097,T,A,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs1847591425
+11,5227099,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34598529
+11,5227100,A,C,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33980857
+11,5227113,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs375421674
+11,5227133,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1354742084
+11,5227146,G,T,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs1847592435
+11,5227158,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33944208
+11,5227171,G,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63751208
+11,5227196,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs866946984
+11,5227245,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs565478698
+11,5227268,T,C,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs76306358
+11,5227410,G,A,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs10742583
+11,5227539,G,A,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs10742584
+11,5227561,T,G,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs74049330
+11,5225437,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1589891018
+11,5225281,T,G,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs7110263
+11,5225244,C,T,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs112988270
+11,5227122,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554918277
+11,5227126,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs63750681
+11,5227142,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1272414751
+11,5227142,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1272414751
+11,5227144,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2494297664
+11,5227153,CTAGG,CTAGGCTGTGGCTAGG,HBB,Insertion,Uncertain significance,"criteria provided, single submitter",
+11,5227154,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1847592568
+11,5227156,G,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33994806
+11,5227156,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33994806
+11,5227157,,C,HBB,Insertion,Uncertain significance,"criteria provided, single submitter",rs2494297712
+11,5227158,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33944208
+11,5227160,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227166,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1168422815
+11,5227172,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2494297771
+11,5227285,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2133590008
+11,5227084,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227089,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2133589763
+11,5227091,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554918264
+11,5227093,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554918265
+11,5227095,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs63750400
+11,5227102,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34500389
+11,5227103,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1160543272
+11,5227111,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1589893790
+11,5226766,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33926796
+11,5226764,A,C,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33924146
+11,5226761,C,G,HBB,single nucleotide variant,Benign,no assertion criteria provided,rs33922842
+11,5226754,A,C,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33978338
+11,5226749,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33932070
+11,5226742,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33960931
+11,5226734,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33961886
+11,5226733,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33919924
+11,5226709,A,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33931779
+11,5226707,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33995148
+11,5226700,T,C,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33985544
+11,5226697,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33922018
+11,5227002,C,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33930165
+11,5227002,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33930165
+11,5226689,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs36008922
+11,5226688,A,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33918343
+11,5226688,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33918343
+11,5226685,A,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33972593
+11,5226685,A,G,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33972593
+11,5226683,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33947415
+11,5227001,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs334
+11,5226679,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33946401
+11,5226667,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33976006
+11,5226659,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33991294
+11,5226653,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33990858
+11,5226653,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33990858
+11,5226653,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33990858
+11,5226998,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs34387455
+11,5226644,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33940051
+11,5226643,T,G,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33987903
+11,5226643,T,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33987903
+11,5226996,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33926764
+11,5226628,G,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33993568
+11,5226625,A,G,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33940204
+11,5226625,A,C,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33940204
+11,5226622,C,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic; other,no assertion criteria provided,rs33917628
+11,5226620,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33913712
+11,5226616,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33917785
+11,5226616,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33917785
+11,5226614,G,T,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33924775
+11,5226614,G,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33924775
+11,5226608,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33959340
+11,5226608,C,G,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33959340
+11,5226599,G,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33950993
+11,5226598,T,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33951978
+11,5226593,C,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33954595
+11,5226593,C,G,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33954595
+11,5226593,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33954595
+11,5226592,T,G,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33971048
+11,5226592,T,C,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33971048
+11,5226592,T,A,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33971048
+11,5226992,G,C,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs33918131
+11,5226589,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33965000
+11,5226589,G,A,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33965000
+11,5226587,C,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33966487
+11,5226587,C,G,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33966487
+11,5226583,T,G,HBB,single nucleotide variant,Benign,no assertion criteria provided,rs33948057
+11,5225721,A,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33941844
+11,5225721,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33941844
+11,5225721,A,C,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33941844
+11,5225709,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35256489
+11,5226987,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33974228
+11,5226987,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33974228
+11,5225680,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33924134
+11,5225677,C,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33946267
+11,5225677,C,G,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33946267
+11,5225676,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33987957
+11,5225670,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33935383
+11,5225670,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33935383
+11,5225667,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33983276
+11,5225667,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33983276
+11,5225658,T,C,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33910569
+11,5225655,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33957286
+11,5225655,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33957286
+11,5225646,T,G,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33950778
+11,5225619,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33927093
+11,5225619,G,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33927093
+11,5225613,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33921821
+11,5225611,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs33929415
+11,5225602,G,C,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33961444
+11,5225601,T,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33954264
+11,5225601,T,A,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33954264
+11,5226977,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33935445
+11,5226977,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33935445
+11,5226957,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33950093
+11,5226957,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33950093
+11,5226953,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33936254
+11,5226951,C,A,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33929459
+11,5226950,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33945546
+11,5226941,T,C,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33915112
+11,5226938,G,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33954632
+11,5226938,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33954632
+11,5226935,A,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33916412
+11,5226935,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33916412
+11,5226929,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33960103
+11,5226793,A,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33948578
+11,5226793,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33948578
+11,5225495,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554917429
+11,5225493,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1564873881
+11,5225489,T,C,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs1847518799
+11,5225486,TAT,T,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750205
+11,5225487,,C,HBB,Insertion,Pathogenic,no assertion criteria provided,rs2494291485
+11,5225483,TTTTATT,TT,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35949130
+11,5225487,A,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33978907
+11,5225487,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33978907
+11,5225486,T,C,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs63751128
+11,5225485,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs63750954
+11,5225484,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33985472
+11,5225481,TTTTTT,TTTT,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs281864532
+11,5225482,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554917417
+11,5225481,TTTTTT,TTTTT,HBB,Deletion,Pathogenic,no assertion criteria provided,rs281864532
+11,5225481,TTTTTT,TTTTTTT,HBB,Duplication,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs281864532
+11,5225480,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2133585664
+11,5225468,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs528009939
+11,5225468,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225466,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225465,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1420779550
+11,5225465,G,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1420779550
+11,5225582,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225581,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2494291724
+11,5225579,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1348310843
+11,5225596,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225572,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs755997419
+11,5225565,T,G,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs1847520793
+11,5225564,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1364427740
+11,5225563,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs200399660
+11,5225560,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs369307975
+11,5225594,A,G,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5225550,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1158183534
+11,5225550,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1158183534
+11,5225549,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs759337708
+11,5225593,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs372503204
+11,5225546,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1201877853
+11,5225544,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs886048393
+11,5225541,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs537944366
+11,5225540,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1316817965
+11,5225538,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1345009528
+11,5225592,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs779043171
+11,5225592,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs779043171
+11,5225535,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1046868746
+11,5225532,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1490059160
+11,5225530,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554917441
+11,5225591,G,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34809925
+11,5225524,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1265505530
+11,5225519,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554917435
+11,5225519,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554917435
+11,5225514,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2133585726
+11,5225506,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs193922549
+11,5225492,GCAGAATCCAGATGC,GC,HBB,Deletion,Pathogenic,no assertion criteria provided,rs34171453
+11,5225504,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs901033731
+11,5225500,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225500,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs770911771
+11,5227120,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs281864524
+11,5227124,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1274149043
+11,5227126,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs63750681
+11,5227030,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs747545656
+11,5227141,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs281864518
+11,5227032,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs113115948
+11,5227150,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1228872998
+11,5227156,G,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33994806
+11,5227157,G,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33941377
+11,5227157,G,C,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs33941377
+11,5227157,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33941377
+11,5227158,G,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33944208
+11,5227160,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34999973
+11,5227162,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34883338
+11,5227170,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1448799110
+11,5227171,G,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs63751208
+11,5227175,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227035,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs193922550
+11,5227195,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227038,G,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34135787
+11,5227039,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227021,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227041,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs772919319
+11,5226998,TCCTCAGGAGTCAGATGCACCATGGTGTCTGTTTGAGGTTGCTAGT,TCCTCAGGAGTCAGATGCACCATGGTGTCTGTTTGAGGTTGCTAGTCCTCAGGAGTCAGATGCACCATGGTGTCTGTTTGAGGTTGCTAGT,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847587930
+11,5227043,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1010004981
+11,5227045,A,G,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,rs886039874
+11,5227293,A,G,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs139703273
+11,5227049,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34704828
+11,5227055,T,C,HBB,single nucleotide variant,Benign,no assertion criteria provided,rs1847590703
+11,5227059,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227068,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227024,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1035531758
+11,5227070,T,G,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34305195
+11,5227026,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1337405246
+11,5227095,C,G,HBB,single nucleotide variant,Uncertain significance,reviewed by expert panel,rs63750400
+11,5227098,T,G,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs33931746
+11,5227098,T,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33931746
+11,5227099,T,G,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34598529
+11,5227100,A,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33980857
+11,5227100,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33980857
+11,5227101,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33981098
+11,5227103,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1160543272
+11,5227028,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1319747765
+11,5227112,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs397515291
+11,5226791,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1141370
+11,5226789,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs375797635
+11,5226789,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs375797635
+11,5226788,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226788,C,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1141387
+11,5226786,G,GTAGG,HBB,Insertion,Pathogenic,no assertion criteria provided,
+11,5226784,T,C,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs35857380
+11,5226783,G,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33982568
+11,5226783,G,C,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33982568
+11,5227011,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34126315
+11,5226781,GGG,GG,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs267607297
+11,5226773,GGGTCCAAGGGT,GGGT,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847565768
+11,5226780,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1190114447
+11,5226779,AA,A,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750532
+11,5226779,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33994623
+11,5226778,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33991059
+11,5226771,CTGGGTCC,C,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750099
+11,5226777,CC,C,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs281865474
+11,5226777,C,T,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs33974936
+11,5226777,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33974936
+11,5226775,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34703513
+11,5226775,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34703513
+11,5226773,GGG,G,HBB,Deletion,Pathogenic,no assertion criteria provided,rs267607291
+11,5226774,G,T,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226774,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1847565822
+11,5226770,TCTG,TCTGTCTG,HBB,Duplication,Pathogenic,"criteria provided, single submitter",rs2494296091
+11,5226773,G,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs11549407
+11,5226773,GGG,GG,HBB,Deletion,Pathogenic,no assertion criteria provided,rs267607291
+11,5227010,A,AA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847588915
+11,5227010,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs63750720
+11,5226768,CC,C,HBB,Deletion,Pathogenic,no assertion criteria provided,rs63749957
+11,5226768,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33918778
+11,5226766,AA,AAA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs36029927
+11,5226762,AAAGAA,AA,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs80356821
+11,5226762,AAAGAA,AAAGAAAGAA,HBB,Duplication,Pathogenic,"criteria provided, single submitter",
+11,5226765,G,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35755331
+11,5226765,G,GG,HBB,Duplication,Likely pathogenic,"criteria provided, single submitter",rs2133588679
+11,5226764,A,T,HBB,single nucleotide variant,Likely pathogenic,no assertion criteria provided,
+11,5226764,A,G,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33924146
+11,5226763,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34378160
+11,5226762,AAA,AA,HBB,Deletion,Pathogenic,no assertion criteria provided,rs33979901
+11,5226762,AAA,AAAA,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33979901
+11,5226762,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1554917971
+11,5227009,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589893645
+11,5227009,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589893645
+11,5226761,C,CC,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1554917970
+11,5226761,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226761,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33922842
+11,5226760,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35262412
+11,5226757,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs34868397
+11,5226756,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494296012
+11,5226756,GG,G,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs80356820
+11,5226753,AAA,AA,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35133315
+11,5226753,AAA,AAAA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs35133315
+11,5226752,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34743882
+11,5226750,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1554917961
+11,5226750,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1554917961
+11,5226749,CCCC,CCCCC,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847563072
+11,5226745,AGAT,AGATAGAT,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35619054
+11,5226748,T,TT,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35894115
+11,5226747,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs754454495
+11,5226747,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs754454495
+11,5226745,A,,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs1847562491
+11,5226744,C,,HBB,Deletion,Likely pathogenic,no assertion criteria provided,rs1554917947
+11,5226744,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs750901840
+11,5227007,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226741,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588564
+11,5226741,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588564
+11,5226741,GG,G,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847562189
+11,5226740,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs63750336
+11,5226738,A,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847561978
+11,5226737,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs281864894
+11,5226724,ATAACAGCATCAG,,HBB,Deletion,Likely pathogenic,no assertion criteria provided,rs613985
+11,5226736,GG,G,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750128
+11,5226735,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs762111851
+11,5226733,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33919924
+11,5226733,T,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847561467
+11,5226732,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs777114006
+11,5227002,CAGGA,AAGAT,HBB,Indel,Pathogenic,"criteria provided, single submitter",rs2494297181
+11,5227006,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226731,C,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",
+11,5226730,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226729,A,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs1554917935
+11,5226729,A,G,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226728,C,CC,HBB,Duplication,Pathogenic,no assertion criteria provided,rs35165357
+11,5226728,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226723,CATAA,TGATGCC,HBB,Indel,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs1564875331
+11,5226727,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34037627
+11,5226714,AGGGTTGCCCATAA,A,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847559573
+11,5226726,AA,A,HBB,Deletion,Pathogenic,no assertion criteria provided,rs34960334
+11,5226726,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs760975738
+11,5226725,T,,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs1847560717
+11,5226725,T,TT,HBB,Duplication,Pathogenic,no assertion criteria provided,rs35171933
+11,5226724,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35094013
+11,5226722,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33935983
+11,5226722,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33935983
+11,5227005,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33912272
+11,5227005,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33912272
+11,5226721,C,CACCTTAGGGTTGCC,HBB,Insertion,Pathogenic,no assertion criteria provided,rs1847560327
+11,5226720,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs193922551
+11,5226720,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs193922551
+11,5226718,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34589620
+11,5226717,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs35278874
+11,5226717,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs35278874
+11,5226715,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33991472
+11,5226715,GGG,GG,HBB,Deletion,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35395625
+11,5226715,GGG,GGGG,HBB,Duplication,Pathogenic,no assertion criteria provided,rs35395625
+11,5226713,T,A,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33969400
+11,5226712,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs35537181
+11,5226712,TT,T,HBB,Deletion,Pathogenic,no assertion criteria provided,rs267607293
+11,5227003,AG,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34889882
+11,5226711,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs34621955
+11,5226711,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs34621955
+11,5226710,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33990253
+11,5226707,T,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33995148
+11,5226706,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34974709
+11,5226705,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226696,GCCATGAGCC,GCC,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847558511
+11,5226702,A,G,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs770878031
+11,5227002,CA,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs281864519
+11,5227003,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133589583
+11,5226701,G,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33922873
+11,5226701,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33922873
+11,5226698,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs2494295777
+11,5226697,CC,C,HBB,Deletion,Pathogenic,no assertion criteria provided,rs36107977
+11,5226696,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588365
+11,5226696,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588365
+11,5226695,T,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs35353749
+11,5226693,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35747961
+11,5226689,CTTTCTT,CTT,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",
+11,5226692,T,A,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs34165323
+11,5227001,TC,AT,HBB,Indel,Likely pathogenic,"criteria provided, single submitter",rs193922552
+11,5227002,C,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs2494297176
+11,5227002,C,A,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33930165
+11,5226997,CTCCTC,CTC,HBB,Microsatellite,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750928
+11,5227020,T,G,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34563000
+11,5227020,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34563000
+11,5226691,T,G,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35939489
+11,5226690,TTT,TT,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs193922553
+11,5226689,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs36008922
+11,5226687,CAC,C,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34282684
+11,5226686,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33961459
+11,5226679,GCACCGAGCAC,GCAC,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847557333
+11,5226675,AAAGGCACCGA,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",
+11,5226684,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",
+11,5226684,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs112287010
+11,5226682,CC,C,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1847557540
+11,5226682,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5227000,CTC,C,HBB,Deletion,Pathogenic,"criteria provided, single submitter",
+11,5226989,GCAGACTTCTCCT,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847586938
+11,5226976,CAGGGCAGTAACGGCAGACTTCTCCTCAGG,CAGG,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847585652
+11,5227001,T,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs334
+11,5227001,T,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63749819
+11,5226681,A,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847557422
+11,5226681,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588276
+11,5226680,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226679,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33946401
+11,5226678,G,T,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226678,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494295652
+11,5226675,AAA,AA,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1554917888
+11,5226675,AAA,AAAA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1554917888
+11,5226675,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs754481448
+11,5226670,TCACT,A,HBB,Indel,Pathogenic,no assertion criteria provided,rs63751218
+11,5226674,T,TT,HBB,Duplication,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33969853
+11,5226671,CAC,C,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs1564875145
+11,5226671,CA,AT,HBB,Indel,Pathogenic,no assertion criteria provided,
+11,5226672,A,AA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs281864520
+11,5227000,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1589893600
+11,5226671,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33945705
+11,5226667,CCATC,CCATCCATC,HBB,Duplication,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1564875128
+11,5226668,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33916541
+11,5226667,C,CTGGAC,HBB,Insertion,Likely pathogenic,"criteria provided, single submitter",rs1847556466
+11,5226666,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1184506313
+11,5226665,GG,G,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34218908
+11,5226663,C,T,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226661,GC,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs281864906
+11,5226999,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs34948328
+11,5226999,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34948328
+11,5226661,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33985847
+11,5226661,G,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs281864901
+11,5226659,G,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs63750504
+11,5226657,GTG,G,HBB,Deletion,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs2133588176
+11,5226658,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226657,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33918483
+11,5226656,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226656,GG,G,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs281865475
+11,5226656,GG,GGG,HBB,Duplication,Pathogenic,no assertion criteria provided,rs281865475
+11,5226635,AGGTGCCCTTGAGGTTGTCCAGGTG,AGGTG,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847554171
+11,5226654,C,G,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,rs1847555518
+11,5226654,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847555518
+11,5226652,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34173382
+11,5226651,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226650,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs63750519
+11,5226626,GTGTGGCAAAGGTGCCCTTGAGGT,GT,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847553585
+11,5226647,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs11549406
+11,5226647,GG,G,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847555115
+11,5226645,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs145669504
+11,5226645,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs145669504
+11,5226642,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33991993
+11,5226642,C,G,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33991993
+11,5226642,C,R,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33991993
+11,5226997,C,CC,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847587799
+11,5226997,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs138405215
+11,5226641,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33930385
+11,5226641,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33930385
+11,5226640,CCC,CC,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs193922555
+11,5226639,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588069
+11,5226639,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588069
+11,5226631,GCAAAGGTGC,GC,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs1847553982
+11,5226638,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35960772
+11,5226638,T,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs1554917831
+11,5226637,G,T,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226636,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1334966870
+11,5226636,GG,GGG,HBB,Duplication,Pathogenic,no assertion criteria provided,rs35371965
+11,5226634,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs35693898
+11,5226633,AAA,AAAA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs34831847
+11,5226633,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588043
+11,5226632,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33952147
+11,5226995,TT,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35497102
+11,5226631,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs35819837
+11,5226630,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1367496536
+11,5226629,T,G,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs35553496
+11,5226624,CAGTG,CAGTGCAGTG,HBB,Duplication,Likely pathogenic,"criteria provided, single submitter",rs2494295306
+11,5226625,AG,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847553498
+11,5226626,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34672591
+11,5226624,CA,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847553344
+11,5226625,A,AA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs34477959
+11,5226624,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs11549405
+11,5226610,CAGTGCAGCTCACTCAGTG,CAGTG,HBB,Deletion,Pathogenic,no assertion criteria provided,
+11,5226623,T,G,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs35351128
+11,5226622,C,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs2133587981
+11,5226620,CAC,C,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs34466953
+11,5226621,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1554917814
+11,5226620,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33913712
+11,5226596,CGTGCAGCTTGTCACAGTGCAGCTC,CGTGCAGCTTGTCACAGTGCAGCTCGTGCAGCTTGTCACAGTGCAGCTC,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847551520
+11,5226619,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35068498
+11,5226618,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35002698
+11,5226618,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs35002698
+11,5226616,A,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",
+11,5226616,A,AA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847552816
+11,5226615,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1589892429
+11,5226615,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892429
+11,5226612,,CCAC,HBB,Insertion,Pathogenic,"criteria provided, single submitter",rs1589892417
+11,5226612,G,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs34083951
+11,5226612,G,C,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs34083951
+11,5226612,G,Y,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs34083951
+11,5226612,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34083951
+11,5226994,,TTCT,HBB,Insertion,Pathogenic,no assertion criteria provided,rs1847587392
+11,5226994,C,CC,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35699606
+11,5226994,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs35198910
+11,5226597,GTGCAGCTTGTCACAGTGCAGCT,GTGCAGCT,HBB,Deletion,Uncertain significance; other,no assertion criteria provided,rs34210688
+11,5226608,CACA,CACACA,HBB,Microsatellite,Likely pathogenic,"criteria provided, single submitter",rs34533941
+11,5226609,A,,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs1847552371
+11,5226609,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847552343
+11,5226609,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1847552343
+11,5226606,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs747900373
+11,5226604,TT,TTT,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34937014
+11,5226603,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs36038739
+11,5226603,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs36038739
+11,5226602,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34665886
+11,5226993,,TA,HBB,Insertion,Pathogenic,no assertion criteria provided,rs1847587286
+11,5226601,A,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",
+11,5226596,CGTGC,CGTGCGTGC,HBB,Duplication,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1564874901
+11,5226597,G,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",
+11,5226597,G,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34515413
+11,5226597,G,Y,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs34515413
+11,5226596,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33933298
+11,5226576,CCTGAAGTTCTCAGGATCC,CCTGAAGTTCTCAGGATCCTGAAGTTCTCAGGATCC,HBB,Duplication,Pathogenic,no assertion criteria provided,
+11,5227019,A,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33941849
+11,5227019,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33941849
+11,5227019,A,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33941849
+11,5226591,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34013622
+11,5226589,GG,AAGTTCTCAGA,HBB,Indel,Pathogenic,no assertion criteria provided,rs63750556
+11,5226590,G,T,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226588,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs768336186
+11,5226588,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs768336186
+11,5226586,T,C,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs33937393
+11,5226585,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35209591
+11,5226585,C,G,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs35209591
+11,5226585,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35209591
+11,5226584,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33927739
+11,5226583,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33948057
+11,5226582,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs34227486
+11,5226991,A,AA,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34548294
+11,5226991,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226579,G,C,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs35067717
+11,5226579,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35067717
+11,5226577,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33911434
+11,5226476,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs899975457
+11,5226476,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs899975457
+11,5226472,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294581
+11,5226471,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294577
+11,5226471,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294577
+11,5226469,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294572
+11,5226468,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226467,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs543925348
+11,5226467,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs543925348
+11,5226467,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs543925348
+11,5226566,A,G,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226566,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587695
+11,5226466,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs946957516
+11,5226466,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs946957516
+11,5226465,T,TTAGAAT,HBB,Insertion,Likely benign,"criteria provided, single submitter",rs2494294559
+11,5226462,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587518
+11,5226461,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587513
+11,5226460,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs892744704
+11,5226459,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587504
+11,5226458,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1302097141
+11,5226458,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1302097141
+11,5226457,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294534
+11,5226565,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs778382385
+11,5226454,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294532
+11,5226452,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1175432125
+11,5226452,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1175432125
+11,5226451,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1053188095
+11,5226451,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1053188095
+11,5226449,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587493
+11,5226448,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294524
+11,5226447,CC,C,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494294522
+11,5226447,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs371659615
+11,5226563,CCC,CCCCC,HBB,Duplication,Likely benign,"criteria provided, single submitter",rs770630710
+11,5226564,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294899
+11,5226444,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1329253876
+11,5226442,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1356515247
+11,5226438,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294507
+11,5226437,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892116
+11,5226437,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892116
+11,5226563,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226436,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847546876
+11,5226436,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847546876
+11,5226434,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs934286084
+11,5226433,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs191037579
+11,5226433,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs191037579
+11,5226433,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs191037579
+11,5226432,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1392181924
+11,5226424,AAACTAAAAC,AAAC,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1371816847
+11,5226428,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587466
+11,5226427,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587464
+11,5226562,,CC,HBB,Insertion,Uncertain significance,"criteria provided, single submitter",rs1847549331
+11,5226562,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587681
+11,5226419,AAAAGAAA,AAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1268908857
+11,5226420,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs981149711
+11,5226419,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294458
+11,5226410,ACAGCAAATA,A,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2133587449
+11,5226418,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs948460713
+11,5226561,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs756567448
+11,5226416,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564874728
+11,5226413,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294440
+11,5226412,A,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494294438
+11,5226412,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294434
+11,5226412,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294434
+11,5226411,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587453
+11,5226410,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294427
+11,5226409,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294424
+11,5226408,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294420
+11,5226407,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs915743646
+11,5226407,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs915743646
+11,5226560,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs10768683
+11,5226560,C,G,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs10768683
+11,5226560,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs10768683
+11,5226406,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294339
+11,5226405,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs996301151
+11,5226403,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847546498
+11,5226402,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587440
+11,5226402,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587440
+11,5226401,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs973955533
+11,5226400,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1019464875
+11,5226396,AACAA,AA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494294324
+11,5226398,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847546403
+11,5226396,A,G,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs529931134
+11,5226395,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587429
+11,5226389,AAAAGAAAA,AAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1200964989
+11,5226393,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1008033761
+11,5226393,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1008033761
+11,5226392,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587423
+11,5226389,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847546271
+11,5226385,AAACAAA,AAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1240317854
+11,5226387,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892094
+11,5226558,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1847549131
+11,5226381,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs565840446
+11,5226381,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs565840446
+11,5226378,AA,A,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1589892087
+11,5226378,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587402
+11,5226375,AGCA,A,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494294276
+11,5226377,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847546062
+11,5226557,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1363813923
+11,5226575,,GAGAACGT,HBB,Insertion,Likely pathogenic,"criteria provided, single submitter",
+11,5226575,CCC,CC,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs63750774
+11,5226575,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33945777
+11,5226575,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33945777
+11,5226575,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33945777
+11,5226376,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587399
+11,5226374,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs577036437
+11,5226373,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1042051118
+11,5226373,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226370,AAGAA,AA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494294243
+11,5226369,AAAGAAAG,AAAG,HBB,Microsatellite,Likely benign,"criteria provided, single submitter",rs375849787
+11,5226368,AAAAGAAA,AAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs892829819
+11,5226372,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847545951
+11,5226372,G,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494294253
+11,5226363,AAAAAAAAA,AAAAAAAAAA,HBB,Duplication,Benign,"criteria provided, single submitter",rs879578966
+11,5226371,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892081
+11,5226371,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892081
+11,5226369,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892074
+11,5226369,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892074
+11,5226556,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587658
+11,5226363,AAAAAAAAA,AAAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs879578966
+11,5226366,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847545483
+11,5226363,AAAAAAAAA,AAAAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs879578966
+11,5226365,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587370
+11,5226365,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587370
+11,5226365,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587370
+11,5226364,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587368
+11,5226363,AAAAAAAAA,AAAAAAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs879578966
+11,5226363,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1055464916
+11,5226363,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1055464916
+11,5226362,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1231133779
+11,5226362,G,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2487889484
+11,5226359,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1351997166
+11,5226357,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1270522548
+11,5226357,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1270522548
+11,5226356,G,A,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs113152027
+11,5226355,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs753003330
+11,5226355,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs753003330
+11,5226354,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1281453619
+11,5226351,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587337
+11,5226350,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294170
+11,5226347,AAAAA,AAAAAA,HBB,Duplication,Benign,"criteria provided, single submitter",rs1282253170
+11,5226347,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1446366280
+11,5226554,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847549061
+11,5226346,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294163
+11,5226345,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587331
+11,5226344,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847545038
+11,5226343,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587325
+11,5226342,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587321
+11,5226341,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544982
+11,5226339,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1265141258
+11,5226339,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1265141258
+11,5226338,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294142
+11,5226337,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs985479299
+11,5226553,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1320802438
+11,5226335,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226333,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544894
+11,5226332,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587310
+11,5226331,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294134
+11,5226330,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564874686
+11,5226330,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564874686
+11,5226330,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564874686
+11,5226328,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs532489097
+11,5226552,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587650
+11,5226325,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294121
+11,5226323,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226322,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1418885009
+11,5226321,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544780
+11,5226320,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892031
+11,5226319,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs952327061
+11,5226318,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1029410290
+11,5226317,A,AA,HBB,Duplication,Likely benign,"criteria provided, single submitter",rs1847544650
+11,5226316,T,C,HBB,single nucleotide variant,Likely benign,reviewed by expert panel,rs111415391
+11,5226315,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs966128514
+11,5226314,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294076
+11,5226312,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs187507944
+11,5226312,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs187507944
+11,5226311,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587278
+11,5226310,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544479
+11,5226306,CC,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1019015622
+11,5226307,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1315571211
+11,5226550,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs368604295
+11,5226550,A,C,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs368604295
+11,5226306,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544328
+11,5226304,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892008
+11,5226303,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1385612569
+11,5226303,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1385612569
+11,5226299,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs999594627
+11,5226292,TCTC,TC,HBB,Microsatellite,Likely benign,"criteria provided, single submitter",rs2133587259
+11,5226293,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587261
+11,5226292,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544215
+11,5226291,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544179
+11,5226289,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544152
+11,5226289,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544152
+11,5226288,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294011
+11,5226287,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226548,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587641
+11,5226286,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544094
+11,5226284,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847544059
+11,5226283,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1320832744
+11,5226283,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1320832744
+11,5226282,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293998
+11,5226280,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs967646765
+11,5226279,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226277,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543915
+11,5226277,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543915
+11,5226574,A,,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1564874813
+11,5226574,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs63750283
+11,5226574,A,C,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750283
+11,5226276,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1178558353
+11,5226276,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1178558353
+11,5226268,TTTTTTTTT,TTTTTTTTTT,HBB,Duplication,Likely benign,"criteria provided, single submitter",rs1020110937
+11,5226271,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1800971968
+11,5226268,TTTTTTTTT,TTTTTT,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1020110937
+11,5226270,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs955334689
+11,5226269,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293977
+11,5226268,,C,HBB,Insertion,Likely benign,"criteria provided, single submitter",rs2494293973
+11,5226268,TTTTTTTTT,TTTTTTTT,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1020110937
+11,5226267,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543713
+11,5226266,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1246447924
+11,5226266,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1246447924
+11,5226264,A,TTTTTAAGTTAAGTTAAGTTTTTT,HBB,Indel,Likely benign,no assertion criteria provided,
+11,5226264,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs759934114
+11,5226264,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs759934114
+11,5226263,T,TTTTTTAAGTTAAGTTTTT,HBB,Microsatellite,Likely benign,"criteria provided, single submitter",rs2133587195
+11,5226262,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543579
+11,5226261,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293946
+11,5226259,TGTGT,TGT,HBB,Microsatellite,Likely benign,"criteria provided, single submitter",rs766272149
+11,5226260,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543546
+11,5226260,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543546
+11,5226259,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1011949195
+11,5226259,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1011949195
+11,5226257,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293937
+11,5226255,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543430
+11,5226254,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543397
+11,5226253,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293932
+11,5226252,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1428270127
+11,5226251,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs537557714
+11,5226251,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs537557714
+11,5226249,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587175
+11,5226248,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226246,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1484625119
+11,5226246,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1484625119
+11,5226245,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891981
+11,5226245,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891981
+11,5226244,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs531567967
+11,5226243,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293907
+11,5226242,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1055395965
+11,5226241,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891972
+11,5226241,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891972
+11,5226239,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs561258571
+11,5226238,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293894
+11,5226237,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587161
+11,5226234,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543045
+11,5226234,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847543045
+11,5226232,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564874640
+11,5226232,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564874640
+11,5226229,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293877
+11,5226227,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs112400237
+11,5226542,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs759795721
+11,5226542,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs759795721
+11,5226226,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1363355137
+11,5226225,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293861
+11,5226225,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293861
+11,5226224,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1470539687
+11,5226219,AAGCA,A,HBB,Deletion,Likely benign,"criteria provided, single submitter",
+11,5226222,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1001129219
+11,5226220,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293857
+11,5226216,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1374196285
+11,5226215,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847542763
+11,5226214,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891959
+11,5226212,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847542712
+11,5226210,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293840
+11,5226208,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs906980587
+11,5226207,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293832
+11,5226540,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1157248137
+11,5226206,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226205,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs964137770
+11,5226204,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293828
+11,5226201,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293818
+11,5226201,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293818
+11,5226199,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs182729393
+11,5226198,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587126
+11,5226197,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587125
+11,5226539,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294816
+11,5226196,A,G,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs190369729
+11,5226192,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1304388836
+11,5226191,AAA,AAAA,HBB,Duplication,Likely benign,"criteria provided, single submitter",rs2494293793
+11,5226186,AAAATAAA,AAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1250450244
+11,5226189,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587118
+11,5226188,,TATT,HBB,Insertion,Likely benign,"criteria provided, single submitter",rs2133587112
+11,5226538,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1435202349
+11,5226186,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587103
+11,5226181,AAAAGAAAA,AAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs908075557
+11,5226185,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847542342
+11,5226184,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293778
+11,5226182,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587089
+11,5226181,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1334704243
+11,5226176,AAAATAAAA,AAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1310746626
+11,5226180,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs892640661
+11,5226180,T,,HBB,Deletion,Likely benign,"criteria provided, single submitter",
+11,5226174,TAAAAATAAAA,TAAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2133587070
+11,5226573,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs754412212
+11,5226171,AATTAA,AA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2133587062
+11,5226172,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1052679623
+11,5226170,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1233384303
+11,5226170,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1233384303
+11,5226169,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226168,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1323342312
+11,5226167,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293748
+11,5226166,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587055
+11,5226165,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293744
+11,5226164,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs553945255
+11,5226162,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1194340747
+11,5226161,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293734
+11,5226159,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587047
+11,5226158,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847541989
+11,5226535,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587629
+11,5226155,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1250042245
+11,5226153,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293724
+11,5226151,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs922176223
+11,5226532,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294802
+11,5226531,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1352476647
+11,5226531,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1352476647
+11,5226529,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892198
+11,5226529,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892198
+11,5226528,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs751644989
+11,5226528,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs751644989
+11,5226571,CTC,C,HBB,Deletion,Pathogenic,no assertion criteria provided,rs34750035
+11,5226526,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs368176939
+11,5226523,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294775
+11,5226522,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1280339232
+11,5226521,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587596
+11,5226520,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1238888453
+11,5226519,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226518,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs974387932
+11,5226571,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs35099082
+11,5226571,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35099082
+11,5226516,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294762
+11,5226513,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1375672361
+11,5226513,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1375672361
+11,5226511,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847548262
+11,5226507,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs111559058
+11,5226506,C,G,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs373152208
+11,5226505,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1015991895
+11,5226505,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226501,TATC,TATCTATC,HBB,Duplication,Likely benign,"criteria provided, single submitter",rs2494294719
+11,5226503,T,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1847548056
+11,5226503,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847548056
+11,5226502,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs7480526
+11,5226502,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs7480526
+11,5226502,A,C,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs7480526
+11,5226500,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1437595362
+11,5226499,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587565
+11,5226499,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587565
+11,5226569,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35614355
+11,5226496,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589892172
+11,5226495,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs7946748
+11,5226495,G,A,HBB,single nucleotide variant,Benign,reviewed by expert panel,rs7946748
+11,5226493,CT,,HBB,Deletion,Likely benign,"criteria provided, multiple submitters, no conflicts",rs2494294686
+11,5226493,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587552
+11,5226493,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587552
+11,5226491,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1029676980
+11,5226487,TGT,T,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1481385514
+11,5226487,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs996887983
+11,5226568,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1847549511
+11,5226486,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847547444
+11,5226486,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847547444
+11,5226480,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494294666
+11,5226567,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1277597344
+11,5226567,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1277597344
+11,5226576,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33914944
+11,5226576,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33914944
+11,5226576,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33914944
+11,5225827,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1468940510
+11,5225827,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1468940510
+11,5225829,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586581
+11,5225831,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34690599
+11,5225831,G,C,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs34690599
+11,5225831,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34690599
+11,5225834,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1554917650
+11,5225735,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs751809624
+11,5225836,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586594
+11,5225837,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1847535052
+11,5225828,GTAGCTGGATTGTAGCTG,GTAGCTG,HBB,Deletion,Uncertain significance,"criteria provided, single submitter",rs1489533338
+11,5225839,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1003790835
+11,5225839,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1003790835
+11,5225840,T,TT,HBB,Duplication,Likely benign,"criteria provided, single submitter",rs2133586606
+11,5225842,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292888
+11,5225843,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292896
+11,5225842,GCTGCT,GCT,HBB,Microsatellite,Likely benign,"criteria provided, single submitter",rs2133586615
+11,5225844,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292898
+11,5225844,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292898
+11,5225736,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs755236703
+11,5225845,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891720
+11,5225847,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs533807852
+11,5225852,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292928
+11,5225853,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1291160651
+11,5225854,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586627
+11,5225732,GAGGAA,TAGGAG,HBB,Indel,Pathogenic,"criteria provided, single submitter",
+11,5225855,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs956857115
+11,5225856,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292942
+11,5225857,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586632
+11,5225858,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225861,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225863,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1444028845
+11,5225863,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1444028845
+11,5225738,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292604
+11,5225867,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1461634734
+11,5225868,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1589891738
+11,5225869,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292966
+11,5225870,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1005042281
+11,5225870,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1005042281
+11,5225870,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1005042281
+11,5225871,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs35328027
+11,5225871,A,C,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs35328027
+11,5225872,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1415697390
+11,5225872,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225872,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1415697390
+11,5225874,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292979
+11,5225874,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292979
+11,5225739,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35703285
+11,5225739,A,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35703285
+11,5225875,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs193922556
+11,5225875,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs193922556
+11,5225876,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225877,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891751
+11,5225878,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586668
+11,5225879,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847536198
+11,5225879,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847536198
+11,5225880,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1410738431
+11,5225884,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs531604051
+11,5225740,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586425
+11,5225887,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1022352464
+11,5225891,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847536435
+11,5225895,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1328502288
+11,5225881,ATTTATATGCAGAAATATTTATATGCAGA,ATTTATATGCAGAAATATTTATATGCAGAAATATTTATATGCAGA,HBB,Duplication,Likely benign,"criteria provided, multiple submitters, no conflicts",rs2133586678
+11,5225895,ATAT,AT,HBB,Microsatellite,Uncertain significance,"criteria provided, single submitter",rs1564874493
+11,5225897,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs2133586686
+11,5225898,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847536620
+11,5225901,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586691
+11,5225901,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586691
+11,5225902,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs964085975
+11,5225903,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293080
+11,5225904,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs185607297
+11,5225905,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",
+11,5225907,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1284665762
+11,5225909,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs193922557
+11,5225910,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1609812
+11,5225910,G,A,HBB,single nucleotide variant,Benign,reviewed by expert panel,rs1609812
+11,5225913,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891780
+11,5225916,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293111
+11,5225916,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293111
+11,5225917,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1564874512
+11,5225918,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225918,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1342329604
+11,5225919,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1334395915
+11,5225922,G,A,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs34451549
+11,5225923,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs547258651
+11,5225923,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs547258651
+11,5225924,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293129
+11,5225726,C,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs63750692
+11,5225726,C,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33952266
+11,5225726,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33952266
+11,5225726,C,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33952266
+11,5225927,AA,A,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847537515
+11,5225929,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586744
+11,5225933,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847537539
+11,5225934,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586745
+11,5225745,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs756657263
+11,5225937,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586752
+11,5225938,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293154
+11,5225940,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1220750242
+11,5225941,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847537665
+11,5225941,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847537665
+11,5225942,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891794
+11,5225943,CT,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2133586757
+11,5225944,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586760
+11,5225945,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs558455574
+11,5225947,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293183
+11,5225948,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586768
+11,5225949,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586771
+11,5225951,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586774
+11,5225954,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586776
+11,5225960,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293199
+11,5225963,G,A,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs558554234
+11,5225964,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs536547159
+11,5225969,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847537980
+11,5225970,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847538019
+11,5225970,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847538019
+11,5225971,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891810
+11,5225973,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293228
+11,5225974,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs908372322
+11,5225749,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs990408905
+11,5225749,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs990408905
+11,5225977,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586801
+11,5225979,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs941178010
+11,5225981,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847538154
+11,5225983,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1038541233
+11,5225984,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293252
+11,5225750,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs745321944
+11,5225750,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs745321944
+11,5225985,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1461234906
+11,5225985,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1461234906
+11,5225986,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586811
+11,5225987,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586813
+11,5225989,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293263
+11,5225990,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586814
+11,5225994,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293269
+11,5225751,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891645
+11,5225995,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293271
+11,5225997,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs773343845
+11,5225997,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs773343845
+11,5225998,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs966818537
+11,5225999,GAAAGAAAGA,GAAAGA,HBB,Microsatellite,Likely benign,"criteria provided, single submitter",rs1847538379
+11,5226003,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs978207135
+11,5226004,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225752,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1280140490
+11,5225752,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1280140490
+11,5226006,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1241261843
+11,5226007,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1167487432
+11,5226009,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1373924860
+11,5226009,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1373924860
+11,5226011,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293315
+11,5225753,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs771736852
+11,5225753,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs771736852
+11,5225753,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs771736852
+11,5225999,GAAAGAAAGAGATTAGGGAAAG,GAAAG,HBB,Deletion,Uncertain significance,"criteria provided, single submitter",rs1589891826
+11,5226015,,AAATTATTGCCC,HBB,Insertion,Likely benign,"criteria provided, single submitter",rs1417673135
+11,5226015,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847538764
+11,5226016,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293368
+11,5226017,AAA,AA,HBB,Deletion,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1170203019
+11,5226020,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs569636767
+11,5226023,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586859
+11,5225754,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847533217
+11,5225727,T,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33914668
+11,5225727,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33914668
+11,5226029,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586862
+11,5226029,ATAAGATAA,ATAA,HBB,Deletion,Uncertain significance,"criteria provided, single submitter",rs1847539022
+11,5226033,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293413
+11,5226033,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293413
+11,5226034,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293417
+11,5226040,AAAAAA,AAAAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1337114930
+11,5226040,AAAAAA,AAAAAAA,HBB,Duplication,Benign,"criteria provided, single submitter",rs1337114930
+11,5225756,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs578102677
+11,5226048,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891857
+11,5226049,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1194851586
+11,5226050,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847539392
+11,5226053,AAAA,AAA,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494293469
+11,5226053,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847539426
+11,5226053,AAAAGAA,AA,HBB,Deletion,Uncertain significance,"criteria provided, single submitter",rs1589891861
+11,5226057,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1405170526
+11,5226060,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847539707
+11,5226060,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847539707
+11,5226062,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586900
+11,5226064,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1322482679
+11,5225758,TT,T,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494292669
+11,5226066,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1200755137
+11,5226069,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847539891
+11,5226070,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293527
+11,5226071,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293531
+11,5226072,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847539942
+11,5226073,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1340330454
+11,5226075,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586909
+11,5226081,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847540166
+11,5226082,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1250495620
+11,5226083,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs536670489
+11,5226084,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847540316
+11,5226085,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1224999747
+11,5226086,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586926
+11,5226086,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586926
+11,5226087,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586928
+11,5226088,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs113311899
+11,5226090,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847540470
+11,5226091,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586933
+11,5226093,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891884
+11,5226094,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891886
+11,5225761,G,A,HBB,single nucleotide variant,Uncertain significance,reviewed by expert panel,rs908362696
+11,5226095,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1304036788
+11,5226095,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1304036788
+11,5226097,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226098,G,T,HBB,single nucleotide variant,Benign,reviewed by expert panel,rs78815705
+11,5226101,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293578
+11,5226101,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293578
+11,5226103,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1332795013
+11,5226104,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586958
+11,5225762,C,A,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs193922559
+11,5226106,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1045462228
+11,5226108,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586966
+11,5226111,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847540893
+11,5226111,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847540893
+11,5226112,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847540939
+11,5226112,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847540939
+11,5226114,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586972
+11,5226114,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586972
+11,5225763,AAAA,AAA,HBB,Deletion,Benign,"criteria provided, single submitter",rs2494292681
+11,5226115,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494293613
+11,5226117,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1429457015
+11,5226118,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847541061
+11,5226119,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1297920360
+11,5226119,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1297920360
+11,5226122,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1346655515
+11,5225764,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1446409832
+11,5225728,G,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33913413
+11,5225728,G,C,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33913413
+11,5225728,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33913413
+11,5226125,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847541358
+11,5226125,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847541358
+11,5226129,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847541400
+11,5226129,CA,TG,HBB,Inversion,Likely benign,"criteria provided, single submitter",
+11,5226130,A,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1174805237
+11,5226130,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs576852971
+11,5226130,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs576852971
+11,5226132,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs906834582
+11,5225765,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586468
+11,5226135,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847541593
+11,5226136,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs113426432
+11,5226136,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs113426432
+11,5226137,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847541674
+11,5226140,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587013
+11,5226142,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587015
+11,5226142,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587015
+11,5226143,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133587017
+11,5226145,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226150,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225767,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs761649200
+11,5225767,GGG,GG,HBB,Deletion,Likely benign,"criteria provided, multiple submitters, no conflicts",rs746631999
+11,5225768,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs769673434
+11,5225769,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1847533762
+11,5225769,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847533762
+11,5225770,C,G,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs140033163
+11,5225771,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1554917642
+11,5225771,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1554917642
+11,5225773,A,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs2494292701
+11,5225774,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586488
+11,5225774,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586488
+11,5225729,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225775,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs762957058
+11,5225776,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs2494292707
+11,5225778,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586497
+11,5225781,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586502
+11,5225782,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586504
+11,5225785,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847533961
+11,5225785,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1847533961
+11,5225787,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586509
+11,5225790,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292726
+11,5225791,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891683
+11,5225791,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891683
+11,5225792,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847534048
+11,5225793,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586515
+11,5225795,G,C,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs193922560
+11,5225796,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891689
+11,5225797,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292733
+11,5225802,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1421375702
+11,5225802,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1421375702
+11,5225803,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847534308
+11,5225804,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs181743523
+11,5225732,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34483965
+11,5225805,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1157691054
+11,5225806,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs911937119
+11,5225806,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs911937119
+11,5225807,C,T,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs944935116
+11,5225807,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs944935116
+11,5225809,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292784
+11,5225812,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494292798
+11,5225814,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586554
+11,5225814,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586554
+11,5225733,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34793594
+11,5225815,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs63750433
+11,5225816,AAAA,AAA,HBB,Deletion,Uncertain significance,"criteria provided, single submitter",rs2133586557
+11,5225820,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891699
+11,5225820,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1589891699
+11,5225821,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs193922561
+11,5225822,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225822,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225811,AAAATAAAAGCAGAA,AAAATAAAAGCAGAAAATAAAAGCAGAA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847534434
+11,5225824,AA,A,HBB,Deletion,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1257175417
+11,5225824,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1232651664
+11,5225824,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1232651664
+11,5225734,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847532493
+11,5225734,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847532493
+11,5225725,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34022507
+11,5225722,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs63750596
+11,5225718,CCC,CCCC,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35225141
+11,5225718,C,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35519485
+11,5225718,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35519485
+11,5225716,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225715,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225714,G,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",
+11,5225714,G,C,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",
+11,5225714,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs34933751
+11,5225714,G,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",
+11,5225713,C,,HBB,Deletion,Pathogenic; other,no assertion criteria provided,rs63751201
+11,5225713,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33969677
+11,5225713,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33969677
+11,5225711,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133586316
+11,5225711,C,A,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5225710,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1310721664
+11,5225710,G,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",
+11,5225709,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225705,G,T,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5225705,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1441670878
+11,5225704,A,G,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs35849199
+11,5225696,CAGCACACAG,CAGCACACAGCACACAG,HBB,Duplication,Pathogenic,no assertion criteria provided,rs281864527
+11,5225702,A,T,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33930977
+11,5225702,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs33930977
+11,5226988,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs35799536
+11,5226988,GG,G,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1554918214
+11,5226988,GG,GGG,HBB,Duplication,Likely pathogenic,"criteria provided, single submitter",rs1554918214
+11,5225701,C,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs281865477
+11,5225699,C,CC,HBB,Duplication,Pathogenic,"criteria provided, single submitter",rs2494292446
+11,5225697,AG,C,HBB,Indel,Pathogenic,no assertion criteria provided,rs41443947
+11,5225698,G,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33917394
+11,5225698,G,A,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5225697,A,G,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs36015961
+11,5225693,GGCC,GGCCGGCC,HBB,Duplication,Pathogenic,"criteria provided, single submitter",rs2494292407
+11,5225696,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5225695,CC,C,HBB,Deletion,Pathogenic,"criteria provided, single submitter",
+11,5225695,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs34945623
+11,5225694,G,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35485099
+11,5225694,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225692,GG,C,HBB,Indel,Likely pathogenic,"criteria provided, single submitter",
+11,5225693,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1221319092
+11,5225692,,ATCA,HBB,Insertion,Pathogenic,no assertion criteria provided,rs63751306
+11,5225692,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34049764
+11,5225691,T,C,HBB,single nucleotide variant,Uncertain significance; other,no assertion criteria provided,rs33978082
+11,5225690,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35209776
+11,5225690,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35209776
+11,5225687,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1271256116
+11,5225687,G,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs281864528
+11,5225684,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1445341934
+11,5225678,T,G,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs34726542
+11,5225678,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34726542
+11,5225678,TTT,TTTT,HBB,Duplication,Likely pathogenic,"criteria provided, single submitter",
+11,5225677,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33946267
+11,5226985,AA,A,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34856846
+11,5226985,AA,AAA,HBB,Duplication,Likely pathogenic,"criteria provided, single submitter",
+11,5225663,TGGTGGGGTG,TG,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs1554917561
+11,5225669,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs780307221
+11,5225669,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs780307221
+11,5225669,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs780307221
+11,5225668,G,T,HBB,single nucleotide variant,Benign,no assertion criteria provided,rs35461710
+11,5225668,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35461710
+11,5225666,T,TT,HBB,Duplication,Likely pathogenic,"criteria provided, single submitter",rs281864544
+11,5225662,CT,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs1847527770
+11,5225663,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1554917555
+11,5225663,T,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs34363638
+11,5225645,CTGATAGGCAGCCTGCACTG,CTG,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs750606223
+11,5225661,A,C,HBB,single nucleotide variant,Uncertain significance,reviewed by expert panel,rs33925391
+11,5225660,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1234756429
+11,5225659,G,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33971634
+11,5225656,CCT,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs34502690
+11,5225658,T,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33910569
+11,5225657,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1437278962
+11,5225656,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs34139813
+11,5225652,GCAGC,GC,HBB,Deletion,Uncertain significance,"criteria provided, single submitter",rs1554917536
+11,5225654,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1248780802
+11,5225653,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5225640,ACTTTCTGATAGG,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs2494292050
+11,5225648,A,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs281864530
+11,5225637,ACCACTTTCTGA,A,HBB,Deletion,Pathogenic,no assertion criteria provided,rs2494292030
+11,5225647,G,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs33910209
+11,5225646,T,TT,HBB,Duplication,Pathogenic,no assertion criteria provided,rs281864531
+11,5225644,TCT,T,HBB,Deletion,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750320
+11,5225645,C,A,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5225644,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs33953406
+11,5225644,T,A,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33953406
+11,5225642,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33946775
+11,5226982,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1554918207
+11,5227018,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33930702
+11,5227018,C,G,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33930702
+11,5227018,C,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33930702
+11,5225641,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs34095019
+11,5225639,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs113082294
+11,5225637,A,T,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33966761
+11,5225634,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35669628
+11,5225633,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494291991
+11,5226981,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs766266418
+11,5225629,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs748704616
+11,5225625,G,A,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5225624,A,AA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847523960
+11,5225622,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34407387
+11,5225622,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226980,G,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs35203747
+11,5225621,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs34240441
+11,5225621,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs34240441
+11,5225619,GC,AT,HBB,Indel,Uncertain significance,"criteria provided, single submitter",rs2494291897
+11,5225620,C,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs34980264
+11,5225616,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35854892
+11,5225615,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1268853687
+11,5225614,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs33931806
+11,5225611,GGG,G,HBB,Deletion,Pathogenic,no assertion criteria provided,rs281864497
+11,5225610,T,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33918338
+11,5225610,T,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33918338
+11,5225609,G,A,HBB,single nucleotide variant,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",rs36020563
+11,5225608,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33964352
+11,5225606,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35020585
+11,5225606,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs35020585
+11,5225605,A,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33949869
+11,5225605,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, single submitter",rs33949869
+11,5225604,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35117167
+11,5225603,A,T,HBB,single nucleotide variant,Pathogenic; other,no assertion criteria provided,rs35291591
+11,5226978,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226978,GGG,GG,HBB,Deletion,Pathogenic,no assertion criteria provided,rs613985
+11,5226977,A,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847585864
+11,5226977,A,AA,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847585812
+11,5226976,C,CC,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35383398
+11,5226976,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs762782573
+11,5226976,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs762782573
+11,5226975,A,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63749960
+11,5226974,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750783
+11,5226973,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs34716011
+11,5227017,CC,C,HBB,Deletion,Pathogenic,no assertion criteria provided,rs63750475
+11,5227017,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33958358
+11,5226971,CCCC,CCC,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847584946
+11,5226971,CCCC,CCCCC,HBB,Duplication,Pathogenic,no assertion criteria provided,rs1847584946
+11,5226970,G,A,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs370075492
+11,5226970,G,,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35662066
+11,5226969,T,A,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs33986703
+11,5226967,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs36006214
+11,5226966,CC,C,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",
+11,5226965,A,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs35382661
+11,5226963,T,C,HBB,single nucleotide variant,Uncertain significance; other,no assertion criteria provided,rs34866629
+11,5226962,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33972047
+11,5226960,C,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35890959
+11,5226960,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226959,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33918474
+11,5226957,CC,CCC,HBB,Duplication,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1554918165
+11,5226956,T,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33977536
+11,5226954,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33959855
+11,5226947,CCAACTTC,C,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs281864898
+11,5227015,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1349384278
+11,5227015,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1349384278
+11,5226951,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33929459
+11,5226951,C,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33929459
+11,5226948,CAAC,C,HBB,Deletion,Pathogenic,no assertion criteria provided,rs34160180
+11,5226948,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226947,CC,C,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs1847582194
+11,5226947,C,GTG,HBB,Indel,Pathogenic,no assertion criteria provided,rs281864899
+11,5226946,A,T,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33951465
+11,5226902,AACCTGTCTTGTAACCTTGATACCAACCTGCCCAGGGCCTCACCA,A,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs63751076
+11,5226943,A,AA,HBB,Duplication,Pathogenic,"criteria provided, single submitter",rs35619688
+11,5226943,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs373379910
+11,5226943,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs373379910
+11,5226942,,A,HBB,Insertion,Pathogenic,no assertion criteria provided,rs35477349
+11,5226942,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33950507
+11,5226942,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33950507
+11,5226940,C,G,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs281864581
+11,5226938,GC,AA,HBB,Indel,Uncertain significance,"criteria provided, single submitter",
+11,5226939,C,T,HBB,single nucleotide variant,Likely pathogenic,no assertion criteria provided,
+11,5226939,C,A,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs35424040
+11,5226931,GCCCAGGGCC,GCC,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",
+11,5226937,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs748296717
+11,5226937,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs748296717
+11,5226936,G,C,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226936,GGG,GG,HBB,Deletion,Pathogenic,no assertion criteria provided,rs35532010
+11,5226936,GGG,GGGG,HBB,Duplication,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35532010
+11,5226934,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1191121382
+11,5226934,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1191121382
+11,5226932,CCC,CC,HBB,Deletion,Pathogenic,no assertion criteria provided,rs267607295
+11,5226932,C,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",rs35685286
+11,5227005,GAGTCAGAT,ACTTCTCCTCAGGCAGACTTCACCTCAG,HBB,Indel,Pathogenic,no assertion criteria provided,rs1847588699
+11,5227013,T,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs33983205
+11,5227013,T,,HBB,Deletion,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs1847589398
+11,5226931,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs35578002
+11,5226930,T,G,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35684407
+11,5226930,T,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35684407
+11,5226930,T,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1847579861
+11,5226919,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494296610
+11,5226918,TT,TTT,HBB,Duplication,Uncertain significance,no assertion criteria provided,
+11,5226917,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs2133589140
+11,5226916,CC,C,HBB,Deletion,Uncertain significance,"criteria provided, single submitter",
+11,5226916,C,A,HBB,single nucleotide variant,Uncertain significance,reviewed by expert panel,rs753444453
+11,5226914,A,ACCA,HBB,Insertion,Uncertain significance,"criteria provided, single submitter",rs1847578475
+11,5226914,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133589130
+11,5226912,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1308676559
+11,5226911,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133589125
+11,5226928,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33971440
+11,5226928,C,G,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs33971440
+11,5226928,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33971440
+11,5226908,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs369482557
+11,5226907,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1232883523
+11,5226907,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1232883523
+11,5226907,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1232883523
+11,5226905,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847578084
+11,5226904,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs375739101
+11,5226903,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1035809053
+11,5226901,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs565131043
+11,5226927,A,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33956879
+11,5226927,A,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33956879
+11,5226927,A,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33956879
+11,5226897,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs369168168
+11,5226894,,CATTCTAT,HBB,Insertion,Likely benign,"criteria provided, single submitter",rs781015056
+11,5226894,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847577579
+11,5226893,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs776904725
+11,5226893,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs776904725
+11,5226892,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs372467642
+11,5226890,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs372716225
+11,5226889,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs375672426
+11,5226889,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs375672426
+11,5226888,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847577181
+11,5226886,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847577080
+11,5226884,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs773415134
+11,5226883,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847576979
+11,5226882,A,C,HBB,single nucleotide variant,Benign,"criteria provided, single submitter",rs369341845
+11,5226881,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs372778054
+11,5226881,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs372778054
+11,5226880,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133589046
+11,5226925,C,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1377832836
+11,5226925,C,A,HBB,single nucleotide variant,Uncertain significance,no assertion criteria provided,
+11,5226879,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs377447760
+11,5226876,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847576718
+11,5226875,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847576671
+11,5226872,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs962266675
+11,5226872,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs962266675
+11,5226872,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs962266675
+11,5226871,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847576487
+11,5226924,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33915217
+11,5226924,C,G,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs33915217
+11,5226924,C,A,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33915217
+11,5226868,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs747160822
+11,5226868,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs747160822
+11,5226867,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs988935334
+11,5226865,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133589016
+11,5226865,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133589016
+11,5226864,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1170353179
+11,5226864,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1170353179
+11,5226923,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs35724775
+11,5226923,A,G,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs35724775
+11,5226922,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs63750195
+11,5226920,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs374317172
+11,5226797,GCC,GCCGCC,HBB,Duplication,Pathogenic,no assertion criteria provided,rs35348864
+11,5226929,C,T,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs33960103
+11,5226929,C,A,HBB,single nucleotide variant,Likely pathogenic,"criteria provided, single submitter",
+11,5226809,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226812,A,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",rs1428777319
+11,5226813,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs35456885
+11,5226813,A,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs35456885
+11,5226814,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1480884739
+11,5226799,CTAAGGGTGGGAAAATA,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs1554918032
+11,5226815,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1176965004
+11,5226816,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs777028217
+11,5226816,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs777028217
+11,5226817,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1451581925
+11,5226817,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1451581925
+11,5226799,C,T,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33943001
+11,5226799,C,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs33943001
+11,5226795,CAGCCTAAGGGTGGGAAAATAGACC,,HBB,Deletion,Pathogenic,"criteria provided, single submitter",rs63750223
+11,5226819,C,T,HBB,single nucleotide variant,Pathogenic,reviewed by expert panel,rs35004220
+11,5226796,AGCCTAAGGGTGGGAAAATAGACCAA,A,HBB,Deletion,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs193922563
+11,5226821,ATA,A,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1385066437
+11,5226822,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs773687221
+11,5226825,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs376272324
+11,5226825,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs376272324
+11,5226825,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs376272324
+11,5226826,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564875652
+11,5226826,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564875652
+11,5226800,T,G,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750513
+11,5226800,T,C,HBB,single nucleotide variant,Pathogenic,"criteria provided, multiple submitters, no conflicts",rs63750513
+11,5226828,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs752175922
+11,5226829,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs755640155
+11,5226830,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1372536490
+11,5226790,ACCAGCAGCCTAAGGGTGGGAAAATAGACCAATAGGCAGAGA,,HBB,Deletion,Likely pathogenic,"criteria provided, single submitter",rs2494296171
+11,5226795,CAGCCTAAGGGTGGGAAAATAGACCAATAGGCAGAGA,TAATCTGAGGGTAGGAAAACAGCCCAAGGGACAGT,HBB,Indel,Likely pathogenic,"criteria provided, single submitter",rs2494296194
+11,5226832,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs763696976
+11,5226832,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs763696976
+11,5226834,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs199587927
+11,5226827,AGAGAGAG,AGAG,HBB,Microsatellite,Likely benign,"criteria provided, single submitter",rs746824976
+11,5226837,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs750275131
+11,5226801,A,G,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226801,A,C,HBB,single nucleotide variant,Pathogenic/Likely pathogenic,"criteria provided, multiple submitters, no conflicts",rs34527846
+11,5226838,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs556727592
+11,5226838,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs556727592
+11,5226839,T,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847575815
+11,5226839,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847575815
+11,5226841,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",
+11,5226842,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1564875667
+11,5226844,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs373538213
+11,5226844,A,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs373538213
+11,5226853,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1186575711
+11,5226853,C,G,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1186575711
+11,5226854,C,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494296415
+11,5226857,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847576219
+11,5226803,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1205031264
+11,5226803,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1205031264
+11,5226859,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs1847576255
+11,5226860,T,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2494296421
+11,5226862,T,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133589012
+11,5226862,TT,,HBB,Deletion,Likely benign,"criteria provided, single submitter",rs1847576339
+11,5226804,G,A,HBB,single nucleotide variant,Likely benign,"criteria provided, multiple submitters, no conflicts",rs1554918048
+11,5226805,G,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs2133588899
+11,5226807,G,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs768952155
+11,5226807,GGG,GGGG,HBB,Duplication,Likely benign,"criteria provided, single submitter",rs752631303
+11,5226798,C,G,HBB,single nucleotide variant,Pathogenic,no assertion criteria provided,rs1135071
+11,5226798,C,A,HBB,single nucleotide variant,Uncertain significance,"criteria provided, multiple submitters, no conflicts",rs1135071
+11,5226797,G,T,HBB,single nucleotide variant,Uncertain significance,"criteria provided, single submitter",
+11,5226797,G,,HBB,Deletion,Pathogenic,no assertion criteria provided,rs63749977
+11,5226795,C,A,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs778841729
+11,5226787,ACCACCA,ACCA,HBB,Microsatellite,Pathogenic,"criteria provided, single submitter",rs35699671
+11,5227011,GA,AG,HBB,Indel,Likely benign,"criteria provided, single submitter",rs2133589628
+11,5227012,A,T,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",rs713040
+11,5227012,A,G,HBB,single nucleotide variant,Benign,"criteria provided, multiple submitters, no conflicts",rs713040
+11,5227012,A,C,HBB,single nucleotide variant,Likely benign,"criteria provided, single submitter",

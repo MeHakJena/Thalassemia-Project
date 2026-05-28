@@ -1,0 +1,12 @@
+##fileformat=VCFv4.2
+##source=GeneTrustAI_Demo_Generator
+##reference=GRCh38
+##contig=<ID=11,length=135086622>
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	PATIENT_01
+11	5225526	.	T	C	99.9	PASS	AF=0.0001	GT:DP:GQ	1/1:45:99
+11	5227002	.	A	G	85.0	PASS	AF=0.001	GT:DP:GQ	0/1:30:80
+11	5248100	.	C	T	15.0	LowQual	AF=0.05	GT:DP:GQ	0/1:8:15

@@ -1,0 +1,27 @@
+# Python/Render
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+env/
+ENV/
+*.pkl
+!models/saved_models/xgboost.pkl
+!models/saved_models/pathogenicity_model.pkl
+
+# Node/Firebase
+node_modules/
+.npm
+frontend/dist/
+frontend/node_modules/
+.firebase/
+firebase-debug.log*
+
+# Mac OS
+.DS_Store
+
+# Data/DB
+data/temp_upload.vcf
+data/raw/
