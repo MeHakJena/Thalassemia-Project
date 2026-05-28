@@ -123,7 +123,8 @@ class ClinicalLLM:
             "4. Clinical Implications (severity, expected phenotype using HPO terms)\n"
             "5. Pharmacogenomics & Management (mention relevant PharmGKB/TIF guidelines)\n"
             "6. Recent Literature (Cite 1-2 relevant PubMed papers if available)\n"
-            "7. Pipeline Confidence (based on QC and model confidence)"
+            "7. Pipeline Confidence (based on QC and model confidence)\n\n"
+            "IMPORTANT: For every external fact or literature cited, you MUST include a clickable markdown link using the 'Source URL' provided in the Live External API Data (e.g., [Title of Article](https://pubmed.ncbi...)). Do not just print the raw URL."
         )
         
         return self._call_llm(system_prompt, user_prompt)
@@ -133,7 +134,8 @@ class ClinicalLLM:
         system_prompt = (
             "You are GeneTrustAI-Thal, an expert clinical genomic assistant. "
             "Answer the user's question about their Beta-Thalassemia VCF analysis. "
-            "Use the provided clinical context if relevant. Be concise, accurate, and professional."
+            "Use the provided clinical context if relevant. Be concise, accurate, and professional. "
+            "IMPORTANT: If you pull information from the context that has a 'Source URL', you MUST provide a clickable markdown link (e.g., [Source](https://...)) for validation purposes."
         )
         
         user_prompt = f"Context:\n{context}\n\nQuestion: {question}"

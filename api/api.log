@@ -174,3 +174,19 @@ INFO:     Application startup complete.
 INFO:     Started server process [60266]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'rag/external_apis.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [60266]
+INFO:     Started server process [61391]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'rag/llm.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [61391]
+INFO:     Started server process [61443]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

@@ -36,7 +36,8 @@ class ExternalClinicalAPIs:
                     title = results[uid].get("title", "")
                     pubdate = results[uid].get("pubdate", "")
                     source = results[uid].get("source", "")
-                    articles.append(f"- {title} ({source}, {pubdate}) [PMID: {uid}]")
+                    url = f"https://pubmed.ncbi.nlm.nih.gov/{uid}/"
+                    articles.append(f"- {title} ({source}, {pubdate}) [PMID: {uid}] - URL: {url}")
                     
             return "\n".join(articles)
         except Exception as e:
@@ -57,7 +58,8 @@ class ExternalClinicalAPIs:
                 import re
                 clean_summary = re.sub('<[^<]+>', '', summary)
                 # truncate to 500 chars to save token space
-                return clean_summary[:500] + "..."
+                url = "https://medlineplus.gov/genetics/condition/beta-thalassemia/"
+                return f"{clean_summary[:500]}...\nSource URL: {url}"
             return "No MedlinePlus summary found."
         except Exception as e:
             return f"MedlinePlus API Error: {str(e)}"
@@ -76,7 +78,8 @@ class ExternalClinicalAPIs:
             
             # Return top 15 phenotypes to avoid context bloat
             if terms:
-                return ", ".join(terms[:15])
+                url = f"https://hpo.jax.org/app/browse/disease/{disease_id}"
+                return f"{', '.join(terms[:15])}\nSource URL: {url}"
             return "No HPO terms found."
         except Exception as e:
             return f"HPO API Error: {str(e)}"
@@ -85,7 +88,8 @@ class ExternalClinicalAPIs:
         """Fetch Pharmacogenomics info (drug interactions) for the gene."""
         # Simple lookup strategy or placeholder if PharmGKB public API is restricted
         # PharmGKB public APIs are often subject to change.
-        return "PharmGKB: Hydroxyurea is commonly used to induce fetal hemoglobin (HbF) in severe beta-thalassemia and sickle cell disease, mitigating severity."
+        url = "https://www.pharmgkb.org/gene/PA28919/clinicalAnnotation"
+        return f"PharmGKB: Hydroxyurea is commonly used to induce fetal hemoglobin (HbF) in severe beta-thalassemia and sickle cell disease, mitigating severity.\nSource URL: {url}"
 
     def gather_all_context(self, variant_hgvs: str = "") -> dict:
         """Run all external API fetches concurrently."""
