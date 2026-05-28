@@ -56,5 +56,12 @@ class ClinicalRetriever:
             print(f"Retrieval error: {e}")
             return "Error retrieving context."
 
-# Singleton instance
-retriever = ClinicalRetriever()
+# Lazy Initialization Singleton
+_retriever_instance = None
+
+def get_retriever():
+    global _retriever_instance
+    if _retriever_instance is None:
+        print("Initializing ClinicalRetriever lazily...")
+        _retriever_instance = ClinicalRetriever()
+    return _retriever_instance

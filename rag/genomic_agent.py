@@ -6,7 +6,7 @@ Orchestrates the entire VCF → QC → Predict → RAG → LLM pipeline.
 from pathlib import Path
 import os
 from cyvcf2 import VCF
-from .retriever import retriever
+from rag.retriever import get_retriever
 from .llm import llm_service
 from models.severity_model import predict_severity
 
@@ -169,7 +169,8 @@ class GenomicAgent:
         else:
             query = "Beta-Thalassemia general clinical information"
             
-        context = retriever.retrieve_context(query)
+        # 1. Semantic Search (Clinical KB + RAG)
+        context = get_retriever().retrieve_context(query)
         
         # 5. Generate Summary
         summary = llm_service.generate_clinical_summary(predicted_variants, qc_data, context)
