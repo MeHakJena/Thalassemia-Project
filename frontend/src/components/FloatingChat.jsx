@@ -2,8 +2,10 @@ import React, { useState, useRef, useEffect } from 'react';
 import { MessageSquare, X, Send, Bot, User, Loader2 } from 'lucide-react';
 import { chat } from '../api';
 import ReactMarkdown from 'react-markdown';
+import { useAppContext } from '../context/AppContext';
 
 export default function FloatingChat() {
+  const { pageContext } = useAppContext();
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState([
     {
@@ -41,10 +43,10 @@ export default function FloatingChat() {
         content: m.content
       }));
 
-      // Passing "General Inquiry" as context because this isn't tied to a specific VCF
+      // Passing dynamic context based on the user's active page
       const response = await chat({
         message: userMsg,
-        context: "The user is using the GeneTrustAI Thalassemia Dashboard. They are asking a general question. Provide a helpful, friendly, and concise answer.",
+        context: `Context regarding what the user is currently viewing on their screen: ${pageContext}\n\nPlease use this context to answer their question appropriately.`,
         history: history
       });
 

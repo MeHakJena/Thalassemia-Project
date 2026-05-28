@@ -89,7 +89,7 @@ class ClinicalLLM:
             "*To enable the AI Chatbot, please set `GROQ_API_KEY` or `OPENAI_API_KEY` in your environment.*"
         )
 
-    def generate_clinical_summary(self, variant_data: dict, qc_data: dict, context: str) -> str:
+    def generate_clinical_summary(self, variant_data: dict, qc_data: dict, context: str, live_api_data: dict = None) -> str:
         """Generate the main clinical report after VCF analysis."""
         system_prompt = (
             "You are an expert clinical genomic AI assistant specializing in Beta-Thalassemia. "
@@ -103,13 +103,27 @@ class ClinicalLLM:
             f"Please generate a clinical summary for this VCF analysis.\n\n"
             f"--- QC Metrics ---\n{json.dumps(qc_data, indent=2)}\n\n"
             f"--- Detected Variants ---\n{json.dumps(variant_data, indent=2)}\n\n"
-            f"--- Retrieved Clinical Knowledge ---\n{context}\n\n"
+            f"--- Retrieved Clinical Knowledge (Local DB) ---\n{context}\n\n"
+        )
+        
+        if live_api_data:
+            user_prompt += (
+                f"--- Live External API Data ---\n"
+                f"PubMed Recent Literature:\n{live_api_data.get('pubmed', 'None')}\n\n"
+                f"MedlinePlus Summary:\n{live_api_data.get('medlineplus', 'None')}\n\n"
+                f"HPO Phenotype Terms:\n{live_api_data.get('hpo', 'None')}\n\n"
+                f"PharmGKB Guidelines:\n{live_api_data.get('pharmgkb', 'None')}\n\n"
+            )
+
+        user_prompt += (
             "Structure the response with:\n"
             "1. Overall Finding (1-2 sentences)\n"
             "2. Variant Details (brief explanation of the mutations found)\n"
             "3. Variant Interpretation (Explain *why* the model made this prediction using the provided 'interpretation_reasoning' SHAP features)\n"
-            "4. Clinical Implications (severity, expected phenotype)\n"
-            "5. Pipeline Confidence (based on QC and model confidence)"
+            "4. Clinical Implications (severity, expected phenotype using HPO terms)\n"
+            "5. Pharmacogenomics & Management (mention relevant PharmGKB/TIF guidelines)\n"
+            "6. Recent Literature (Cite 1-2 relevant PubMed papers if available)\n"
+            "7. Pipeline Confidence (based on QC and model confidence)"
         )
         
         return self._call_llm(system_prompt, user_prompt)

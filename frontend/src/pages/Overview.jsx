@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { getDatasetOverview } from '../api';
+import { useAppContext } from '../context/AppContext';
 
 // ── Badge colours per pathogenicity class ───────────────────────────────────
 const BADGE_COLOR = {
@@ -39,16 +40,26 @@ function StatCard({ title, value, accent }) {
 }
 
 export default function Overview() {
+  const { setPageContext } = useAppContext();
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [search, setSearch] = useState('');
 
   useEffect(() => {
+    setPageContext("The user is on the Overview tab, which is currently loading dataset metrics.");
     getDatasetOverview()
-      .then(d => { setData(d); setLoading(false); })
-      .catch(err => { setError(err.message); setLoading(false); });
-  }, []);
+      .then(d => { 
+        setData(d); 
+        setLoading(false); 
+        setPageContext(`The user is on the Overview tab viewing the beta-thalassemia dataset metrics. Data summary: ${d.total_variants} total variants, ${d.labeled_variants} labeled variants. Pathogenicity breakdown: ${d.pathogenic} Pathogenic, ${d.likely_pathogenic} Likely Pathogenic, ${d.vus} VUS, ${d.likely_benign} Likely Benign, ${d.benign} Benign. Genomic range is ${d.genomic_range}.`);
+      })
+      .catch(err => { 
+        setError(err.message); 
+        setLoading(false); 
+        setPageContext(`The user is on the Overview tab but an error occurred while loading data: ${err.message}`);
+      });
+  }, [setPageContext]);
 
   if (loading) return (
     <div style={{ display: 'flex', alignItems: 'center', gap: 12, padding: 40, color: 'var(--text-secondary)' }}>

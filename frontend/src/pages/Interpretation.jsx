@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell, ReferenceLine } from 'recharts';
 import { predictPathogenicity } from '../api';
+import { useAppContext } from '../context/AppContext';
 
 // ── Pathogenicity colour map ─────────────────────────────────────────────────
 const PATHO_COLOR = {
@@ -50,6 +51,7 @@ function SHAPTooltip({ active, payload }) {
 }
 
 export default function Interpretation() {
+  const { setPageContext } = useAppContext();
   const [formData, setFormData] = useState({
     allele_freq:       0.0001,
     homozygote_count:  0,
@@ -59,6 +61,14 @@ export default function Interpretation() {
   const [result,  setResult]  = useState(null);
   const [loading, setLoading] = useState(false);
   const [error,   setError]   = useState(null);
+
+  useEffect(() => {
+    if (!result) {
+      setPageContext("The user is on the Variant Interpretation tab. They have not yet run a prediction. They are preparing to input variant characteristics.");
+    } else {
+      setPageContext(`The user is on the Variant Interpretation tab. They just ran a prediction for a variant with Allele Freq: ${formData.allele_freq}, Homozygotes: ${formData.homozygote_count}, Type: ${formData.variant_type}, Class: ${formData.mutation_class}. The ML model predicted "${result.prediction}" with ${(result.confidence*100).toFixed(1)}% confidence.`);
+    }
+  }, [result, formData, setPageContext]);
 
   const handleChange = e => {
     const { name, value } = e.target;
@@ -200,23 +210,25 @@ export default function Interpretation() {
               <span style={{ color: '#f85149' }}>■ Red</span> features push toward Pathogenic.{' '}
               <span style={{ color: '#58a6ff' }}>■ Blue</span> features push toward Benign/VUS.
             </p>
-            <ResponsiveContainer width="100%" height="75%">
-              <BarChart
-                data={result.chartData}
-                layout="vertical"
-                margin={{ top: 0, right: 40, left: 120, bottom: 0 }}
-              >
-                <XAxis type="number" tick={{ fill: 'var(--text-secondary)', fontSize: 12 }} />
-                <YAxis dataKey="name" type="category" tick={{ fill: 'var(--text-primary)', fontSize: 13 }} width={115} />
-                <Tooltip content={<SHAPTooltip />} />
-                <ReferenceLine x={0} stroke="var(--border)" />
-                <Bar dataKey="value" radius={[0, 4, 4, 0]} isAnimationActive>
-                  {result.chartData.map((entry, i) => (
-                    <Cell key={i} fill={entry.value > 0 ? '#f85149' : '#58a6ff'} />
-                  ))}
-                </Bar>
-              </BarChart>
-            </ResponsiveContainer>
+            <div style={{ width: '100%', height: '350px' }}>
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart
+                  data={result.chartData}
+                  layout="vertical"
+                  margin={{ top: 0, right: 40, left: 120, bottom: 0 }}
+                >
+                  <XAxis type="number" tick={{ fill: 'var(--text-secondary)', fontSize: 12 }} />
+                  <YAxis dataKey="name" type="category" tick={{ fill: 'var(--text-primary)', fontSize: 13 }} width={115} />
+                  <Tooltip content={<SHAPTooltip />} />
+                  <ReferenceLine x={0} stroke="var(--border)" />
+                  <Bar dataKey="value" radius={[0, 4, 4, 0]} isAnimationActive>
+                    {result.chartData.map((entry, i) => (
+                      <Cell key={i} fill={entry.value > 0 ? '#f85149' : '#58a6ff'} />
+                    ))}
+                  </Bar>
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
           </div>
         </>
       )}

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { getQCDashboard } from '../api';
+import { useAppContext } from '../context/AppContext';
 
 function MetricCard({ title, value, sub, accent }) {
   return (
@@ -12,15 +13,25 @@ function MetricCard({ title, value, sub, accent }) {
 }
 
 export default function QCDashboard() {
+  const { setPageContext } = useAppContext();
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
   useEffect(() => {
+    setPageContext("The user is on the QC Dashboard tab, which is currently loading QC metrics.");
     getQCDashboard()
-      .then(d => { setData(d); setLoading(false); })
-      .catch(err => { setError(err.message); setLoading(false); });
-  }, []);
+      .then(d => { 
+        setData(d); 
+        setLoading(false); 
+        setPageContext(`The user is on the QC Dashboard tab. Pipeline metrics: ${d.ingested_rows} raw rows ingested, ${d.duplicates_repaired} duplicates repaired, resulting in ${d.trusted_output_rows} trusted output rows.`);
+      })
+      .catch(err => { 
+        setError(err.message); 
+        setLoading(false); 
+        setPageContext(`The user is on the QC Dashboard tab but an error occurred while loading data: ${err.message}`);
+      });
+  }, [setPageContext]);
 
   if (loading) return (
     <div style={{ padding: 40, color: 'var(--text-secondary)' }}>⏳ Loading QC metrics…</div>

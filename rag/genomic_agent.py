@@ -8,6 +8,7 @@ import os
 from cyvcf2 import VCF
 from rag.retriever import get_retriever
 from .llm import llm_service
+from .external_apis import api_service
 from models.severity_model import predict_severity
 from models.explainability import generate_shap_explanation
 
@@ -188,19 +189,25 @@ class GenomicAgent:
         if predicted_variants:
             v = predicted_variants[0]
             query = f"HBB mutation {v['variant_type']} {v['pathogenicity']} {v['predicted_severity']}"
+            hgvs_c = f"c.{v['pos']}{v['ref']}>{v['alt']}"
         else:
             query = "Beta-Thalassemia general clinical information"
+            hgvs_c = ""
             
-        # 1. Semantic Search (Clinical KB + RAG)
+        # 4a. Semantic Search (Local Clinical KB + RAG)
         context = get_retriever().retrieve_context(query)
         
+        # 4b. Live External Clinical APIs (PubMed, MedlinePlus, HPO, PharmGKB)
+        live_api_data = api_service.gather_all_context(variant_hgvs=hgvs_c)
+        
         # 5. Generate Summary
-        summary = llm_service.generate_clinical_summary(predicted_variants, qc_data, context)
+        summary = llm_service.generate_clinical_summary(predicted_variants, qc_data, context, live_api_data)
         
         return {
             "qc": qc_data,
             "variants": predicted_variants,
             "context_retrieved": bool(context),
+            "live_api_status": "Success",
             "summary": summary
         }
 

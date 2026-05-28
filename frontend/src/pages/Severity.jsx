@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { predictSeverity } from '../api';
+import { useAppContext } from '../context/AppContext';
 
 const SEVERITY_COLORS = {
   Major:    { bg: 'rgba(218,54,51,0.15)',  color: '#f85149', icon: '🔴' },
@@ -23,6 +24,7 @@ const HBVAR_SEV_OPTIONS = ['Major', 'Intermedia', 'Minor', 'Carrier', 'Unknown']
 const VARIANT_TYPES = ['Pathogenic', 'Benign', 'single nucleotide variant'];
 
 export default function Severity() {
+  const { setPageContext } = useAppContext();
   const [formData, setFormData] = useState({
     mutation_class: 'beta0',
     zygosity:       'Homozygous',
@@ -32,6 +34,14 @@ export default function Severity() {
   const [result,  setResult]  = useState(null);
   const [loading, setLoading] = useState(false);
   const [error,   setError]   = useState(null);
+
+  useEffect(() => {
+    if (!result) {
+      setPageContext("The user is on the Disease Severity Prediction tab. They have not yet run a prediction. They are viewing the input form for mutation class and zygosity.");
+    } else {
+      setPageContext(`The user is on the Disease Severity Prediction tab. They predicted severity for a variant with Mutation Class: ${formData.mutation_class}, Zygosity: ${formData.zygosity}, HbVar: ${formData.hbvar_severity}, Type: ${formData.variant_type}. The AI engine predicted a clinical severity of "${result.severity}".`);
+    }
+  }, [result, formData, setPageContext]);
 
   const handleChange = e =>
     setFormData(prev => ({ ...prev, [e.target.name]: e.target.value }));

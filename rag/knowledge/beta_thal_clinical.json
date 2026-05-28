@@ -38,5 +38,17 @@
   {
     "topic": "ACMG Guidelines Summary",
     "content": "ACMG criteria for pathogenicity include: population frequency (very low or absent supports pathogenicity), computational predictions (e.g., CADD, SpliceAI, phyloP indicating deleterious effects), functional assay data, and clinical observations (e.g., segregation with disease). A variant is considered pathogenic if it meets specific combinations of very strong, strong, moderate, and supporting evidence."
+  },
+  {
+    "topic": "ACMG Detailed Criteria (PVS1, BA1, etc.)",
+    "content": "PVS1 (Very Strong Pathogenic): null variants (nonsense, frameshift, canonical +-1 or 2 splice sites, initiation codon, single or multi-exon deletion) in a gene where LOF is a known mechanism of disease (like HBB). BA1 (Stand-alone Benign): Allele frequency is >5% in a large population dataset like gnomAD. PM2 (Moderate Pathogenic): Absent from controls (or at extremely low frequency) in gnomAD. PP3 (Supporting Pathogenic): Multiple lines of computational evidence support a deleterious effect on the gene or gene product."
+  },
+  {
+    "topic": "TIF Guidelines (Thalassaemia International Federation)",
+    "content": "Management of Beta-Thalassemia Major according to TIF: Requires a lifelong regular blood transfusion program to maintain pre-transfusion hemoglobin levels between 9-10.5 g/dL. Because transfusions cause iron overload, regular monitoring of iron burden (via serum ferritin and MRI of liver/heart T2*) is mandatory. Iron chelation therapy (e.g., Deferasirox, Deferiprone, Deferoxamine) must be initiated once serum ferritin is >1000 ng/mL or after 10-20 transfusions to prevent fatal cardiac and hepatic complications. Fetal hemoglobin (HbF) inducers like Hydroxyurea are occasionally used, especially in Intermedia."
+  },
+  {
+    "topic": "GeneReviews Beta-Thalassemia Clinical Characteristics",
+    "content": "Beta-thalassemia is characterized by deficiency (beta+) or absence (beta0) of synthesis of the beta globin chains of hemoglobin (Hb). Beta-thalassemia major presents in the first two years of life with severe anemia, poor growth, and skeletal abnormalities. Beta-thalassemia intermedia presents later in life with mild to moderate anemia. Beta-thalassemia minor (trait) is usually clinically asymptomatic."
   }
 ]
