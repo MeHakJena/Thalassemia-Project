@@ -15,9 +15,7 @@ class ClinicalRetriever:
     def __init__(self):
         try:
             self.client = chromadb.PersistentClient(path=str(DB_DIR))
-            self.ef = embedding_functions.SentenceTransformerEmbeddingFunction(
-                model_name="all-MiniLM-L6-v2"
-            )
+            self.ef = embedding_functions.DefaultEmbeddingFunction()
             self.collection = self.client.get_collection(
                 name="genetrust_knowledge",
                 embedding_function=self.ef
