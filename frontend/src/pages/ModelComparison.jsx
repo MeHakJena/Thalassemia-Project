@@ -184,7 +184,7 @@ export default function ModelComparison() {
     </div>
   );
 
-  const { metrics, roc_fpr_grid, roc_curves, classes, n_train, n_test } = data;
+  const { metrics, roc_fpr_grid, roc_curves, classes, n_cv_samples, n_holdout } = data;
   const bestModel = metrics[0];
 
   // ── Build ROC chart data (merge all models onto shared FPR grid) ─────────
@@ -215,8 +215,8 @@ export default function ModelComparison() {
         <h1>Model Comparison Dashboard</h1>
         <p>
           Comparative evaluation of <strong>{metrics.length} ML models</strong> trained on{' '}
-          <strong>{(n_train + n_test).toLocaleString()}</strong> labeled HBB variants
-          ({n_train.toLocaleString()} train / {n_test.toLocaleString()} test).
+          <strong>{((n_cv_samples || 0) + (n_holdout || 0)).toLocaleString()}</strong> labeled HBB variants
+          ({(n_cv_samples || 0).toLocaleString()} train / {(n_holdout || 0).toLocaleString()} test).
           &nbsp;Target classes:&nbsp;
           {classes.map((c, i) => (
             <span key={c}>
