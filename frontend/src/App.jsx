@@ -7,6 +7,7 @@ import Interpretation  from './pages/Interpretation';
 import Severity        from './pages/Severity';
 import ModelComparison from './pages/ModelComparison';
 import ChatAssistant   from './pages/ChatAssistant';
+import ExploratoryAnalysis from './pages/ExploratoryAnalysis';
 import FloatingChat    from './components/FloatingChat';
 
 function App() {
@@ -29,6 +30,10 @@ function App() {
 
               <NavLink to="/qc" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
                 <Activity size={16} /> <span className="nav-text">QC</span>
+              </NavLink>
+
+              <NavLink to="/eda" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+                <BarChart2 size={16} /> <span className="nav-text">EDA</span>
               </NavLink>
 
               <NavLink to="/interpretation" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
@@ -59,6 +64,7 @@ function App() {
           <Routes>
             <Route path="/"              element={<Overview        />} />
             <Route path="/qc"            element={<QCDashboard     />} />
+            <Route path="/eda"           element={<ExploratoryAnalysis />} />
             <Route path="/interpretation"element={<Interpretation  />} />
             <Route path="/severity"      element={<Severity        />} />
             <Route path="/models"        element={<ModelComparison />} />

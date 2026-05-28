@@ -43,6 +43,9 @@ export const getDatasetOverview = () => get('/dataset_overview');
 /** QC pipeline statistics (ingestion → repair → trusted) */
 export const getQCDashboard = () => get('/qc_dashboard');
 
+/** Exploratory Data Analysis */
+export const getEdaData = () => get('/eda_data');
+
 /**
  * Predict pathogenicity for a single variant.
  * @param {{ allele_freq: number, homozygote_count: number, variant_type: string, mutation_class: string }} payload

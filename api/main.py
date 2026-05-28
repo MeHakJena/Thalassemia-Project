@@ -136,6 +136,53 @@ def get_qc_dashboard():
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"QC data error: {str(e)}")
+
+@app.get("/eda_data", tags=["Dashboard"])
+def get_eda_data():
+    """Return data for Exploratory Data Analysis (EDA) visualisations."""
+    try:
+        # Load dataset
+        data_path = BASE_DIR / 'data' / 'merged' / 'master_hbb_features.csv'
+        if not data_path.exists():
+            data_path = BASE_DIR / 'data' / 'merged' / 'master_hbb_dataset.csv'
+        df = pd.read_csv(data_path)
+        
+        # 1. Class Distribution
+        class_counts = df['pathogenicity'].value_counts().to_dict()
+        class_dist = [{"name": k, "value": v} for k, v in class_counts.items() if k != "Unknown"]
+        
+        # 2. Feature Importance (from XGBoost if loaded)
+        importance_data = []
+        if xgb_model and hasattr(xgb_model, "feature_importances_"):
+            importances = xgb_model.feature_importances_
+            # Match them with features
+            feat_imp = list(zip(features, importances))
+            feat_imp.sort(key=lambda x: x[1], reverse=True)
+            importance_data = [{"feature": f, "importance": float(i)} for f, i in feat_imp[:15]]
+            
+        # 3. Correlation Matrix (Numerical features only)
+        num_cols = ["allele_freq", "homozygote_count", "cadd_score", "phylop_score", "spliceai_score"]
+        available_num = [c for c in num_cols if c in df.columns]
+        corr_matrix = []
+        if available_num:
+            corr_df = df[available_num].fillna(0).corr()
+            for i, col1 in enumerate(available_num):
+                for j, col2 in enumerate(available_num):
+                    corr_matrix.append({
+                        "x": col1,
+                        "y": col2,
+                        "value": round(float(corr_df.loc[col1, col2]), 2)
+                    })
+                    
+        return {
+            "class_distribution": class_dist,
+            "feature_importance": importance_data,
+            "correlation_matrix": corr_matrix,
+            "numerical_columns": available_num
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"EDA data error: {str(e)}")
+
 @app.get("/model_comparison", tags=["Models"])
 def get_model_comparison():
     """Return multi-model performance metrics, ROC curve data, and confusion matrices."""
