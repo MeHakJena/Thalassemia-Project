@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
-import { Database, Activity, Stethoscope, FileSearch, BarChart2, MessageSquare } from 'lucide-react';
+import { Database, Activity, Stethoscope, FileSearch, BarChart2, MessageSquare, PieChart } from 'lucide-react';
 import Overview        from './pages/Overview';
 import QCDashboard     from './pages/QCDashboard';
 import Interpretation  from './pages/Interpretation';
@@ -33,7 +33,7 @@ function App() {
               </NavLink>
 
               <NavLink to="/eda" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
-                <BarChart2 size={16} /> <span className="nav-text">EDA</span>
+                <PieChart size={16} /> <span className="nav-text">EDA Analysis</span>
               </NavLink>
 
               <NavLink to="/interpretation" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>

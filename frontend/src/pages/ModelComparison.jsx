@@ -184,8 +184,17 @@ export default function ModelComparison() {
     </div>
   );
 
+  if (!data || !data.metrics || data.metrics.length === 0) {
+    return (
+      <div style={{ padding: 40, color: '#f85149' }}>
+        <strong>⚠ Invalid model comparison data received from server.</strong>
+        <pre style={{ fontSize: '0.8rem', marginTop: 10 }}>{JSON.stringify(data, null, 2)}</pre>
+      </div>
+    );
+  }
+
   const { metrics, roc_fpr_grid, roc_curves, classes, n_cv_samples, n_holdout } = data;
-  const bestModel = metrics[0];
+  const bestModel = metrics[0] || {};
 
   // ── Build ROC chart data (merge all models onto shared FPR grid) ─────────
   const rocChartData = roc_fpr_grid
@@ -205,7 +214,7 @@ export default function ModelComparison() {
   }));
 
   // ── Active CM model ──────────────────────────────────────────────────────
-  const cmModel = metrics.find(m => m.model === activeCMModel) ?? metrics[0];
+  const cmModel = metrics.find(m => m.model === activeCMModel) || metrics[0] || {};
 
   return (
     <div>
