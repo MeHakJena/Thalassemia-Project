@@ -100,10 +100,17 @@ export default function Interpretation() {
       {/* Header */}
       <div className="page-header">
         <h1>Variant Interpretation</h1>
-        <p>
-          Predict the pathogenicity of an HBB variant using the XGBoost classifier
-          trained on 1,929 real genomic records. SHAP values explain each prediction.
-        </p>
+        <div style={{ maxWidth: '800px', marginBottom: '20px' }}>
+          <p style={{ marginBottom: '12px' }}>
+            <strong>What is it?</strong> Variant Interpretation is the process of analyzing a specific genetic mutation (variant) to determine if it is the cause of a disease. In this application, we focus on Beta-Thalassemia variants (HBB gene).
+          </p>
+          <p style={{ marginBottom: '12px' }}>
+            <strong>How does it work?</strong> You input specific clinical characteristics of a variant, such as how common it is in the general population (Allele Frequency) and its mutation type. Our AI model—trained on 1,929 real, clinically validated genomic records from databases like ClinVar and gnomAD—then analyzes these features.
+          </p>
+          <p>
+            The model outputs a <strong>Pathogenicity Prediction</strong> (e.g., Benign, Pathogenic) indicating how likely the variant is to cause Beta-Thalassemia. It also generates a SHAP feature importance graph, explaining exactly <em>why</em> it made that prediction by showing which inputs influenced the result the most.
+          </p>
+        </div>
       </div>
 
       {/* Form */}

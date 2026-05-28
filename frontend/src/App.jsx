@@ -7,77 +7,52 @@ import Interpretation  from './pages/Interpretation';
 import Severity        from './pages/Severity';
 import ModelComparison from './pages/ModelComparison';
 import ChatAssistant   from './pages/ChatAssistant';
+import FloatingChat    from './components/FloatingChat';
 
 function App() {
   return (
     <Router>
       <div className="app-container">
+        
+        {/* ── Top Navigation Bar ────────────────────────────────────────── */}
+        <header className="top-nav-bar">
+          <div className="top-nav-content">
+            <div className="logo-section">
+              <h2>🧬 GeneTrustAI-Thal</h2>
+              <span className="badge">Beta-Thalassemia AI</span>
+            </div>
 
-        {/* ── Sidebar ─────────────────────────────────────────────────── */}
-        <aside className="sidebar">
-          <div className="sidebar-header">
-            <h2>🧬 GeneTrustAI-Thal</h2>
-            <p>Beta-Thalassemia Variant Dashboard</p>
+            <nav className="nav-tabs">
+              <NavLink to="/" end className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+                <Database size={16} /> <span className="nav-text">Overview</span>
+              </NavLink>
+
+              <NavLink to="/qc" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+                <Activity size={16} /> <span className="nav-text">QC</span>
+              </NavLink>
+
+              <NavLink to="/interpretation" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+                <Stethoscope size={16} /> <span className="nav-text">Interpretation</span>
+              </NavLink>
+
+              <NavLink to="/severity" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+                <FileSearch size={16} /> <span className="nav-text">Severity</span>
+              </NavLink>
+
+              <NavLink to="/models" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+                <BarChart2 size={16} /> <span className="nav-text">Models</span>
+              </NavLink>
+
+              <NavLink to="/chat" className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}>
+                <MessageSquare size={16} /> <span className="nav-text">Agent</span>
+              </NavLink>
+            </nav>
+            
+            <div className="nav-footer">
+              <span className="api-status">API: Online</span>
+            </div>
           </div>
-
-          <nav>
-            <NavLink
-              to="/"
-              end
-              className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
-            >
-              <Database size={17} /> Dataset Overview
-            </NavLink>
-
-            <NavLink
-              to="/qc"
-              className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
-            >
-              <Activity size={17} /> QC Dashboard
-            </NavLink>
-
-            <NavLink
-              to="/interpretation"
-              className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
-            >
-              <Stethoscope size={17} /> Variant Interpretation
-            </NavLink>
-
-            <NavLink
-              to="/severity"
-              className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
-            >
-              <FileSearch size={17} /> Severity Prediction
-            </NavLink>
-
-            {/* ── New tab ────────────────────────────────────────────── */}
-            <NavLink
-              to="/models"
-              className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
-            >
-              <BarChart2 size={17} /> Model Comparison
-            </NavLink>
-
-            <NavLink
-              to="/chat"
-              className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
-            >
-              <MessageSquare size={17} /> AI Assistant
-            </NavLink>
-          </nav>
-
-          {/* Sidebar footer */}
-          <div style={{
-            marginTop: 'auto', padding: '16px 20px',
-            borderTop: '1px solid var(--border)',
-            fontSize: '0.75rem', color: 'var(--text-secondary)',
-            lineHeight: 1.5,
-          }}>
-            <div style={{ marginBottom: 4, fontWeight: 600, color: 'var(--accent)' }}>5 ML Models</div>
-            <div>LR · RF · XGBoost · LightGBM · MLP</div>
-            <div style={{ marginTop: 4, opacity: 0.7 }}>API: localhost:8000</div>
-          </div>
-        </aside>
+        </header>
 
         {/* ── Main content ─────────────────────────────────────────────── */}
         <main className="main-content">
@@ -92,6 +67,7 @@ function App() {
         </main>
 
       </div>
+      <FloatingChat />
     </Router>
   );
 }

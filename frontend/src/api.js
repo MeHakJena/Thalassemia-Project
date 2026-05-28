@@ -60,3 +60,18 @@ export const predictSeverity = (payload) => post('/predict_severity', payload);
  * Requires models/multi_model_trainer.py to have been run first.
  */
 export const getModelComparison = () => get('/model_comparison');
+
+export const analyzeVcf = async (file) => {
+  const formData = new FormData();
+  formData.append('file', file);
+  const response = await fetch(`${BASE_URL}/analyze_vcf`, {
+    method: 'POST',
+    body: formData
+  });
+  if (!response.ok) throw new Error('VCF analysis failed');
+  return response.json();
+};
+
+export const chat = (payload) => post('/chat', payload);
+
+export const getSampleVcfUrl = () => `${BASE_URL}/sample_vcf`;

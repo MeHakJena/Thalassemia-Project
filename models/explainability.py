@@ -34,16 +34,21 @@ def generate_shap_explanation(model_path, instance_df):
     
     # Ensure shape consistency for multiclass
     if isinstance(shap_values, list):
-        # Multiclass: return the explanation for the predicted class
+        # Older shap / xgboost: list of arrays
         pred_class_idx = model.predict(X)[0]
         sv = shap_values[pred_class_idx][0]
         base_value = explainer.expected_value[pred_class_idx]
     else:
-        # Binary or single output
-        sv = shap_values[0]
-        base_value = explainer.expected_value
-        if isinstance(base_value, np.ndarray):
-            base_value = base_value[0]
+        # Newer shap: single array, might be 3D for multiclass
+        if len(shap_values.shape) == 3:
+            pred_class_idx = model.predict(X)[0]
+            sv = shap_values[0, :, pred_class_idx]
+            base_value = explainer.expected_value[pred_class_idx]
+        else:
+            sv = shap_values[0]
+            base_value = explainer.expected_value
+            if isinstance(base_value, np.ndarray):
+                base_value = base_value[0]
             
     # Ensure base_value is a scalar
     if isinstance(base_value, (list, np.ndarray)):
