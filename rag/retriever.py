@@ -1,5 +1,5 @@
 """
-RAG Retriever for GeneTrustAI-Thal.
+RAG Retriever for BETA-AI.
 Handles semantic search over the ChromaDB vector store.
 """
 

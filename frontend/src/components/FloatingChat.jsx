@@ -11,7 +11,7 @@ export default function FloatingChat() {
     {
       id: 1,
       role: 'assistant',
-      content: 'Hello! I am GeneTrustAI. How can I assist you with this application today?'
+      content: 'Hello! I am BETA-AI. How can I assist you with this application today?'
     }
   ]);
   const [input, setInput] = useState('');
@@ -90,7 +90,7 @@ export default function FloatingChat() {
           <div className="floating-chat-header">
             <Bot size={20} color="var(--accent)" />
             <div style={{ display: 'flex', flexDirection: 'column' }}>
-              <strong>GeneTrustAI Assistant</strong>
+              <strong>BETA-AI Assistant</strong>
               <span style={{ fontSize: '0.75rem', color: 'var(--success)' }}>● Online</span>
             </div>
             <button className="close-btn" onClick={() => setIsOpen(false)}>

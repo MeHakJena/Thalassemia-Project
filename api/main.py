@@ -22,7 +22,7 @@ from rag.llm import llm_service
 from rag.retriever import get_retriever
 
 app = FastAPI(
-    title="GeneTrustAI-Thal API",
+    title="BETA-AI API",
     description="AI-powered Beta-Thalassemia variant pathogenicity and severity prediction",
     version="2.0"
 )
@@ -77,7 +77,7 @@ def read_root():
     """Health check endpoint"""
     return {
         "status": "running",
-        "service": "GeneTrustAI-Thal API",
+        "service": "BETA-AI API",
         "version": "2.0",
         "model": "XGBoost (real genomic data)",
         "training_data": "1,929 HBB variants from ClinVar+gnomAD+HbVar"

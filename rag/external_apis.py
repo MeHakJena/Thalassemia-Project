@@ -1,5 +1,5 @@
 """
-External Clinical API Integrations for GeneTrustAI-Thal.
+External Clinical API Integrations for BETA-AI.
 Fetches live data from public medical APIs to enhance RAG context.
 """
 

@@ -1,5 +1,5 @@
 """
-Test script for GeneTrustAI-Thal API predictions
+Test script for BETA-AI API predictions
 """
 
 import requests

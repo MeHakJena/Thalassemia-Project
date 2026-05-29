@@ -1,5 +1,5 @@
 """
-LLM Wrapper for GeneTrustAI-Thal Chatbot.
+LLM Wrapper for BETA-AI Chatbot.
 Handles clinical summary generation and conversational Q&A.
 Supports Groq (Llama-3), OpenAI (GPT-4), or a template fallback if no keys exist.
 """
@@ -133,7 +133,7 @@ class ClinicalLLM:
     def answer_question(self, question: str, context: str, history: List[Dict]) -> str:
         """Answer a follow-up user question."""
         system_prompt = (
-            "You are GeneTrustAI-Thal, an expert clinical genomic assistant. "
+            "You are BETA-AI, an expert clinical genomic assistant. "
             "Answer the user's question about their Beta-Thalassemia VCF analysis. "
             "Use the provided clinical context if relevant. Be concise, accurate, and professional. "
             "IMPORTANT: If you pull information from the context that has a 'Source URL', you MUST provide a clickable markdown link (e.g., [Source](https://...)) for validation purposes."

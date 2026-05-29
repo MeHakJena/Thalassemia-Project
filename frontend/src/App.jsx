@@ -19,7 +19,7 @@ function App() {
         <header className="top-nav-bar">
           <div className="top-nav-content">
             <div className="logo-section">
-              <h2>🧬 GeneTrustAI-Thal</h2>
+              <h2>🧬 BETA-AI</h2>
               <span className="badge">Beta-Thalassemia AI</span>
             </div>
 

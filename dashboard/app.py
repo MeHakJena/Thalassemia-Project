@@ -6,7 +6,7 @@ import numpy as np
 import shap
 
 # --- Page Config ---
-st.set_page_config(page_title="GeneTrustAI-Thal", layout="wide", page_icon="🧬")
+st.set_page_config(page_title="BETA-AI", layout="wide", page_icon="🧬")
 
 # --- Custom CSS for Aesthetics ---
 st.markdown("""
@@ -67,7 +67,7 @@ def load_data():
 master_df, trusted_df, corrupted_df = load_data()
 
 # --- Sidebar Navigation ---
-st.sidebar.title("🧬 GeneTrustAI-Thal")
+st.sidebar.title("🧬 BETA-AI")
 st.sidebar.markdown("Explainable Self-Healing Genomic Variant Interpretation Dashboard for Beta-Thalassemia")
 page = st.sidebar.radio("Navigation", [
     "Dataset Overview", 

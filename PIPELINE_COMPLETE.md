@@ -1,10 +1,10 @@
-# 🧬 GeneTrustAI-Thal: Complete Genomic ML Pipeline
+# 🧬 BETA-AI: Complete Genomic ML Pipeline
 
 ## ✅ Pipeline Status: OPERATIONAL
 
 ### 📊 Overview
 
-GeneTrustAI-Thal is now a **production-ready genomic AI system** for predicting Beta-Thalassemia variant pathogenicity and severity. The pipeline processes real genomic data from ClinVar, gnomAD, and HbVar, trains machine learning models, and serves predictions via FastAPI.
+BETA-AI is now a **production-ready genomic AI system** for predicting Beta-Thalassemia variant pathogenicity and severity. The pipeline processes real genomic data from ClinVar, gnomAD, and HbVar, trains machine learning models, and serves predictions via FastAPI.
 
 ---
 
@@ -203,7 +203,7 @@ Note: Model accuracy is baseline (21-42% depending on class weighting). This is 
 
 ## ✨ Summary
 
-**GeneTrustAI-Thal** is now a fully functional genomic ML system that:
+**BETA-AI** is now a fully functional genomic ML system that:
 - ✅ Parses real VCF data at scale
 - ✅ Integrates multiple genomic databases
 - ✅ Trains interpretable ML models

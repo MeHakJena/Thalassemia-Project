@@ -214,3 +214,80 @@ INFO:     Finished server process [71999]
 INFO:     Started server process [72042]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'api/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [72042]
+INFO:     Started server process [73230]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'api/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [73230]
+INFO:     Started server process [80687]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'rag/genomic_agent.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [80687]
+INFO:     Started server process [80762]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'export_codebase.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [80762]
+INFO:     Started server process [81809]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'models/multi_model_trainer.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [81809]
+INFO:     Started server process [99320]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'api/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [99320]
+INFO:     Started server process [99488]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+  ✓ LLM: Using Groq (Llama 3.3)
+✓ Loaded model from /Users/mehakjena/Desktop/Thalassemia/models/saved_models/pathogenicity_model.pkl
+✓ Loaded real genomic model (trained on 1,929 HBB variants)
+INFO:     127.0.0.1:59849 - "GET /eda_data HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'get_eda_stats.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [99488]
+INFO:     Started server process [26340]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'generate_corr_heatmap.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [26340]
+INFO:     Started server process [43201]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'rename_tool.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43201]
+WARNING:  WatchFiles detected changes in 'test_api.py', 'rag/llm.py', 'rag/retriever.py', 'demo.py', 'api/main.py', 'rag/genomic_agent.py', 'rag/external_apis.py', 'dashboard/app.py', 'etl/feature_engineering.py', 'rag/build_kb.py'. Reloading...
+INFO:     Started server process [5138]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

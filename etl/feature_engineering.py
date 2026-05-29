@@ -1,5 +1,5 @@
 """
-Feature engineering pipeline for GeneTrustAI-Thal.
+Feature engineering pipeline for BETA-AI.
 
 Extracts predictive features from existing raw files (no new downloads needed):
 

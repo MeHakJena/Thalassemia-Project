@@ -25,3 +25,4 @@ firebase-debug.log*
 # Data/DB
 data/temp_upload.vcf
 data/raw/
+project_codebase.txt

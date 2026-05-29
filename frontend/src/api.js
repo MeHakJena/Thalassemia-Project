@@ -1,5 +1,5 @@
 /**
- * Centralised API service layer for GeneTrustAI-Thal.
+ * Centralised API service layer for BETA-AI.
  *
  * All HTTP calls go through here.  To point the frontend at a different
  * backend (staging, cloud, etc.) simply change VITE_API_BASE_URL in .env —

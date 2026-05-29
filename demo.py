@@ -1,5 +1,5 @@
 """
-End-to-end test demonstrating the complete GeneTrustAI-Thal pipeline
+End-to-end test demonstrating the complete BETA-AI pipeline
 """
 
 import subprocess

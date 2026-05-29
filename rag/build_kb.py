@@ -1,5 +1,5 @@
 """
-Knowledge Base Builder for GeneTrustAI-Thal.
+Knowledge Base Builder for BETA-AI.
 
 Indexes multiple sources into ChromaDB for RAG retrieval:
 1. Clinical Knowledge (beta_thal_clinical.json)

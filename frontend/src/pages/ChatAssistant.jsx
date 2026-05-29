@@ -13,7 +13,7 @@ export default function ChatAssistant() {
     {
       id: 1,
       role: 'assistant',
-      content: 'Hello! I am GeneTrustAI, your clinical genomic assistant. Please upload a patient VCF file to begin analysis.'
+      content: 'Hello! I am BETA-AI, your clinical genomic assistant. Please upload a patient VCF file to begin analysis.'
     }
   ]);
   const [input, setInput] = useState('');
@@ -251,7 +251,7 @@ export default function ChatAssistant() {
         <div style={{ padding: '16px 24px', borderBottom: '1px solid var(--border)', display: 'flex', alignItems: 'center', gap: 12, backgroundColor: 'var(--surface)' }}>
           <Bot size={24} color="var(--accent)" />
           <div>
-            <div style={{ fontWeight: 600 }}>GeneTrustAI Assistant</div>
+            <div style={{ fontWeight: 600 }}>BETA-AI Assistant</div>
             <div style={{ fontSize: '0.8rem', color: 'var(--success)' }}>● Online</div>
           </div>
         </div>

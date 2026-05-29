@@ -1,5 +1,5 @@
 """
-Genomic Agent for GeneTrustAI-Thal.
+Genomic Agent for BETA-AI.
 Orchestrates the entire VCF → QC → Predict → RAG → LLM pipeline.
 """
 
