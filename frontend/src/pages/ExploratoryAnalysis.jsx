@@ -54,13 +54,26 @@ export default function ExploratoryAnalysis() {
   const { numerical_columns, correlation_matrix, feature_importance, class_distribution } = data;
   
   const getHeatmapColor = (value) => {
-    // Value is between -1 and 1
-    // Let's use red for positive, blue for negative
-    if (value > 0) {
-      return `rgba(239, 68, 68, ${Math.abs(value)})`; // Red
+    // Coolwarm interpolation: Blue (-1) -> Light Grey (0) -> Red (1)
+    let r, g, b;
+    if (value < 0) {
+      // Interpolate between Blue (63, 96, 160) and Light Grey (247, 247, 247)
+      const pct = 1 - Math.abs(value);
+      r = Math.round(63 + (247 - 63) * pct);
+      g = Math.round(96 + (247 - 96) * pct);
+      b = Math.round(160 + (247 - 160) * pct);
     } else {
-      return `rgba(59, 130, 246, ${Math.abs(value)})`; // Blue
+      // Interpolate between Light Grey (247, 247, 247) and Red (178, 24, 43)
+      const pct = value;
+      r = Math.round(247 + (178 - 247) * pct);
+      g = Math.round(247 + (24 - 247) * pct);
+      b = Math.round(247 + (43 - 247) * pct);
     }
+    return `rgb(${r}, ${g}, ${b})`;
+  };
+
+  const getTextColor = (value) => {
+    return Math.abs(value) > 0.4 ? '#ffffff' : '#333333';
   };
 
   return (
@@ -151,8 +164,8 @@ export default function ExploratoryAnalysis() {
           {numerical_columns.length > 0 ? (
             <div style={{ 
               display: 'grid', 
-              gridTemplateColumns: `120px repeat(${numerical_columns.length}, 80px)`,
-              gap: 2 
+              gridTemplateColumns: `120px repeat(${numerical_columns.length}, 44px)`,
+              gap: 1 
             }}>
               {/* Header row */}
               <div /> 
@@ -194,13 +207,14 @@ export default function ExploratoryAnalysis() {
                           display: 'flex',
                           alignItems: 'center',
                           justifyContent: 'center',
-                          fontSize: '0.75rem',
-                          color: Math.abs(val) > 0.5 ? 'white' : 'var(--text-primary)',
-                          height: 60,
-                          borderRadius: 4
+                          fontSize: '0.65rem',
+                          color: getTextColor(val),
+                          height: 44,
+                          width: 44,
+                          fontWeight: 500
                         }}
                       >
-                        {val.toFixed(2)}
+                        {val === 1 ? '1.0' : val.toFixed(2).replace('0.', '.').replace('-0.', '-.')}
                       </div>
                     );
                   })}
